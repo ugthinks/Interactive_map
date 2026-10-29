@@ -1,0 +1,1273 @@
+/* ==========================================================================
+   INDIA, SERVED THROUGH TIME — MASTER STYLESHEET
+   Digital Humanities Culinary Atlas (1700 - 2020)
+   ========================================================================== */
+
+:root {
+  /* Core Imperial Palette */
+  --gold-primary: #d4af37;
+  --gold-glow: rgba(212, 175, 55, 0.4);
+  --gold-light: #f3e5ab;
+  --gold-deep: #997a15;
+  --brass-dark: #3a2e1d;
+  --ivory-dial: #f7f2e4;
+  --parchment-base: #181512;
+  --parchment-card: rgba(28, 23, 19, 0.88);
+  --parchment-border: rgba(212, 175, 55, 0.35);
+  --text-primary: #f5eedc;
+  --text-secondary: #c8b99d;
+  --text-muted: #8d7e67;
+  --crimson-accent: #9b2226;
+  --saffron-accent: #e07a1e;
+  
+  /* Map Styling Tokens */
+  --map-bg: #14110e;
+  --state-fill: #221c17;
+  --state-stroke: #5a4933;
+  --state-hover-fill: #3e3223;
+  --state-hover-stroke: #d4af37;
+  --state-active-fill: #4d3a22;
+  --state-active-stroke: #f3e5ab;
+  --state-dimmed: #120f0d;
+
+  /* Typography */
+  --font-imperial: 'Cinzel Decorative', 'Cinzel', serif;
+  --font-title: 'Cinzel', serif;
+  --font-editorial: 'Playfair Display', serif;
+  --font-narrative: 'Cormorant Garamond', Georgia, serif;
+  --font-ui: 'Outfit', -apple-system, sans-serif;
+
+  /* Transitions */
+  --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-era: background 0.8s ease, color 0.6s ease, border-color 0.6s ease;
+}
+
+/* ==========================================================================
+   HISTORICAL ERA THEMES (Dynamic Atmosphere Shifts Across Centuries)
+   ========================================================================== */
+
+/* 1700: Mughal & Maratha Zenith — Antique Warm Parchment & Candlelight */
+body.theme-1700 {
+  --map-bg: #130f0c;
+  --state-fill: #201a15;
+  --state-stroke: #5c4730;
+  --state-hover-fill: #3b2c1d;
+  --state-hover-stroke: #d4af37;
+  --gold-primary: #d4af37;
+  --gold-glow: rgba(212, 175, 55, 0.45);
+  background-color: #130f0c;
+}
+
+/* 1765: Nawab Dum Pukht & Company Raj — Copperplate Etching & Warm Amber */
+body.theme-1765 {
+  --map-bg: #15110e;
+  --state-fill: #231b16;
+  --state-stroke: #734e32;
+  --state-hover-fill: #422d20;
+  --state-hover-stroke: #e28c46;
+  --gold-primary: #e28c46;
+  --gold-glow: rgba(226, 140, 70, 0.45);
+  background-color: #15110e;
+}
+
+/* 1857: Victorian Raj & Iron Railways — Slate & Prussian Ink with Steel Lines */
+body.theme-1857 {
+  --map-bg: #0f1418;
+  --state-fill: #192127;
+  --state-stroke: #3b5364;
+  --state-hover-fill: #253947;
+  --state-hover-stroke: #86b4d0;
+  --gold-primary: #86b4d0;
+  --gold-glow: rgba(134, 180, 208, 0.45);
+  background-color: #0f1418;
+}
+
+/* 1911: Princely Banquets & Swadeshi — Terracotta Lithograph & Royal Crests */
+body.theme-1911 {
+  --map-bg: #17110e;
+  --state-fill: #271a15;
+  --state-stroke: #6f3e28;
+  --state-hover-fill: #4a2b1f;
+  --state-hover-stroke: #d96f43;
+  --gold-primary: #d96f43;
+  --gold-glow: rgba(217, 111, 67, 0.45);
+  background-color: #17110e;
+}
+
+/* 1947: Partition Hearth & Tandoor Revolution — Mid-Century Saffron & Amber */
+body.theme-1947 {
+  --map-bg: #16120c;
+  --state-fill: #261e14;
+  --state-stroke: #785226;
+  --state-hover-fill: #4b361e;
+  --state-hover-stroke: #f19d38;
+  --gold-primary: #f19d38;
+  --gold-glow: rgba(241, 157, 56, 0.45);
+  background-color: #16120c;
+}
+
+/* 1980: Green Revolution & Street Food Era — Vibrant Turmeric & Cumin */
+body.theme-1980 {
+  --map-bg: #14120a;
+  --state-fill: #252012;
+  --state-stroke: #6f5d23;
+  --state-hover-fill: #463b19;
+  --state-hover-stroke: #e9bc35;
+  --gold-primary: #e9bc35;
+  --gold-glow: rgba(233, 188, 53, 0.45);
+  background-color: #14120a;
+}
+
+/* 2020: Hyper-Local Revival & Modern Gastronomy — Obsidian & Luminous Gold */
+body.theme-2020 {
+  --map-bg: #0c0c0f;
+  --state-fill: #16161c;
+  --state-stroke: #3c3b4a;
+  --state-hover-fill: #2b2a3a;
+  --state-hover-stroke: #f5c542;
+  --gold-primary: #f5c542;
+  --gold-glow: rgba(245, 197, 66, 0.55);
+  background-color: #0c0c0f;
+}
+
+/* ==========================================================================
+   RESET & VIEWPORT
+   ========================================================================== */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--map-bg);
+  color: var(--text-primary);
+  font-family: var(--font-ui);
+  user-select: none;
+  transition: var(--transition-era);
+}
+
+.atlas-viewport {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+}
+
+/* Texture overlay for subtle parchment/antique tactile feel */
+.atlas-viewport::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: radial-gradient(circle at 50% 50%, transparent 40%, rgba(0, 0, 0, 0.6) 100%),
+                    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.015) 0px, rgba(255, 255, 255, 0.015) 1px, transparent 1px, transparent 2px);
+  mix-blend-mode: overlay;
+  z-index: 5;
+}
+
+/* ==========================================================================
+   THE INDIA MAP CANVAS (Edge-to-Edge Experience)
+   ========================================================================== */
+
+.map-viewport {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: grab;
+}
+
+.map-viewport:active {
+  cursor: grabbing;
+}
+
+.map-canvas-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.india-svg-map {
+  width: 100%;
+  height: 100%;
+  max-width: 100vw;
+  max-height: 100vh;
+  filter: drop-shadow(0 15px 40px rgba(0, 0, 0, 0.8));
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* State Paths & Geographic Outlines */
+.state-path {
+  fill: var(--state-fill);
+  stroke: var(--state-stroke);
+  stroke-width: 0.9px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  cursor: pointer;
+  transition: fill 0.35s ease, stroke 0.35s ease, stroke-width 0.35s ease, filter 0.35s ease;
+}
+
+.state-path:hover,
+.state-path.is-hovered {
+  fill: var(--state-hover-fill);
+  stroke: var(--state-hover-stroke);
+  stroke-width: 2.2px;
+  filter: drop-shadow(0 0 12px var(--gold-glow));
+}
+
+.state-path.is-selected {
+  fill: var(--state-active-fill);
+  stroke: var(--state-active-stroke);
+  stroke-width: 3px;
+  filter: drop-shadow(0 0 25px var(--gold-glow));
+}
+
+.state-path.is-dimmed {
+  fill: var(--state-dimmed);
+  stroke: rgba(80, 70, 55, 0.3);
+  opacity: 0.25;
+  cursor: default;
+}
+
+/* Island & Territory Markers */
+.territory-pin {
+  cursor: pointer;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.territory-pin circle {
+  fill: var(--gold-primary);
+  stroke: #ffffff;
+  stroke-width: 1.5;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.8));
+}
+
+.territory-pin:hover {
+  transform: scale(1.35);
+}
+
+.territory-pin:hover circle {
+  fill: #fff;
+  stroke: var(--gold-primary);
+}
+
+.territory-label {
+  font-family: var(--font-title);
+  font-size: 8px;
+  font-weight: 700;
+  fill: var(--text-primary);
+  text-anchor: middle;
+  pointer-events: none;
+  filter: drop-shadow(0 1px 3px #000);
+  letter-spacing: 0.5px;
+}
+
+/* Compass Rose in Bay of Bengal */
+.compass-rose {
+  pointer-events: none;
+  opacity: 0.45;
+  transition: opacity 0.5s ease;
+}
+
+.compass-rose:hover {
+  opacity: 0.85;
+}
+
+/* Sea Graticules & Latitude/Longitude Lines */
+.graticule-line {
+  fill: none;
+  stroke: rgba(212, 175, 55, 0.12);
+  stroke-dasharray: 2, 4;
+}
+
+/* ==========================================================================
+   HISTORICAL EPOCH MASTHEAD (Top Left)
+   ========================================================================== */
+
+.era-masthead {
+  position: absolute;
+  top: 28px;
+  left: 36px;
+  max-width: 440px;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.masthead-badge {
+  background: linear-gradient(135deg, rgba(25, 20, 16, 0.85) 0%, rgba(15, 12, 10, 0.92) 100%);
+  border: 1px solid var(--parchment-border);
+  border-radius: 8px;
+  padding: 20px 24px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  pointer-events: auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.masthead-badge::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(180deg, var(--gold-primary), transparent);
+}
+
+.masthead-pre {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  color: var(--gold-primary);
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.masthead-title {
+  font-family: var(--font-imperial);
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: 1.2px;
+  color: #fff;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+}
+
+.masthead-era-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.masthead-year {
+  font-family: var(--font-imperial);
+  font-size: 26px;
+  font-weight: 900;
+  color: var(--gold-primary);
+  letter-spacing: 1px;
+  text-shadow: 0 0 12px var(--gold-glow);
+}
+
+.masthead-divider {
+  color: var(--gold-primary);
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.masthead-era-name {
+  font-family: var(--font-editorial);
+  font-size: 14.5px;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--text-primary);
+  line-height: 1.2;
+}
+
+.masthead-chronicle {
+  font-family: var(--font-narrative);
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   VINTAGE POCKET-WATCH TIME INSTRUMENT (Upper Right Floating)
+   ========================================================================== */
+
+.pocket-watch-instrument {
+  position: absolute;
+  top: 20px;
+  right: 32px;
+  width: 280px;
+  height: 330px;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  pointer-events: auto;
+}
+
+/* Decorative Gold Watch Chain */
+.watch-chain-svg {
+  position: absolute;
+  top: -15px;
+  right: 60px;
+  width: 140px;
+  height: 80px;
+  pointer-events: none;
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.8));
+}
+
+/* Winding Crown & Top Bow */
+.watch-crown-wrap {
+  position: relative;
+  width: 44px;
+  height: 32px;
+  margin-bottom: -6px;
+  z-index: 22;
+  cursor: pointer;
+}
+
+.watch-crown-bow {
+  width: 38px;
+  height: 22px;
+  border: 4px solid #b89130;
+  border-bottom: none;
+  border-radius: 20px 20px 0 0;
+  margin: 0 auto;
+  box-shadow: inset 0 2px 3px rgba(255, 255, 255, 0.4), 0 3px 6px rgba(0, 0, 0, 0.6);
+  background: linear-gradient(180deg, #d4af37 0%, #8f6e1e 100%);
+}
+
+.watch-crown-knob {
+  width: 22px;
+  height: 14px;
+  margin: -2px auto 0;
+  background: repeating-linear-gradient(90deg, #7c5b16, #7c5b16 2px, #f1d279 3px, #f1d279 4px);
+  border-radius: 3px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+  border: 1px solid #5a4210;
+}
+
+/* The Watch Case (Circular Casing) */
+.watch-case {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  /* Beveled Antique Gold / Aged Brass Rim */
+  background: radial-gradient(circle at 35% 30%, #f6e29a 0%, #d4af37 25%, #8b681e 65%, #42300b 100%);
+  padding: 12px;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.85),
+              inset 0 2px 6px rgba(255, 255, 255, 0.6),
+              inset 0 -4px 8px rgba(0, 0, 0, 0.8),
+              0 0 0 2px #50390f;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.watch-case:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.9), 0 0 30px var(--gold-glow);
+}
+
+/* Inner Engraved Bezel Ring */
+.watch-inner-bezel {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  border: 2px dashed rgba(80, 55, 15, 0.5);
+  padding: 4px;
+  background: radial-gradient(circle at 40% 40%, #e8c76b 0%, #9c7520 80%, #583f0c 100%);
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* The Enamel Dial Face */
+.watch-dial {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: radial-gradient(circle at 45% 45%, #fffdf5 0%, #f7f1dd 50%, #e2d3b2 85%, #cfbe98 100%);
+  box-shadow: inset 0 3px 12px rgba(80, 60, 20, 0.35), inset 0 0 20px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  cursor: grab;
+}
+
+.watch-dial:active {
+  cursor: grabbing;
+}
+
+/* Watch Dial SVG (Minute markers, Roman indices, Stations, Hand) */
+.watch-dial-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* Antique Mechanical Hand */
+.watch-hand-group {
+  transform-origin: 100px 100px;
+  transition: transform 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.2);
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.45));
+}
+
+.watch-hand-pointer {
+  fill: #192738; /* Blued steel */
+  stroke: #0a111a;
+  stroke-width: 0.5;
+}
+
+.watch-center-cap {
+  fill: radial-gradient(circle, #f5d475 0%, #99731d 100%);
+  stroke: #3d2a07;
+  stroke-width: 0.8;
+}
+
+.watch-ruby-pivot {
+  fill: #9b2226;
+  filter: drop-shadow(0 0 2px rgba(255, 0, 0, 0.6));
+}
+
+/* Era Stations on Dial */
+.dial-station {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.dial-station:hover {
+  filter: drop-shadow(0 0 5px var(--gold-primary));
+}
+
+.dial-station-rivet {
+  fill: #b38827;
+  stroke: #45310a;
+  stroke-width: 0.6;
+  transition: fill 0.3s ease;
+}
+
+.dial-station.active .dial-station-rivet {
+  fill: #9b2226;
+  stroke: #ffd700;
+  stroke-width: 1.2;
+}
+
+.dial-station-label {
+  font-family: var(--font-imperial);
+  font-size: 7px;
+  font-weight: 700;
+  fill: #4a3617;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.dial-station.active .dial-station-label {
+  fill: #9b2226;
+  font-weight: 900;
+}
+
+/* Watch Stepper Controls Underneath */
+.watch-controls-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.watch-stepper-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: rgba(25, 20, 16, 0.88);
+  border: 1px solid var(--parchment-border);
+  color: var(--text-primary);
+  font-family: var(--font-title);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 20px;
+  cursor: pointer;
+  backdrop-filter: blur(8px);
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.watch-stepper-btn:hover {
+  background: var(--gold-primary);
+  color: #120e0a;
+  border-color: #fff;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 15px var(--gold-glow);
+}
+
+.watch-stepper-btn svg {
+  width: 12px;
+  height: 12px;
+}
+
+/* ==========================================================================
+   STATE IMMERSIVE WORLD CANVAS (Dramatic Silhouette & Culinary Realm)
+   ========================================================================== */
+
+.state-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 15;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.6s ease;
+}
+
+.state-canvas.is-active {
+  pointer-events: auto;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Darkened Backdrop for State Immersion */
+.state-canvas-backdrop {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 50% 50%, rgba(15, 12, 10, 0.75) 0%, rgba(8, 7, 6, 0.94) 100%);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 1;
+}
+
+/* Return Seal (Top Left) */
+.return-seal-btn {
+  position: absolute;
+  top: 28px;
+  left: 36px;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: linear-gradient(135deg, rgba(35, 28, 22, 0.95), rgba(18, 14, 11, 0.95));
+  border: 1px solid var(--gold-primary);
+  color: var(--text-primary);
+  padding: 10px 18px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-family: var(--font-title);
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7), 0 0 15px var(--gold-glow);
+  transition: all 0.3s ease;
+}
+
+.return-seal-btn:hover {
+  background: var(--gold-primary);
+  color: #120e0a;
+  transform: translateX(-3px);
+  box-shadow: 0 15px 30px var(--gold-glow);
+}
+
+.return-seal-compass {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+/* The Dominant Enlarged State Silhouette Container */
+.state-stage-wrapper {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 80px 320px 80px 40px; /* Right margin preserves pocket watch */
+  z-index: 10;
+  gap: 40px;
+}
+
+/* Left Panel: State Soul & Story */
+.state-story-column {
+  flex: 0 0 420px;
+  max-width: 440px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 12;
+  overflow-y: auto;
+  padding-right: 15px;
+}
+
+/* Custom Scrollbar for Story Column */
+.state-story-column::-webkit-scrollbar {
+  width: 4px;
+}
+.state-story-column::-webkit-scrollbar-thumb {
+  background: var(--parchment-border);
+  border-radius: 4px;
+}
+
+.state-meta-tag {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--gold-primary);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.state-hero-title {
+  font-family: var(--font-imperial);
+  font-size: 34px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.15;
+  margin-bottom: 8px;
+  text-shadow: 0 3px 12px rgba(0, 0, 0, 0.9);
+}
+
+.state-culinary-tagline {
+  font-family: var(--font-editorial);
+  font-size: 17px;
+  font-weight: 600;
+  font-style: italic;
+  color: var(--gold-light);
+  line-height: 1.35;
+  margin-bottom: 18px;
+}
+
+.state-era-banner {
+  background: rgba(40, 32, 24, 0.7);
+  border-left: 3px solid var(--gold-primary);
+  padding: 12px 16px;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 20px;
+}
+
+.state-era-heading {
+  font-family: var(--font-title);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gold-primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.state-era-prose {
+  font-family: var(--font-narrative);
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+/* Indigenous Spice & Produce Pantry */
+.state-pantry-wrap {
+  margin-bottom: 24px;
+}
+
+.pantry-label {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.pantry-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+}
+
+.pantry-tag-chip {
+  background: rgba(50, 40, 30, 0.7);
+  border: 1px solid var(--parchment-border);
+  padding: 4px 10px;
+  border-radius: 14px;
+  font-family: var(--font-ui);
+  font-size: 11.5px;
+  font-weight: 500;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.pantry-tag-chip::before {
+  content: '✦';
+  font-size: 8px;
+  color: var(--gold-primary);
+}
+
+/* Center-Right: Hero Culinary Dish Exhibition */
+.state-dish-column {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 12;
+  position: relative;
+}
+
+/* Expanded State Silhouette Watermark behind food */
+.state-watermark-svg {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  opacity: 0.18;
+  pointer-events: none;
+  filter: drop-shadow(0 0 50px var(--gold-glow));
+  z-index: 1;
+}
+
+.state-watermark-svg path {
+  fill: none;
+  stroke: var(--gold-primary);
+  stroke-width: 2px;
+}
+
+/* Dish Showcase Exhibition Card */
+.dish-showcase-card {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 580px;
+  background: linear-gradient(145deg, rgba(32, 25, 20, 0.94) 0%, rgba(18, 14, 11, 0.97) 100%);
+  border: 1px solid var(--gold-primary);
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.9), 0 0 25px var(--gold-glow);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  animation: cardFadeIn 0.5s ease-out;
+}
+
+@keyframes cardFadeIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.dish-image-hero {
+  position: relative;
+  width: 100%;
+  height: 270px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 18px;
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.7);
+}
+
+.dish-image-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s ease;
+}
+
+.dish-image-hero:hover img {
+  transform: scale(1.04);
+}
+
+.dish-tag-badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  background: rgba(18, 14, 11, 0.88);
+  border: 1px solid var(--gold-primary);
+  color: var(--gold-primary);
+  font-family: var(--font-title);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 12px;
+  letter-spacing: 1px;
+  backdrop-filter: blur(6px);
+}
+
+.dish-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 6px;
+}
+
+.dish-name {
+  font-family: var(--font-editorial);
+  font-size: 24px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: 0.5px;
+}
+
+.dish-origin {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--gold-primary);
+  letter-spacing: 1px;
+}
+
+.dish-flavor-badge {
+  display: inline-block;
+  font-family: var(--font-editorial);
+  font-style: italic;
+  font-size: 14px;
+  color: var(--gold-light);
+  margin-bottom: 12px;
+}
+
+.dish-description {
+  font-family: var(--font-narrative);
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+  margin-bottom: 14px;
+}
+
+.dish-anecdote {
+  background: rgba(20, 16, 12, 0.8);
+  border-left: 2px solid var(--gold-primary);
+  padding: 10px 14px;
+  border-radius: 0 6px 6px 0;
+  font-family: var(--font-narrative);
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.45;
+  color: #eeddbb;
+}
+
+/* Dish Selector Tabs (If multiple dishes available in this era) */
+.dish-selector-tabs {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.dish-tab-btn {
+  background: rgba(40, 32, 24, 0.7);
+  border: 1px solid var(--parchment-border);
+  color: var(--text-secondary);
+  padding: 6px 14px;
+  border-radius: 16px;
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.dish-tab-btn:hover {
+  border-color: var(--gold-primary);
+  color: #fff;
+}
+
+.dish-tab-btn.active {
+  background: var(--gold-primary);
+  color: #120e0a;
+  border-color: #fff;
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   FLOATING HOVER PREVIEW (Lightweight, Non-Obstructive Tooltip)
+   ========================================================================== */
+
+.hover-preview {
+  position: absolute;
+  z-index: 100;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-50%, -120%);
+  transition: opacity 0.2s ease, transform 0.15s ease-out, visibility 0.2s ease;
+}
+
+.hover-preview.is-visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.preview-card {
+  width: 260px;
+  background: linear-gradient(135deg, rgba(28, 22, 17, 0.96) 0%, rgba(16, 12, 9, 0.98) 100%);
+  border: 1px solid var(--gold-primary);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 20px var(--gold-glow);
+  backdrop-filter: blur(14px);
+  cursor: pointer;
+  pointer-events: auto;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.preview-card:hover {
+  transform: scale(1.02);
+  border-color: #fff;
+}
+
+.preview-img-wrap {
+  position: relative;
+  width: 100%;
+  height: 110px;
+  overflow: hidden;
+  background: #111;
+}
+
+.preview-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.preview-era-tag {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: rgba(0, 0, 0, 0.8);
+  border: 1px solid var(--gold-primary);
+  color: var(--gold-primary);
+  font-family: var(--font-imperial);
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 8px;
+}
+
+.preview-content {
+  padding: 12px 14px;
+}
+
+.preview-region {
+  font-family: var(--font-ui);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--gold-primary);
+  text-transform: uppercase;
+}
+
+.preview-title {
+  font-family: var(--font-imperial);
+  font-size: 16px;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.2;
+  margin: 2px 0 4px;
+}
+
+.preview-dish {
+  font-family: var(--font-editorial);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gold-light);
+  line-height: 1.2;
+}
+
+.preview-flavor {
+  font-family: var(--font-narrative);
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  line-height: 1.35;
+  margin: 4px 0 8px;
+}
+
+.preview-cta {
+  display: block;
+  font-family: var(--font-ui);
+  font-size: 10.5px;
+  font-weight: 700;
+  color: var(--gold-primary);
+  letter-spacing: 0.5px;
+}
+
+/* ==========================================================================
+   ISLANDS & TERRITORIES ACCESSIBILITY DOCK (Bottom Left)
+   ========================================================================== */
+
+.islands-dock {
+  position: absolute;
+  bottom: 24px;
+  left: 36px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(22, 17, 13, 0.85);
+  border: 1px solid var(--parchment-border);
+  padding: 8px 16px;
+  border-radius: 30px;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+}
+
+.dock-label {
+  font-family: var(--font-ui);
+  font-size: 10.5px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.state-quick-select-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.state-select-dropdown {
+  background: rgba(30, 24, 18, 0.95);
+  border: 1px solid var(--parchment-border);
+  color: var(--gold-light);
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 12px;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  max-width: 170px;
+}
+
+.state-select-dropdown:hover,
+.state-select-dropdown:focus {
+  border-color: var(--gold-primary);
+  box-shadow: 0 0 10px var(--gold-glow);
+  color: #fff;
+}
+
+.dock-divider {
+  color: var(--parchment-border);
+  font-size: 12px;
+  opacity: 0.5;
+  margin: 0 4px;
+}
+
+.dock-chips {
+  display: flex;
+  gap: 6px;
+  overflow-x: auto;
+  max-width: 500px;
+}
+
+.dock-chip {
+  background: rgba(45, 36, 26, 0.75);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  color: var(--text-secondary);
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 12px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.dock-chip:hover,
+.dock-chip.active {
+  background: var(--gold-primary);
+  color: #120e0a;
+  border-color: #fff;
+  font-weight: 700;
+  box-shadow: 0 0 10px var(--gold-glow);
+}
+
+/* ==========================================================================
+   SENSORY & AUDIO CONTROLS (Bottom Right)
+   ========================================================================== */
+
+.sensory-bar {
+  position: absolute;
+  bottom: 24px;
+  right: 32px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.help-hint {
+  font-family: var(--font-narrative);
+  font-size: 13.5px;
+  font-style: italic;
+  color: var(--text-muted);
+  letter-spacing: 0.3px;
+  pointer-events: none;
+}
+
+.sensory-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(22, 17, 13, 0.85);
+  border: 1px solid var(--parchment-border);
+  color: var(--text-secondary);
+  padding: 7px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  backdrop-filter: blur(8px);
+  transition: all 0.25s ease;
+}
+
+.sensory-btn:hover {
+  background: rgba(45, 35, 24, 0.95);
+  color: var(--gold-primary);
+  border-color: var(--gold-primary);
+}
+
+.sound-icon {
+  width: 14px;
+  height: 14px;
+}
+
+/* ==========================================================================
+   RESPONSIVE DESIGN (Tablets & Mobile)
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .pocket-watch-instrument {
+    width: 220px;
+    height: 270px;
+    top: 15px;
+    right: 15px;
+  }
+  .watch-case {
+    width: 190px;
+    height: 190px;
+    padding: 8px;
+  }
+  .era-masthead {
+    top: 15px;
+    left: 15px;
+    max-width: 340px;
+  }
+  .masthead-title {
+    font-size: 18px;
+  }
+  .masthead-chronicle {
+    display: none;
+  }
+  .state-stage-wrapper {
+    flex-direction: column;
+    padding: 70px 20px 20px;
+    overflow-y: auto;
+  }
+  .state-story-column {
+    flex: none;
+    max-width: 100%;
+    height: auto;
+  }
+}

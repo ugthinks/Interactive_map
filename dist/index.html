@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>INDIA, SERVED THROUGH TIME — An Interactive Culinary Atlas of India (1700–2020)</title>
+  <meta name="description" content="An extraordinary digital humanities atlas exploring how India's regional cuisines evolved from the 1700s to 2020 across all states and Union Territories." />
+  
+  <!-- Google Fonts: Imperial Cartography, Editorial Serif, and Modern UI -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@500;600;700;800&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,400;1,700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <script type="module" crossorigin src="/assets/index-BGEyfbX8.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-CjqrTE3j.css">
+</head>
+<body class="theme-1700">
+  <div id="app" class="atlas-viewport">
+    
+    <!-- Antique Map Canvas (Fills entire screen edge-to-edge) -->
+    <main id="map-viewport" class="map-viewport" role="region" aria-label="Geographic Culinary Atlas of India">
+      <div id="map-container" class="map-canvas-container">
+        <!-- SVG Map will be dynamically rendered here with high-precision paths -->
+      </div>
+    </main>
+
+    <!-- Historical Epoch Masthead (Top Left: Minimalist museum title and active era narrative) -->
+    <header id="era-masthead" class="era-masthead" role="banner">
+      <div class="masthead-badge">
+        <span class="masthead-pre">HISTORICAL GASTRONOMY ARCHIVE</span>
+        <h1 class="masthead-title">INDIA, SERVED THROUGH TIME</h1>
+        <div class="masthead-era-row">
+          <span class="masthead-year" id="masthead-year">1700</span>
+          <span class="masthead-divider">✦</span>
+          <span class="masthead-era-name" id="masthead-era-name">The Imperial Feasts & Spice Zenith</span>
+        </div>
+        <p class="masthead-chronicle" id="masthead-chronicle">
+          An era of imperial splendor and spice dominance. In royal courts from Agra to Thanjavur, bawarchis master the wood-fired deg and clay tandoor.
+        </p>
+      </div>
+    </header>
+
+    <!-- Signature Antique Pocket-Watch Time Wheel (Floating Upper Right) -->
+    <aside id="pocket-watch-container" class="pocket-watch-instrument" aria-label="Vintage Pocket-Watch Time Selector">
+      <!-- Injected by PocketWatch.js -->
+    </aside>
+
+    <!-- State Immersive World Canvas (Expanded geographic silhouette & culinary experience) -->
+    <section id="state-canvas" class="state-canvas" aria-hidden="true">
+      <!-- Injected by StateCanvas.js upon state selection -->
+    </section>
+
+    <!-- Floating Lightweight State Hover Preview -->
+    <div id="hover-preview" class="hover-preview" aria-hidden="true">
+      <div class="preview-card">
+        <div class="preview-img-wrap">
+          <img id="preview-img" src="" alt="Regional cuisine preview" loading="lazy" />
+          <div class="preview-era-tag" id="preview-era-tag">1700</div>
+        </div>
+        <div class="preview-content">
+          <span class="preview-region" id="preview-region">NORTH INDIA</span>
+          <h2 class="preview-title" id="preview-title">Uttar Pradesh</h2>
+          <p class="preview-dish" id="preview-dish">Awadhi Dum Gosht Biryani</p>
+          <p class="preview-flavor" id="preview-flavor">Saffron, ittar, caramelized shallots, velvet meat</p>
+          <span class="preview-cta">Click state to enter culinary world ↗</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Island & Small UT Accessible Dock (Bottom Left Quick Access) -->
+    <nav class="islands-dock" aria-label="States and territories quick access">
+      <div class="state-quick-select-wrap">
+        <label for="state-select-dropdown" class="dock-label">Atlas Index:</label>
+        <select id="state-select-dropdown" class="state-select-dropdown" aria-label="Select Any State or Territory">
+          <option value="">Jump to State...</option>
+        </select>
+      </div>
+      <span class="dock-divider">|</span>
+      <span class="dock-label">Islands:</span>
+      <div class="dock-chips" id="islands-chips">
+        <!-- Rendered dynamically for Andaman, Lakshadweep, Goa, Puducherry, etc. -->
+      </div>
+    </nav>
+
+    <!-- Sensory & Sound Bar (Bottom Right) -->
+    <div class="sensory-bar">
+      <button id="sound-toggle" class="sensory-btn" title="Toggle tactile mechanical & culinary audio" aria-label="Toggle Sound">
+        <svg class="sound-icon sound-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+          <line x1="23" y1="9" x2="17" y2="15"/>
+          <line x1="17" y1="9" x2="23" y2="15"/>
+        </svg>
+        <span class="sensory-text">Audio: <strong id="sound-status">Off</strong></span>
+      </button>
+      <div class="help-hint">
+        <span>Rotate pocket watch or drag hand to shift centuries</span>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>

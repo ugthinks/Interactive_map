@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.geojson
+*.json
+!package.json
+!package-lock.json

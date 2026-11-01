@@ -55,8 +55,8 @@ class CulinaryAtlasApp {
       this.handleEraChange(newEra);
     });
 
-    // 5. Populate Territories & Islands Accessibility Dock
-    this.setupIslandsDock();
+    // 5. Populate Atlas Index Navigation Dock (All 36 States & UTs)
+    this.setupAtlasIndex();
 
     // 6. Setup Audio Toggle
     this.setupAudioToggle();
@@ -95,14 +95,13 @@ class CulinaryAtlasApp {
     this.stateCanvas.open(stateId, this.currentEra.id);
   }
 
-  setupIslandsDock() {
+  setupAtlasIndex() {
     const dropdown = document.getElementById('state-select-dropdown');
-    const dockChips = document.getElementById('islands-chips');
 
-    // Populate all 36 states sorted alphabetically in dropdown
+    // Populate all 36 states and union territories sorted alphabetically in dropdown
     if (dropdown) {
       const allStates = [...STATES_MAP].sort((a, b) => a.name.localeCompare(b.name));
-      dropdown.innerHTML = '<option value="">Jump to Any State (36)...</option>' + 
+      dropdown.innerHTML = '<option value="">Jump to Any State or Territory (36)...</option>' + 
         allStates.map(s => `<option value="${s.id}">${s.name}</option>`).join('');
 
       dropdown.addEventListener('change', (e) => {
@@ -113,24 +112,6 @@ class CulinaryAtlasApp {
         }
       });
     }
-
-    if (!dockChips) return;
-
-    // Filter small territories and islands for quick accessible selection
-    const smallTerritories = STATES_MAP.filter(s => s.isIslandOrSmall);
-
-    dockChips.innerHTML = smallTerritories.map(st => `
-      <button class="dock-chip" data-id="${st.id}">
-        ${st.name}
-      </button>
-    `).join('');
-
-    dockChips.querySelectorAll('.dock-chip').forEach(btn => {
-      btn.addEventListener('click', () => {
-        const id = btn.getAttribute('data-id');
-        this.map.selectState(id);
-      });
-    });
   }
 
   setupAudioToggle() {

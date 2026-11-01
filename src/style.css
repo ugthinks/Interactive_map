@@ -449,25 +449,26 @@ html, body {
   border: 1px solid #5a4210;
 }
 
-/* The Watch Case (Circular Casing) */
+/* The Watch Case (Circular Casing - Steampunk Antique Bronze & Aged Brass) */
 .watch-case {
   position: relative;
-  width: 240px;
-  height: 240px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
-  /* Beveled Antique Gold / Aged Brass Rim */
-  background: radial-gradient(circle at 35% 30%, #f6e29a 0%, #d4af37 25%, #8b681e 65%, #42300b 100%);
-  padding: 12px;
-  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.85),
-              inset 0 2px 6px rgba(255, 255, 255, 0.6),
-              inset 0 -4px 8px rgba(0, 0, 0, 0.8),
-              0 0 0 2px #50390f;
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  /* Stepped Antique Dark Bronze & Brass Rim with Metallic Highlights */
+  background: radial-gradient(circle at 35% 30%, #3e2e1c 0%, #261c11 40%, #150f09 75%, #0c0805 100%);
+  padding: 10px;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.95),
+              0 0 30px rgba(0, 0, 0, 0.8),
+              inset 0 2px 4px rgba(250, 230, 160, 0.35),
+              inset 0 -4px 8px rgba(0, 0, 0, 0.9),
+              0 0 0 2px #4a3514;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s ease;
 }
 
 .watch-case:hover {
   transform: translateY(-2px);
-  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.9), 0 0 30px var(--gold-glow);
+  box-shadow: 0 32px 65px rgba(0, 0, 0, 0.98), 0 0 35px var(--gold-glow);
 }
 
 /* Inner Engraved Bezel Ring */
@@ -475,20 +476,20 @@ html, body {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  border: 2px dashed rgba(80, 55, 15, 0.5);
-  padding: 4px;
-  background: radial-gradient(circle at 40% 40%, #e8c76b 0%, #9c7520 80%, #583f0c 100%);
-  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.7);
+  border: 1.5px solid #5a411a;
+  padding: 3px;
+  background: radial-gradient(circle at 40% 40%, #241a10 0%, #120d08 100%);
+  box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.85);
 }
 
-/* The Enamel Dial Face */
+/* The Dark Aged Metal Dial Face */
 .watch-dial {
   position: relative;
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: radial-gradient(circle at 45% 45%, #fffdf5 0%, #f7f1dd 50%, #e2d3b2 85%, #cfbe98 100%);
-  box-shadow: inset 0 3px 12px rgba(80, 60, 20, 0.35), inset 0 0 20px rgba(0, 0, 0, 0.15);
+  background: radial-gradient(circle at 50% 50%, #1e1a15 0%, #120f0c 60%, #080605 100%);
+  box-shadow: inset 0 3px 14px rgba(0, 0, 0, 0.9), inset 0 0 25px rgba(0, 0, 0, 0.7);
   overflow: hidden;
   cursor: grab;
 }
@@ -497,72 +498,111 @@ html, body {
   cursor: grabbing;
 }
 
-/* Watch Dial SVG (Minute markers, Roman indices, Stations, Hand) */
+/* Watch Dial SVG (Gears, Historical Year Stations, Rotating Hand, Fixed Center Axle) */
 .watch-dial-svg {
   width: 100%;
   height: 100%;
   display: block;
 }
 
-/* Antique Mechanical Hand */
+/* Mechanical Watch Hand (Clean SVG-managed rotation around 150, 150) */
 .watch-hand-group {
-  transform-origin: 100px 100px;
-  transition: transform 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.2);
-  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.45));
+  pointer-events: none;
 }
 
-.watch-hand-pointer {
-  fill: #192738; /* Blued steel */
-  stroke: #0a111a;
-  stroke-width: 0.5;
+/* Exposed Clockwork Gears */
+.exposed-gears {
+  pointer-events: none;
 }
 
-.watch-center-cap {
-  fill: radial-gradient(circle, #f5d475 0%, #99731d 100%);
-  stroke: #3d2a07;
-  stroke-width: 0.8;
+/* Stationary Center Hub & Prominent Year Display */
+.center-hub-stationary {
+  pointer-events: none;
+}
+
+.watch-center-year {
+  font-family: var(--font-imperial);
+  font-size: 21px;
+  font-weight: 900;
+  fill: #ffd966;
+  text-anchor: middle;
+  letter-spacing: 1.5px;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.95));
+}
+
+.watch-center-subtitle {
+  font-family: var(--font-title);
+  font-size: 7px;
+  font-weight: 700;
+  fill: #c8b99d;
+  text-anchor: middle;
+  letter-spacing: 1.6px;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.9));
 }
 
 .watch-ruby-pivot {
-  fill: #9b2226;
-  filter: drop-shadow(0 0 2px rgba(255, 0, 0, 0.6));
+  fill: #b31b25;
+  filter: drop-shadow(0 0 3px rgba(255, 60, 60, 0.8));
 }
 
-/* Era Stations on Dial */
+/* Historical Year Stations on Perimeter (NOT conventional hours!) */
 .dial-station {
   cursor: pointer;
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+
+.dial-station-hitarea {
+  cursor: pointer;
 }
 
 .dial-station:hover {
-  filter: drop-shadow(0 0 5px var(--gold-primary));
+  filter: drop-shadow(0 0 6px var(--gold-primary));
 }
 
 .dial-station-rivet {
-  fill: #b38827;
-  stroke: #45310a;
-  stroke-width: 0.6;
-  transition: fill 0.3s ease;
+  fill: #856422;
+  stroke: #2b1f09;
+  stroke-width: 0.7;
+  transition: all 0.3s ease;
+}
+
+.dial-station-rivet-center {
+  fill: #e5b94c;
+  transition: all 0.3s ease;
 }
 
 .dial-station.active .dial-station-rivet {
-  fill: #9b2226;
+  fill: #c92a2a;
   stroke: #ffd700;
   stroke-width: 1.2;
+  filter: drop-shadow(0 0 6px rgba(255, 77, 77, 0.95));
+}
+
+.dial-station.active .dial-station-rivet-center {
+  fill: #ffffff;
 }
 
 .dial-station-label {
   font-family: var(--font-imperial);
-  font-size: 7px;
-  font-weight: 700;
-  fill: #4a3617;
+  font-size: 8.8px;
+  font-weight: 800;
+  fill: #d4af37;
   text-anchor: middle;
+  letter-spacing: 0.5px;
   pointer-events: none;
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.95));
+  transition: fill 0.25s ease, filter 0.25s ease;
+}
+
+.dial-station:hover .dial-station-label {
+  fill: #fff3c9;
+  filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.85));
 }
 
 .dial-station.active .dial-station-label {
-  fill: #9b2226;
+  fill: #ffe89e;
   font-weight: 900;
+  filter: drop-shadow(0 0 10px rgba(212, 175, 55, 0.95)) drop-shadow(0 1px 3px #000);
 }
 
 /* Watch Stepper Controls Underneath */
@@ -980,65 +1020,67 @@ html, body {
    FLOATING HOVER PREVIEW (Lightweight, Non-Obstructive Tooltip)
    ========================================================================== */
 
+/* ==========================================================================
+   FLOATING HOVER PREVIEW (Lightweight, Non-Obstructive Tooltip)
+   ========================================================================== */
+
 .hover-preview {
-  position: absolute;
-  z-index: 100;
-  pointer-events: none;
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none !important;
   opacity: 0;
   visibility: hidden;
-  transform: translate(-50%, -120%);
-  transition: opacity 0.2s ease, transform 0.15s ease-out, visibility 0.2s ease;
+  transform: translateX(-50%);
+  transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1), transform 0.15s ease-out;
 }
 
 .hover-preview.is-visible {
-  opacity: 1;
-  visibility: visible;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
 .preview-card {
-  width: 260px;
-  background: linear-gradient(135deg, rgba(28, 22, 17, 0.96) 0%, rgba(16, 12, 9, 0.98) 100%);
-  border: 1px solid var(--gold-primary);
+  width: 280px;
+  background: #18130e !important; /* 100% solid, fully opaque dark antique background */
+  border: 1.5px solid var(--gold-primary);
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8), 0 0 20px var(--gold-glow);
-  backdrop-filter: blur(14px);
-  cursor: pointer;
-  pointer-events: auto;
-  transition: transform 0.2s ease, border-color 0.2s ease;
-}
-
-.preview-card:hover {
-  transform: scale(1.02);
-  border-color: #fff;
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.95), 0 0 25px rgba(212, 175, 55, 0.35);
+  pointer-events: none !important;
+  opacity: 1 !important;
+  transition: border-color 0.2s ease;
 }
 
 .preview-img-wrap {
   position: relative;
   width: 100%;
-  height: 110px;
+  height: 125px;
   overflow: hidden;
-  background: #111;
+  background: #080605;
 }
 
 .preview-img-wrap img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
+  opacity: 1 !important;
+  filter: contrast(1.05) brightness(1.02);
 }
 
 .preview-era-tag {
   position: absolute;
   top: 8px;
   right: 8px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(12, 9, 6, 0.92);
   border: 1px solid var(--gold-primary);
   color: var(--gold-primary);
   font-family: var(--font-imperial);
   font-size: 10px;
-  font-weight: 700;
-  padding: 2px 7px;
+  font-weight: 800;
+  padding: 3px 8px;
   border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
 }
 
 .preview-content {
@@ -1047,34 +1089,37 @@ html, body {
 
 .preview-region {
   font-family: var(--font-ui);
-  font-size: 9px;
+  font-size: 9.5px;
   font-weight: 700;
   letter-spacing: 1.5px;
   color: var(--gold-primary);
   text-transform: uppercase;
+  display: block;
 }
 
 .preview-title {
   font-family: var(--font-imperial);
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 800;
-  color: #fff;
+  color: #ffffff !important;
   line-height: 1.2;
   margin: 2px 0 4px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 .preview-dish {
   font-family: var(--font-editorial);
-  font-size: 13px;
+  font-size: 13.5px;
   font-weight: 700;
   color: var(--gold-light);
-  line-height: 1.2;
+  line-height: 1.25;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
 }
 
 .preview-flavor {
   font-family: var(--font-narrative);
   font-size: 12.5px;
-  color: var(--text-secondary);
+  color: #c8b99d;
   line-height: 1.35;
   margin: 4px 0 8px;
 }
@@ -1089,9 +1134,10 @@ html, body {
 }
 
 /* ==========================================================================
-   ISLANDS & TERRITORIES ACCESSIBILITY DOCK (Bottom Left)
+   ATLAS INDEX NAVIGATION DOCK (Bottom Left Quick Access)
    ========================================================================== */
 
+.atlas-index-dock,
 .islands-dock {
   position: absolute;
   bottom: 24px;
@@ -1099,21 +1145,20 @@ html, body {
   z-index: 10;
   display: flex;
   align-items: center;
-  gap: 10px;
-  background: rgba(22, 17, 13, 0.85);
+  background: rgba(22, 17, 13, 0.92);
   border: 1px solid var(--parchment-border);
-  padding: 8px 16px;
+  padding: 8px 18px;
   border-radius: 30px;
   backdrop-filter: blur(12px);
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
 }
 
 .dock-label {
   font-family: var(--font-ui);
-  font-size: 10.5px;
+  font-size: 11px;
   font-weight: 700;
-  letter-spacing: 1px;
-  color: var(--text-muted);
+  letter-spacing: 1.2px;
+  color: var(--gold-primary);
   text-transform: uppercase;
   white-space: nowrap;
 }
@@ -1121,7 +1166,7 @@ html, body {
 .state-quick-select-wrap {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
 }
 
 .state-select-dropdown {
@@ -1129,58 +1174,21 @@ html, body {
   border: 1px solid var(--parchment-border);
   color: var(--gold-light);
   font-family: var(--font-ui);
-  font-size: 11px;
+  font-size: 11.5px;
   font-weight: 600;
-  padding: 4px 10px;
+  padding: 5px 12px;
   border-radius: 12px;
   outline: none;
   cursor: pointer;
   transition: all 0.25s ease;
-  max-width: 170px;
+  min-width: 220px;
 }
 
 .state-select-dropdown:hover,
 .state-select-dropdown:focus {
   border-color: var(--gold-primary);
-  box-shadow: 0 0 10px var(--gold-glow);
+  box-shadow: 0 0 12px var(--gold-glow);
   color: #fff;
-}
-
-.dock-divider {
-  color: var(--parchment-border);
-  font-size: 12px;
-  opacity: 0.5;
-  margin: 0 4px;
-}
-
-.dock-chips {
-  display: flex;
-  gap: 6px;
-  overflow-x: auto;
-  max-width: 500px;
-}
-
-.dock-chip {
-  background: rgba(45, 36, 26, 0.75);
-  border: 1px solid rgba(212, 175, 55, 0.25);
-  color: var(--text-secondary);
-  font-family: var(--font-ui);
-  font-size: 11px;
-  font-weight: 600;
-  padding: 4px 10px;
-  border-radius: 12px;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: all 0.2s ease;
-}
-
-.dock-chip:hover,
-.dock-chip.active {
-  background: var(--gold-primary);
-  color: #120e0a;
-  border-color: #fff;
-  font-weight: 700;
-  box-shadow: 0 0 10px var(--gold-glow);
 }
 
 /* ==========================================================================

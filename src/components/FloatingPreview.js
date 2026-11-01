@@ -58,28 +58,39 @@ export class FloatingPreview {
   updatePosition(e) {
     if (!this.el || !e) return;
 
-    const cardWidth = 260;
-    const cardHeight = 220;
+    const cardWidth = 280;
+    const cardHeight = 240;
     const padding = 20;
 
     let x = e.clientX;
-    let y = e.clientY - 20;
 
-    // Boundary check right edge
+    // Horizontal boundary checking
     if (x + cardWidth / 2 > window.innerWidth - padding) {
       x = window.innerWidth - cardWidth / 2 - padding;
     }
-    // Boundary check left edge
     if (x - cardWidth / 2 < padding) {
       x = cardWidth / 2 + padding;
     }
-    // Boundary check top edge
-    if (y - cardHeight < padding) {
-      y = e.clientY + cardHeight + 20;
+
+    // Vertical placement:
+    // When hovering over northern states near the top of the map (Jammu & Kashmir,
+    // Punjab, Haryana, Himachal Pradesh, Uttarakhand), comfortably display the card
+    // BELOW the pointer so it never collides with the cursor or the top boundary.
+    let y;
+    if (e.clientY < cardHeight + 45) {
+      y = e.clientY + 22; // Margin below cursor
+    } else {
+      y = e.clientY - cardHeight - 16; // Margin above cursor
     }
 
-    this.el.style.left = `${x}px`;
-    this.el.style.top = `${y}px`;
+    // Viewport vertical clamping
+    if (y < padding) y = padding;
+    if (y + cardHeight > window.innerHeight - padding) {
+      y = window.innerHeight - cardHeight - padding;
+    }
+
+    this.el.style.left = `${Math.round(x)}px`;
+    this.el.style.top = `${Math.round(y)}px`;
   }
 
   hide() {

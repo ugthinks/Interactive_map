@@ -178,7 +178,8 @@ export const CULINARY_DATABASE = {
               "Desi Ghee",
               "Rosewater"
             ],
-            "culturalAnecdote": "Mughal royal cooks were forbidden from using chili peppers; richness was derived entirely from almonds, pistachios, black cumin, and royal spices."
+            "culturalAnecdote": "Mughal royal cooks were forbidden from using chili peppers; richness was derived entirely from almonds, pistachios, black cumin, and royal spices.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Pasanda Kebab on Sheermal",
@@ -192,7 +193,8 @@ export const CULINARY_DATABASE = {
               "Saffron Sheermal",
               "Chironji Nuts"
             ],
-            "culturalAnecdote": "The word \"Pasanda\" derives from \"pasand\" (favorite)—only the most tender cuts of meat were selected for the Emperor's table."
+            "culturalAnecdote": "The word \"Pasanda\" derives from \"pasand\" (favorite)—only the most tender cuts of meat were selected for the Emperor's table.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -218,7 +220,8 @@ export const CULINARY_DATABASE = {
               "Potli Masala",
               "Fried Biryan Onions"
             ],
-            "culturalAnecdote": "When Nawab Asaf-ud-Daula caught the celestial fragrance wafting from the famine cauldrons, he immediately ordered his court bawarchis to refine the technique for the royal table."
+            "culturalAnecdote": "When Nawab Asaf-ud-Daula caught the celestial fragrance wafting from the famine cauldrons, he immediately ordered his court bawarchis to refine the technique for the royal table.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Lucknowi Galouti Kebab",
@@ -233,7 +236,8 @@ export const CULINARY_DATABASE = {
               "Pure Desi Ghee",
               "Roomali Roti"
             ],
-            "culturalAnecdote": "Invented by royal chef Haji Mohammad Fakr-e-Alam for Nawab Asad-ud-Daula, who had lost his teeth with age but refused to surrender his passionate love for rich kebabs."
+            "culturalAnecdote": "Invented by royal chef Haji Mohammad Fakr-e-Alam for Nawab Asad-ud-Daula, who had lost his teeth with age but refused to surrender his passionate love for rich kebabs.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -259,7 +263,8 @@ export const CULINARY_DATABASE = {
               "Amchur",
               "Green Chilies"
             ],
-            "culturalAnecdote": "Varanasi halwais boast that their potato gravy requires neither onion nor garlic; the divine fragrance comes solely from purest Hathras asafoetida."
+            "culturalAnecdote": "Varanasi halwais boast that their potato gravy requires neither onion nor garlic; the divine fragrance comes solely from purest Hathras asafoetida.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Makhan Malai (Nimish)",
@@ -274,7 +279,8 @@ export const CULINARY_DATABASE = {
               "Silver Leaf",
               "Kewra Essence"
             ],
-            "culturalAnecdote": "Available only between November and February; legend says if morning dew does not touch the earthen vat, the delicate foam will collapse before noon."
+            "culturalAnecdote": "Available only between November and February; legend says if morning dew does not touch the earthen vat, the delicate foam will collapse before noon.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -299,7 +305,8 @@ export const CULINARY_DATABASE = {
               "Fried Onion Paste",
               "Green Cardamom"
             ],
-            "culturalAnecdote": "Rampuri nawabs took pride in dishes with deceptive simplicity—spices were ground with sandalwood and rose petals so no single spice overpowered the meat."
+            "culturalAnecdote": "Rampuri nawabs took pride in dishes with deceptive simplicity—spices were ground with sandalwood and rose petals so no single spice overpowered the meat.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Mathura ke Pede",
@@ -313,7 +320,8 @@ export const CULINARY_DATABASE = {
               "Cardamom Powder",
               "Ghee"
             ],
-            "culturalAnecdote": "Devotees believe Lord Krishna himself was fond of these dark roasted sweets, which retain their flavor for weeks without refrigeration."
+            "culturalAnecdote": "Devotees believe Lord Krishna himself was fond of these dark roasted sweets, which retain their flavor for weeks without refrigeration.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -337,7 +345,8 @@ export const CULINARY_DATABASE = {
               "Secret Masala Blend",
               "Mint Chutney"
             ],
-            "culturalAnecdote": "The one-armed maestro Haji Murad Ali gained the affectionate nickname \"Tunday\" (one-armed), turning what seemed like a physical limitation into an immortal culinary empire."
+            "culturalAnecdote": "The one-armed maestro Haji Murad Ali gained the affectionate nickname \"Tunday\" (one-armed), turning what seemed like a physical limitation into an immortal culinary empire.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Banarasi Tamatar Chaat",
@@ -352,7 +361,8 @@ export const CULINARY_DATABASE = {
               "Crisp Namakpara",
               "Lemon Juice"
             ],
-            "culturalAnecdote": "Unique to Varanasi, this chaat is famously served piping hot in unglazed terracotta bowls (kullhad)."
+            "culturalAnecdote": "Unique to Varanasi, this chaat is famously served piping hot in unglazed terracotta bowls (kullhad).",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -377,7 +387,8 @@ export const CULINARY_DATABASE = {
               "Saunth Chutney",
               "Chaat Masala"
             ],
-            "culturalAnecdote": "Hazratganj evening strolls (\"ganjing\") were incomplete without crowding around royal chaat stalls to watch the masters assemble hundred-layered chaat baskets in seconds."
+            "culturalAnecdote": "Hazratganj evening strolls (\"ganjing\") were incomplete without crowding around royal chaat stalls to watch the masters assemble hundred-layered chaat baskets in seconds.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Benarasi Thandai with Malai",
@@ -392,7 +403,8 @@ export const CULINARY_DATABASE = {
               "Rose Petals",
               "Fresh Rabdi Float"
             ],
-            "culturalAnecdote": "Traditionally prepared during Mahashivratri and Holi as an offering to Lord Shiva, balancing hot spices with cooling seeds."
+            "culturalAnecdote": "Traditionally prepared during Mahashivratri and Holi as an offering to Lord Shiva, balancing hot spices with cooling seeds.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -417,7 +429,8 @@ export const CULINARY_DATABASE = {
               "Mustard Seed Oil",
               "Saffron Threads"
             ],
-            "culturalAnecdote": "Buddhist scriptures record that Lord Buddha gifted grains of Kala Namak rice to the people of Kapilavastu, blessing it to retain its heavenly fragrance forever."
+            "culturalAnecdote": "Buddhist scriptures record that Lord Buddha gifted grains of Kala Namak rice to the people of Kapilavastu, blessing it to retain its heavenly fragrance forever.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Deconstructed Shahi Tukda with Gold Leaf",
@@ -432,7 +445,8 @@ export const CULINARY_DATABASE = {
               "Pistachio Flakes",
               "Pure 24k Gold Leaf"
             ],
-            "culturalAnecdote": "Once a frugal way for royal kitchens to repurpose stale bread, Shahi Tukda has become the crowning dessert of northern celebratory feasts."
+            "culturalAnecdote": "Once a frugal way for royal kitchens to repurpose stale bread, Shahi Tukda has become the crowning dessert of northern celebratory feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -466,7 +480,7 @@ export const CULINARY_DATABASE = {
             "name": "Thalassery Mutton Dum Biryani",
             "regionalOrigin": "Malabar Coast (Kannur/Thalassery)",
             "image": "/assets/kerala_sadya.jpg",
-            "tag": "Spice Trade Icon",
+            "tag": "Spice-Trade Tradition",
             "description": "Made with short, fragrant Jeerakasala (Khaima) rice rather than basmati, layered with spiced mutton braised in fried onions, green chilies, and coconut ghee, sealed with a banana leaf inside an earthen pot.",
             "ingredients": [
               "Jeerakasala Rice",
@@ -475,7 +489,9 @@ export const CULINARY_DATABASE = {
               "Fennel Seed Powder",
               "Pure Coconut Ghee"
             ],
-            "culturalAnecdote": "Unlike northern biryanis, Malabar biryani uses zero chili powder; all heat comes from fresh green chilies and cracked black pepper."
+            "culturalAnecdote": "Unlike northern biryanis, Malabar biryani uses zero chili powder; all heat comes from fresh green chilies and cracked black pepper.",
+            "accuracy": "corrected",
+            "fixNote": "Date retained only as approximate reconstruction of Malabar/Mappila tradition, not documented 1700 invention."
           },
           {
             "name": "Malabar Tharavu (Duck) Roast",
@@ -490,7 +506,8 @@ export const CULINARY_DATABASE = {
               "Shallots",
               "Coconut Milk"
             ],
-            "culturalAnecdote": "Kuttanad farmers traditionally bred ducks in the flooded paddy fields after the harvest, producing meat naturally enriched by wild water snails and rice grains."
+            "culturalAnecdote": "Kuttanad farmers traditionally bred ducks in the flooded paddy fields after the harvest, producing meat naturally enriched by wild water snails and rice grains.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -515,7 +532,8 @@ export const CULINARY_DATABASE = {
               "Turmeric",
               "Coconut Oil"
             ],
-            "culturalAnecdote": "Legend attributes the dish to a Portuguese woman named Moilee who operated a kitchen in Fort Kochi catering to European sailors who wept from local black pepper heat."
+            "culturalAnecdote": "Legend attributes the dish to a Portuguese woman named Moilee who operated a kitchen in Fort Kochi catering to European sailors who wept from local black pepper heat.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Syrian Christian Beef Ularthiyathu",
@@ -530,7 +548,8 @@ export const CULINARY_DATABASE = {
               "Shallots",
               "Garam Masala"
             ],
-            "culturalAnecdote": "The toasted crunchy coconut slices are the prized treasure of this dish, providing texture against the caramelized meat."
+            "culturalAnecdote": "The toasted crunchy coconut slices are the prized treasure of this dish, providing texture against the caramelized meat.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -556,7 +575,8 @@ export const CULINARY_DATABASE = {
               "Curd",
               "Virgin Coconut Oil"
             ],
-            "culturalAnecdote": "Mythology credits the Pandava prince Bhima with inventing Avial when tasked with feeding visitors in King Virata’s court using mismatched vegetable trimmings."
+            "culturalAnecdote": "Mythology credits the Pandava prince Bhima with inventing Avial when tasked with feeding visitors in King Virata’s court using mismatched vegetable trimmings.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Palada Pradhaman",
@@ -570,7 +590,8 @@ export const CULINARY_DATABASE = {
               "Sugar",
               "Cardamom Powder"
             ],
-            "culturalAnecdote": "The Ambalappuzha Sri Krishna Temple is world-famous for its sweet milk pradhaman, offered daily as sacred temple prasadam."
+            "culturalAnecdote": "The Ambalappuzha Sri Krishna Temple is world-famous for its sweet milk pradhaman, offered daily as sacred temple prasadam.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -595,7 +616,8 @@ export const CULINARY_DATABASE = {
               "Fenugreek Seeds",
               "Coconut Oil"
             ],
-            "culturalAnecdote": "Kudampuli curries taste far superior the next day as the clay pot breathes and the smoked tamarind juices penetrate deeply into the fish flesh."
+            "culturalAnecdote": "Kudampuli curries taste far superior the next day as the clay pot breathes and the smoked tamarind juices penetrate deeply into the fish flesh.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Kappa Vevichathu (Mashed Tapioca)",
@@ -610,7 +632,8 @@ export const CULINARY_DATABASE = {
               "Mustard Seeds",
               "Curry Leaves"
             ],
-            "culturalAnecdote": "Maharaja Visakham Thirunal personally consumed tapioca in public to convince skeptical citizens that the foreign South American root was safe and delicious."
+            "culturalAnecdote": "Maharaja Visakham Thirunal personally consumed tapioca in public to convince skeptical citizens that the foreign South American root was safe and delicious.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -635,7 +658,8 @@ export const CULINARY_DATABASE = {
               "Coconut Oil",
               "Curry Leaves"
             ],
-            "culturalAnecdote": "The banana leaf acts as a natural pressure cooker; when unwrapped at the table, a cloud of fragrant, charred herbal steam rushes out."
+            "culturalAnecdote": "The banana leaf acts as a natural pressure cooker; when unwrapped at the table, a cloud of fragrant, charred herbal steam rushes out.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Kakkanadan Kakka Irachi (Clam Roast)",
@@ -650,7 +674,8 @@ export const CULINARY_DATABASE = {
               "Coconut Bits",
               "Curry Leaves"
             ],
-            "culturalAnecdote": "Gathered by women wading into the shallow shores of Vembanad lake using woven cane baskets."
+            "culturalAnecdote": "Gathered by women wading into the shallow shores of Vembanad lake using woven cane baskets.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -675,7 +700,8 @@ export const CULINARY_DATABASE = {
               "Shallots",
               "Crushed Black Pepper"
             ],
-            "culturalAnecdote": "The sound of the Thattukada chef's iron spatula clattering rhythmically against the smoking griddle is recognized by every night traveler across Kerala."
+            "culturalAnecdote": "The sound of the Thattukada chef's iron spatula clattering rhythmically against the smoking griddle is recognized by every night traveler across Kerala.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Erachi Pathiri",
@@ -689,7 +715,8 @@ export const CULINARY_DATABASE = {
               "Coconut Milk Dip",
               "Fennel Powder"
             ],
-            "culturalAnecdote": "A celebratory staple made during Eid and Mappila weddings to honor visiting sons-in-law (puthiyapilla)."
+            "culturalAnecdote": "A celebratory staple made during Eid and Mappila weddings to honor visiting sons-in-law (puthiyapilla).",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -714,7 +741,8 @@ export const CULINARY_DATABASE = {
               "Coconut Milk",
               "Mustard Seeds"
             ],
-            "culturalAnecdote": "Pokkali farming is completely organic: half the year rice grows in monsoon freshwater; the other half, the field floods with sea water and prawns clean the soil naturally."
+            "culturalAnecdote": "Pokkali farming is completely organic: half the year rice grows in monsoon freshwater; the other half, the field floods with sea water and prawns clean the soil naturally.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Pathila Thoran (Monsoon Wild Green Stir Fry)",
@@ -729,7 +757,8 @@ export const CULINARY_DATABASE = {
               "Grated Coconut",
               "Coconut Oil"
             ],
-            "culturalAnecdote": "Eaten strictly during the monsoon month of Karkidakam to rejuvenate immunity when external dampness weakens digestive fire (agni)."
+            "culturalAnecdote": "Eaten strictly during the monsoon month of Karkidakam to rejuvenate immunity when external dampness weakens digestive fire (agni).",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -772,7 +801,8 @@ export const CULINARY_DATABASE = {
               "Mathania Chili Flakes",
               "Mustard Oil"
             ],
-            "culturalAnecdote": "The Khejri tree is considered sacred by the Bishnoi community; its protein-rich pods sustained desert civilizations through catastrophic historic droughts."
+            "culturalAnecdote": "The Khejri tree is considered sacred by the Bishnoi community; its protein-rich pods sustained desert civilizations through catastrophic historic droughts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Bajra Raab & Khichdi",
@@ -786,7 +816,8 @@ export const CULINARY_DATABASE = {
               "Pure Desi Ghee",
               "Raw Cane Jaggery"
             ],
-            "culturalAnecdote": "In biting winter desert nights, bajra khichdi is eaten with hot ghee to maintain internal body warmth."
+            "culturalAnecdote": "In biting winter desert nights, bajra khichdi is eaten with hot ghee to maintain internal body warmth.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -810,7 +841,8 @@ export const CULINARY_DATABASE = {
               "Whole Dry Mathania Chilies",
               "Rock Salt"
             ],
-            "culturalAnecdote": "Cooked strictly in ghee without a drop of water, this preparation could remain fresh for days under the desert sun without spoiling."
+            "culturalAnecdote": "Cooked strictly in ghee without a drop of water, this preparation could remain fresh for days under the desert sun without spoiling.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Gatte ki Kadhi",
@@ -825,7 +857,8 @@ export const CULINARY_DATABASE = {
               "Dry Fenugreek Leaves",
               "Ghee Tadka"
             ],
-            "culturalAnecdote": "When fresh vegetables were unavailable in summer droughts, gram flour took center stage as a versatile vegetable substitute."
+            "culturalAnecdote": "When fresh vegetables were unavailable in summer droughts, gram flour took center stage as a versatile vegetable substitute.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -850,7 +883,8 @@ export const CULINARY_DATABASE = {
               "Raw Boora Sugar",
               "Green Cardamom"
             ],
-            "culturalAnecdote": "Raw baati dough balls were originally buried under desert sand by soldiers in the morning; by afternoon, the desert sun had baked them to perfection."
+            "culturalAnecdote": "Raw baati dough balls were originally buried under desert sand by soldiers in the morning; by afternoon, the desert sun had baked them to perfection.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Lehsun ki Chutney (Fiery Garlic Chutney)",
@@ -865,7 +899,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil / Ghee",
               "Lemon Juice"
             ],
-            "culturalAnecdote": "Said to ward off desert heatstroke and stimulate sluggish digestion caused by heavy ghee-based feasts."
+            "culturalAnecdote": "Said to ward off desert heatstroke and stimulate sluggish digestion caused by heavy ghee-based feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -890,7 +925,8 @@ export const CULINARY_DATABASE = {
               "Kachri Powder",
               "Clove Smoked Charcoal"
             ],
-            "culturalAnecdote": "Mathania chilies from the village of Mathania are famed for their brilliant ruby color without excessive tongue-numbing bitterness."
+            "culturalAnecdote": "Mathania chilies from the village of Mathania are famed for their brilliant ruby color without excessive tongue-numbing bitterness.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Safed Maas (Almond White Curry)",
@@ -905,7 +941,8 @@ export const CULINARY_DATABASE = {
               "Cardamom",
               "White Pepper"
             ],
-            "culturalAnecdote": "Served at summer palace banquets to provide visual and sensory respite from fiery red dishes."
+            "culturalAnecdote": "Served at summer palace banquets to provide visual and sensory respite from fiery red dishes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -931,7 +968,8 @@ export const CULINARY_DATABASE = {
               "Asafoetida",
               "Ghee"
             ],
-            "culturalAnecdote": "True Jodhpuri kachoris must be fried for at least 30 minutes over low heat to achieve their characteristic paper-thin concentric pastry layers."
+            "culturalAnecdote": "True Jodhpuri kachoris must be fried for at least 30 minutes over low heat to achieve their characteristic paper-thin concentric pastry layers.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Paneer Ghevar with Rabdi",
@@ -946,7 +984,8 @@ export const CULINARY_DATABASE = {
               "Thick Rabdi",
               "Silver Varq"
             ],
-            "culturalAnecdote": "Traditionally prepared during the Teej and Raksha Bandhan festivals in monsoon when atmospheric humidity allows the honeycomb structure to form."
+            "culturalAnecdote": "Traditionally prepared during the Teej and Raksha Bandhan festivals in monsoon when atmospheric humidity allows the honeycomb structure to form.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -971,7 +1010,8 @@ export const CULINARY_DATABASE = {
               "Yogurt Gravy",
               "Saffron"
             ],
-            "culturalAnecdote": "Created by royal cooks to impress visiting dignitaries who adhered to strict satvik vegetarian diets."
+            "culturalAnecdote": "Created by royal cooks to impress visiting dignitaries who adhered to strict satvik vegetarian diets.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Papad ki Sabzi with Methi Dana",
@@ -986,7 +1026,8 @@ export const CULINARY_DATABASE = {
               "Turmeric",
               "Cumin"
             ],
-            "culturalAnecdote": "The ultimate emergency dish in a Marwari household—can be prepared from pantry staples in under ten minutes."
+            "culturalAnecdote": "The ultimate emergency dish in a Marwari household—can be prepared from pantry staples in under ten minutes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1010,7 +1051,8 @@ export const CULINARY_DATABASE = {
               "Organic Dal",
               "Ker Sangri Relish"
             ],
-            "culturalAnecdote": "Pearl millet uses 70% less water than rice or wheat, making it the agricultural savior of Rajasthan in the era of climate adaptation."
+            "culturalAnecdote": "Pearl millet uses 70% less water than rice or wheat, making it the agricultural savior of Rajasthan in the era of climate adaptation.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Artisanal Camel Milk Kheer",
@@ -1025,7 +1067,8 @@ export const CULINARY_DATABASE = {
               "Saffron",
               "Pistachios"
             ],
-            "culturalAnecdote": "The Raika pastoralist community has herded camels in Rajasthan for centuries, traditionally drinking raw camel milk for endurance across sand dunes."
+            "culturalAnecdote": "The Raika pastoralist community has herded camels in Rajasthan for centuries, traditionally drinking raw camel milk for endurance across sand dunes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -1068,7 +1111,8 @@ export const CULINARY_DATABASE = {
               "Fenugreek Seeds",
               "Green Chilies"
             ],
-            "culturalAnecdote": "The Ahom kings believed that starting a meal with alkaline Khar and ending with acidic Tenga maintained perfect bodily harmony."
+            "culturalAnecdote": "The Ahom kings believed that starting a meal with alkaline Khar and ending with acidic Tenga maintained perfect bodily harmony.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Chunga Saul (Bamboo Tube Steamed Rice)",
@@ -1082,7 +1126,8 @@ export const CULINARY_DATABASE = {
               "Banana Leaf Plug",
               "Spring Water"
             ],
-            "culturalAnecdote": "The natural inner membrane of the fresh bamboo tube peels away with the cooked rice, imparting a delicate woody, sweet aroma."
+            "culturalAnecdote": "The natural inner membrane of the fresh bamboo tube peels away with the cooked rice, imparting a delicate woody, sweet aroma.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1107,7 +1152,8 @@ export const CULINARY_DATABASE = {
               "Panch Phoron",
               "Salt"
             ],
-            "culturalAnecdote": "An authentic traditional Assamese meal is never complete without Khar served as the very first course with hot steamed rice."
+            "culturalAnecdote": "An authentic traditional Assamese meal is never complete without Khar served as the very first course with hot steamed rice.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Dhekia Xak Bhaja with Small River Fish",
@@ -1121,7 +1167,8 @@ export const CULINARY_DATABASE = {
               "Cold-Pressed Mustard Oil",
               "Turmeric"
             ],
-            "culturalAnecdote": "Majuli islanders can identify dozens of wild edible ferns, each gathered during specific weeks of the pre-monsoon season."
+            "culturalAnecdote": "Majuli islanders can identify dozens of wild edible ferns, each gathered during specific weeks of the pre-monsoon season.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1146,10 +1193,11 @@ export const CULINARY_DATABASE = {
               "Mustard Oil",
               "Coriander Root"
             ],
-            "culturalAnecdote": "Traditionally prepared on Uka (the eve of Magh Bihu) after farmers reap the golden winter paddy harvest."
+            "culturalAnecdote": "Traditionally prepared on Uka (the eve of Magh Bihu) after farmers reap the golden winter paddy harvest.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
-            "name": "Orthodox Assam CTC Tea with Steamed Pitha",
+            "name": "Orthodox Assam Tea with Steamed Pitha",
             "regionalOrigin": "Dibrugarh Tea Estates",
             "image": "/assets/kerala_sadya.jpg",
             "tag": "Colonial Plantation Heritage",
@@ -1160,7 +1208,9 @@ export const CULINARY_DATABASE = {
               "Black Sesame (Til)",
               "Liquid Date Palm Jaggery"
             ],
-            "culturalAnecdote": "Upper Assam's alluvial Brahmaputra soil and heavy tropical monsoon rains give Assam tea its world-renowned rich, malty liquor."
+            "culturalAnecdote": "Upper Assam's alluvial Brahmaputra soil and heavy tropical monsoon rains give Assam tea its world-renowned rich, malty liquor.",
+            "accuracy": "corrected",
+            "fixNote": "CTC processing was invented in 1930-31; replaced CTC with orthodox tea for 1857."
           }
         ]
       },
@@ -1184,7 +1234,8 @@ export const CULINARY_DATABASE = {
               "Cane Jaggery",
               "Iron Tawa"
             ],
-            "culturalAnecdote": "Rolling a til pitha requires quick, delicate finger work on a scalding griddle without letting the fragile rice crust crack."
+            "culturalAnecdote": "Rolling a til pitha requires quick, delicate finger work on a scalding griddle without letting the fragile rice crust crack.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Joha Saul Kheer with Bay Leaves",
@@ -1198,7 +1249,8 @@ export const CULINARY_DATABASE = {
               "Assamese Bay Leaf (Tejpatta)",
               "Cardamom"
             ],
-            "culturalAnecdote": "The intoxicating fragrance of Joha rice is so potent that villagers say you can tell which home is cooking lunch from across the paddy fields."
+            "culturalAnecdote": "The intoxicating fragrance of Joha rice is so potent that villagers say you can tell which home is cooking lunch from across the paddy fields.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1223,7 +1275,8 @@ export const CULINARY_DATABASE = {
               "Green Chilies",
               "Mustard Oil"
             ],
-            "culturalAnecdote": "Young bamboo shoots are harvested during pre-monsoon, grated finely, and sealed in glass or earthen jars under the sun for months to develop their characteristic sour depth."
+            "culturalAnecdote": "Young bamboo shoots are harvested during pre-monsoon, grated finely, and sealed in glass or earthen jars under the sun for months to develop their characteristic sour depth.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Pani Hamuk (Freshwater Snails in Black Dal)",
@@ -1238,7 +1291,8 @@ export const CULINARY_DATABASE = {
               "Green Chilies",
               "Wild Herbs"
             ],
-            "culturalAnecdote": "A beloved tribal delicacy rich in iron and protein, gathered from clean wetlands after the floods recede."
+            "culturalAnecdote": "A beloved tribal delicacy rich in iron and protein, gathered from clean wetlands after the floods recede.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1263,7 +1317,8 @@ export const CULINARY_DATABASE = {
               "Turmeric",
               "Green Chili"
             ],
-            "culturalAnecdote": "Unlike round lemons, Kaji Nemu is elongated and has a fragrant, seedless skin whose essential oils elevate any simple broth into a culinary triumph."
+            "culturalAnecdote": "Unlike round lemons, Kaji Nemu is elongated and has a fragrant, seedless skin whose essential oils elevate any simple broth into a culinary triumph.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Bhoot Jolokia Achar (Ghost Pepper Pickle)",
@@ -1278,7 +1333,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil",
               "Salt"
             ],
-            "culturalAnecdote": "A single pod is often touched gently to hot rice to release its smoky fragrance without unleashing its incendiary heat."
+            "culturalAnecdote": "A single pod is often touched gently to hot rice to release its smoky fragrance without unleashing its incendiary heat.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1303,7 +1359,8 @@ export const CULINARY_DATABASE = {
               "Green Chilies",
               "Cold-Pressed Mustard Oil"
             ],
-            "culturalAnecdote": "During Goru Bihu, tradition dictates gathering 108 distinct wild edible plants to make a restorative soup that resets bodily health for the new year."
+            "culturalAnecdote": "During Goru Bihu, tradition dictates gathering 108 distinct wild edible plants to make a restorative soup that resets bodily health for the new year.",
+            "accuracy": "strong_state_attribution_date_approximate"
           },
           {
             "name": "Kaji Nemu & Black Rice Halwa",
@@ -1317,7 +1374,8 @@ export const CULINARY_DATABASE = {
               "Candied Kaji Nemu",
               "Jaggery"
             ],
-            "culturalAnecdote": "Rich in anthocyanin antioxidants, black rice was once reserved for royalty and is now an icon of Northeast agro-tourism."
+            "culturalAnecdote": "Rich in anthocyanin antioxidants, black rice was once reserved for royalty and is now an icon of Northeast agro-tourism.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -1358,7 +1416,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal West Bengal Simmered Pot",
@@ -1371,7 +1430,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -1394,7 +1454,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kosha Mangsho",
+            "regionalOrigin": "Kolkata & Bengal",
+            "tag": "Bengali Hearth",
+            "description": "Mutton slow-cooked with onions and spices until the masala clings to the meat.",
+            "ingredients": [
+              "Mutton",
+              "Onion Paste",
+              "Mustard Oil",
+              "Bay Leaf"
+            ],
+            "culturalAnecdote": "Bengali kitchens cooked it slowly until the spices dissolved, a technique known as kosha.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1418,7 +1493,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Shorshe Ilish",
+            "regionalOrigin": "Bengal Rivers",
+            "tag": "Colonial Kolkata",
+            "description": "Hilsa fish steamed in a paste of ground mustard seeds and green chilli.",
+            "ingredients": [
+              "Hilsa",
+              "Mustard Seeds",
+              "Green Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Hilsa was the prized fish of Bengal's rivers, and mustard became its defining flavour.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ],
         "signatureStory": "Exiled from Lucknow in 1856, Nawab Wajid Ali Shah settled in Metiabruz, Kolkata. His royal bawarchis introduced large, tender spiced potatoes into the biryani—which absorbed the rich mutton fat so gloriously that the potato became Kolkata biryani's sacred hallmark."
@@ -1443,7 +1533,21 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mishti Doi",
+            "regionalOrigin": "Bengal Sweet Shops",
+            "tag": "Swadeshi Sweet",
+            "description": "Sweetened set yogurt, traditionally fermented in clay pots.",
+            "ingredients": [
+              "Full-Fat Milk",
+              "Jaggery",
+              "Clay Pot"
+            ],
+            "culturalAnecdote": "Clay-pot fermentation gave it its caramel tang, prized in Bengal's sweet shops.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1467,7 +1571,23 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kolkata Kathi Roll",
+            "regionalOrigin": "Kolkata (Nizam’s, New Market)",
+            "tag": "Street Classic",
+            "description": "Spiced meat or egg wrapped in a flaky flatbread, cooked on a griddle.",
+            "ingredients": [
+              "Paratha",
+              "Kebab Meat",
+              "Onion",
+              "Lime"
+            ],
+            "culturalAnecdote": "Said to have originated in Kolkata around 1932 as a portable meal that could be eaten without a plate.",
+            "accuracy": "corrected",
+            "fixNote": "Clarified origin: Nizam’s founded 1932; retained in 1947 as post-independence popularization."
           }
         ]
       },
@@ -1491,7 +1611,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chilli Chicken",
+            "regionalOrigin": "Tangra, Kolkata",
+            "tag": "Indo-Chinese Street",
+            "description": "Crisp fried chicken tossed with chilli, garlic and spring onion.",
+            "ingredients": [
+              "Chicken",
+              "Green Chilli",
+              "Garlic",
+              "Soy Sauce"
+            ],
+            "culturalAnecdote": "Developed by Hakka-Chinese families in Tangra, and became a city favourite by the 1980s.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1515,7 +1650,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Rasgulla Heritage Revival",
+            "regionalOrigin": "Bengal Sweet Shops",
+            "tag": "Heritage Sweet",
+            "description": "Soft cheese dumplings simmered in light sugar syrup, revived by heritage sweet makers.",
+            "ingredients": [
+              "Chhena",
+              "Sugar",
+              "Cardamom",
+              "Rose Water"
+            ],
+            "culturalAnecdote": "Bengali sweet makers revived traditional methods of making the cheese dumplings by hand.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -1556,7 +1706,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Punjab Simmered Pot",
@@ -1569,7 +1720,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -1592,7 +1744,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sarson da Saag with Makki di Roti",
+            "regionalOrigin": "Punjab Countryside",
+            "tag": "Rural Hearth",
+            "description": "Mustard greens slow-cooked with spinach and finished with white butter, served with maize flatbreads.",
+            "ingredients": [
+              "Mustard Greens",
+              "Spinach",
+              "Maize Flour",
+              "White Butter (Makhan)"
+            ],
+            "culturalAnecdote": "A winter staple of farming households, cooked for hours in heavy iron kadhai over wood fire.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1616,7 +1783,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Amritsari Chole Kulcha",
+            "regionalOrigin": "Amritsar",
+            "tag": "Grand Trunk Road",
+            "description": "Leavened flatbread stuffed with spiced potato and onion, baked in a clay tandoor and served with chickpeas.",
+            "ingredients": [
+              "Refined Flour",
+              "Potato",
+              "Chickpeas",
+              "Amchur"
+            ],
+            "culturalAnecdote": "Said to have travelled along the Grand Trunk Road with merchants passing through Amritsar.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1640,7 +1822,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sweet Churned Lassi",
+            "regionalOrigin": "Ludhiana & Amritsar",
+            "tag": "Dairy Tradition",
+            "description": "Thick yogurt whisked with sugar and served chilled in earthen cups.",
+            "ingredients": [
+              "Thick Dahi",
+              "Sugar",
+              "Cardamom",
+              "Crushed Ice"
+            ],
+            "culturalAnecdote": "Dairy shops along the Grand Trunk Road served it in clay cups that were broken after one use.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1664,7 +1861,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dal Makhani",
+            "regionalOrigin": "Delhi-Punjab Dhabas",
+            "tag": "Partition Dhaba",
+            "description": "Whole black lentils and kidney beans simmered overnight with butter and cream.",
+            "ingredients": [
+              "Whole Urad Dal",
+              "Rajma",
+              "White Butter",
+              "Cream"
+            ],
+            "culturalAnecdote": "Popularised by Punjabi refugee cooks in post-Partition dhabas, who slow-cooked it in large pots.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1688,7 +1900,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Punjabi Chole Bhature",
+            "regionalOrigin": "Punjab & Delhi",
+            "tag": "Dhaba Classic",
+            "description": "Spiced chickpea curry served with deep-fried leavened bread.",
+            "ingredients": [
+              "Chickpeas",
+              "Tea Leaves",
+              "Refined Flour",
+              "Yogurt"
+            ],
+            "culturalAnecdote": "The dhaba version, with tea-leaf-stained chickpeas, became a roadside staple in the 1980s.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1712,7 +1939,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Roti with Sarson Saag Revival",
+            "regionalOrigin": "Punjab Farms",
+            "tag": "Heirloom Revival",
+            "description": "Pearl millet flatbread paired with slow-cooked mustard greens, revived by farm-to-table kitchens.",
+            "ingredients": [
+              "Pearl Millet",
+              "Mustard Greens",
+              "Desi Ghee",
+              "Jaggery"
+            ],
+            "culturalAnecdote": "Chefs and farmers revived pearl millet as a heritage grain, pairing it again with the traditional saag.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -1753,7 +1995,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Maharashtra Simmered Pot",
@@ -1766,7 +2009,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -1789,7 +2033,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Puran Poli",
+            "regionalOrigin": "Maharashtra Households",
+            "tag": "Festival Sweet",
+            "description": "Sweet lentil and jaggery filling enclosed in a thin flatbread, served with ghee.",
+            "ingredients": [
+              "Chana Dal",
+              "Jaggery",
+              "Wheat Flour",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Prepared for festivals, the filling is cooked for hours until it is thick and fragrant.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1813,7 +2072,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Misal Pav",
+            "regionalOrigin": "Pune & Kolhapur",
+            "tag": "Railway Canteen",
+            "description": "Spicy sprouted bean curry topped with farsan and onion, served with bread.",
+            "ingredients": [
+              "Moth Beans",
+              "Farsan",
+              "Onion",
+              "Pav"
+            ],
+            "culturalAnecdote": "Popular at railway stations and canteens across western Maharashtra.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1837,7 +2111,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Modak",
+            "regionalOrigin": "Pune & Mumbai",
+            "tag": "Ganesh Festival",
+            "description": "Steamed rice-flour dumpling filled with coconut and jaggery.",
+            "ingredients": [
+              "Rice Flour",
+              "Coconut",
+              "Jaggery",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Offered to Ganesh during festival celebrations that became public from 1893.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1861,7 +2150,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kolhapuri Mutton Tambda Rassa",
+            "regionalOrigin": "Kolhapur",
+            "tag": "Kolhapur Kitchen",
+            "description": "Fiery mutton curry with a deep red chilli and coconut gravy.",
+            "ingredients": [
+              "Mutton",
+              "Kolhapuri Masala",
+              "Coconut",
+              "Byadgi Chilli"
+            ],
+            "culturalAnecdote": "The Kolhapuri masala carries a deep heat that is said to have been developed for royal kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1885,7 +2189,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Vada Pav",
+            "regionalOrigin": "Mumbai Streets",
+            "tag": "Street Food Boom",
+            "description": "Spiced potato fritter in a bun with green chilli and garlic chutney.",
+            "ingredients": [
+              "Potato",
+              "Besan",
+              "Pav",
+              "Garlic Chutney"
+            ],
+            "culturalAnecdote": "Mumbai's mill-district snack, quickly becoming the city's most famous street food.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -1909,7 +2228,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Jowar Bhakri with Pithla",
+            "regionalOrigin": "Maharashtra Villages",
+            "tag": "Heritage Grain Revival",
+            "description": "Sorghum flatbread served with a spiced gram-flour curry.",
+            "ingredients": [
+              "Jowar Flour",
+              "Besan",
+              "Garlic",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A rural staple, revived as sorghum returned to modern heritage menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -1950,7 +2284,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Gujarat Simmered Pot",
@@ -1963,7 +2298,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -1986,7 +2322,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Undhiyu",
+            "regionalOrigin": "Surat & Saurashtra",
+            "tag": "Winter Feast",
+            "description": "Mixed winter vegetables slow-cooked in an earthen pot with methi dumplings.",
+            "ingredients": [
+              "Purple Yam",
+              "Surti Papdi",
+              "Methi",
+              "Coconut"
+            ],
+            "culturalAnecdote": "Traditionally cooked in an earthen pot buried in a pit fired with coal, in winter.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2010,7 +2361,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Khaman Dhokla",
+            "regionalOrigin": "Gujarat Bazaars",
+            "tag": "Bazaar Snack",
+            "description": "Light, steamed gram-flour cake tempered with mustard and curry leaves.",
+            "ingredients": [
+              "Gram Flour",
+              "Yogurt",
+              "Mustard Seeds",
+              "Curry Leaves"
+            ],
+            "culturalAnecdote": "Sold in bazaars as a savoury snack, with a sweet-sour tempering on top.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2034,7 +2400,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Thepla",
+            "regionalOrigin": "Gujarat Households",
+            "tag": "Travel Food",
+            "description": "Spiced fenugreek and wheat flatbread that keeps well for journeys.",
+            "ingredients": [
+              "Wheat Flour",
+              "Fenugreek",
+              "Yogurt",
+              "Sesame"
+            ],
+            "culturalAnecdote": "Packed for long train and road journeys because it stays soft for days.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2058,7 +2439,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dal Dhokli",
+            "regionalOrigin": "Gujarat Mill Towns",
+            "tag": "Mill Town Staple",
+            "description": "Lentil stew cooked with wheat flour dumplings and tamarind.",
+            "ingredients": [
+              "Toor Dal",
+              "Wheat Flour",
+              "Tamarind",
+              "Jaggery"
+            ],
+            "culturalAnecdote": "A one-pot meal for mill worker households, filling and quick to cook.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2082,7 +2478,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Khandvi",
+            "regionalOrigin": "Surat & Gujarat",
+            "tag": "Street Savoury",
+            "description": "Thin rolled sheets of gram-flour and yogurt batter, tempered with sesame.",
+            "ingredients": [
+              "Gram Flour",
+              "Yogurt",
+              "Mustard Seeds",
+              "Coconut"
+            ],
+            "culturalAnecdote": "Rolled by hand on a flat tray, the batter must be spread thin enough to roll.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2106,7 +2517,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Rotla with Lasan Chutney",
+            "regionalOrigin": "Saurashtra Farms",
+            "tag": "Millet Revival",
+            "description": "Pearl millet flatbread served with a garlic and dried chilli chutney.",
+            "ingredients": [
+              "Pearl Millet",
+              "Garlic",
+              "Dried Chilli",
+              "Ghee"
+            ],
+            "culturalAnecdote": "A winter staple in Saurashtra, revived on modern millet menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -2147,7 +2573,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Tamil Nadu Simmered Pot",
@@ -2160,7 +2587,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2183,7 +2611,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pepper Chicken Kuzhambu",
+            "regionalOrigin": "Chettinad",
+            "tag": "Merchant Households",
+            "description": "Chicken simmered in a fiery black pepper and tamarind gravy.",
+            "ingredients": [
+              "Chicken",
+              "Black Pepper",
+              "Tamarind",
+              "Curry Leaves"
+            ],
+            "culturalAnecdote": "Chettiar merchant families were known for their heavy use of black pepper in their cooking.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2207,7 +2650,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Filter Coffee",
+            "regionalOrigin": "Madras",
+            "tag": "Railway Canteen",
+            "description": "Dark-roasted coffee brewed with chicory and served frothy with hot milk.",
+            "ingredients": [
+              "Coffee Beans",
+              "Chicory",
+              "Milk",
+              "Sugar"
+            ],
+            "culturalAnecdote": "Chicory was often added to stretch coffee supplies, and the drink became a railway canteen staple.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2231,7 +2689,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Ven Pongal",
+            "regionalOrigin": "Tamil Harvest Festival",
+            "tag": "Harvest Festival",
+            "description": "Rice and split mung dal cooked soft and tempered with black pepper, cumin and ghee.",
+            "ingredients": [
+              "Rice",
+              "Moong Dal",
+              "Ghee",
+              "Black Pepper"
+            ],
+            "culturalAnecdote": "Cooked during the Pongal harvest festival, traditionally in a pot boiled over in celebration.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2255,7 +2728,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Idli with Sambar",
+            "regionalOrigin": "Madras Messes",
+            "tag": "Udipi Chain",
+            "description": "Steamed fermented rice and lentil cakes served with tamarind lentil stew.",
+            "ingredients": [
+              "Idli Rice",
+              "Urad Dal",
+              "Toor Dal",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "Messes and Udipi-run eateries spread idli and sambar across Madras and beyond.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2279,7 +2767,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Parotta Salna",
+            "regionalOrigin": "Madurai & Chennai",
+            "tag": "Street Food Boom",
+            "description": "Layered flatbread served with a spicy, rich gravy.",
+            "ingredients": [
+              "Maida",
+              "Egg",
+              "Onion",
+              "Coconut Gravy"
+            ],
+            "culturalAnecdote": "Roadside stalls made the layered parotta a popular late-night street food.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2303,7 +2806,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kambu Koozh",
+            "regionalOrigin": "Tamil Nadu Villages",
+            "tag": "Millet Revival",
+            "description": "Fermented pearl millet porridge, cooled and eaten with onion and green chilli.",
+            "ingredients": [
+              "Pearl Millet",
+              "Buttermilk",
+              "Onion",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A traditional summer drink in villages, revived by modern millet advocates.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -2344,7 +2862,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Karnataka Simmered Pot",
@@ -2357,7 +2876,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2380,7 +2900,8 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2404,7 +2925,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bisi Bele Bath",
+            "regionalOrigin": "Old Mysore",
+            "tag": "Dak Bungalow Classic",
+            "description": "Hot rice and lentil dish with tamarind, vegetables and a spice powder.",
+            "ingredients": [
+              "Rice",
+              "Toor Dal",
+              "Tamarind",
+              "Bisi Bele Powder"
+            ],
+            "culturalAnecdote": "Travellers on colonial-era routes ate it at dak bungalows, a practical one-pot meal.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2428,7 +2964,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Ragi Mudde",
+            "regionalOrigin": "Rural Karnataka",
+            "tag": "Rural Grain Revival",
+            "description": "Finger millet balls served with a thin spiced lentil or greens curry.",
+            "ingredients": [
+              "Ragi Flour",
+              "Water",
+              "Greens",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Ragi was the everyday grain of rural Karnataka, eaten with the hands from a single pot.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2452,7 +3003,37 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Udupi Sambar",
+            "regionalOrigin": "Udupi",
+            "tag": "Udupi Chain",
+            "description": "Tamarind lentil stew with a distinctive roasted spice blend.",
+            "ingredients": [
+              "Toor Dal",
+              "Tamarind",
+              "Drumstick",
+              "Sambar Powder"
+            ],
+            "culturalAnecdote": "Udupi restaurants carried this sambar across India as a signature dish.",
+            "accuracy": "strong_state_attribution_date_approximate"
+          },
+          {
+            "name": "Mysore Pak",
+            "regionalOrigin": "Mysuru Royal Kitchens",
+            "tag": "Palace Sweet",
+            "description": "Rich gram-flour and ghee sweet, cooked to a melt-in-mouth texture.",
+            "ingredients": [
+              "Gram Flour",
+              "Ghee",
+              "Sugar",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Associated with the Wadiyar royal kitchens of Mysuru, where it was first prepared.",
+            "accuracy": "corrected",
+            "fixNote": "Moved from 1765 to 1947: commonly dated to 1935."
           }
         ]
       },
@@ -2476,7 +3057,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mangalorean Fish Curry",
+            "regionalOrigin": "Mangalore Coast",
+            "tag": "Coastal Street",
+            "description": "Fish cooked in a tangy coconut and kokum curry.",
+            "ingredients": [
+              "Fish",
+              "Coconut",
+              "Kokum",
+              "Byadgi Chilli"
+            ],
+            "culturalAnecdote": "Coastal families used kokum to sour their curries before tamarind became common.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2500,7 +3096,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Coorg Pandi Curry",
+            "regionalOrigin": "Kodagu",
+            "tag": "Heritage Coorg",
+            "description": "Pork in a dark, smoky masala of roasted spices and black pepper.",
+            "ingredients": [
+              "Pork",
+              "Black Pepper",
+              "Coorg Masala",
+              "Kachampuli"
+            ],
+            "culturalAnecdote": "A Kodava festive dish, traditionally cooked for family gatherings and celebrations.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -2541,7 +3152,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Telangana Simmered Pot",
@@ -2554,7 +3166,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2577,7 +3190,8 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2601,7 +3215,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mirchi ka Salan",
+            "regionalOrigin": "Hyderabad",
+            "tag": "Nizam Relish",
+            "description": "Green chillies simmered in a tangy peanut and sesame gravy.",
+            "ingredients": [
+              "Green Chilli",
+              "Peanut",
+              "Sesame",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "Served as a relish beside biryani, and considered a Hyderabadi royal accompaniment.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2625,7 +3254,37 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Qubani ka Meetha",
+            "regionalOrigin": "Hyderabad",
+            "tag": "Court Dessert",
+            "description": "Dried apricots soaked and simmered with sugar, topped with cream.",
+            "ingredients": [
+              "Dried Apricots",
+              "Sugar",
+              "Cardamom",
+              "Cream"
+            ],
+            "culturalAnecdote": "A court dessert that became a symbol of Hyderabadi hospitality.",
+            "accuracy": "strong_state_attribution_date_approximate"
+          },
+          {
+            "name": "Hyderabadi Haleem",
+            "regionalOrigin": "Hyderabad",
+            "tag": "Nizam-Era Introduction",
+            "description": "Slow-cooked wheat, lentils and meat pounded to a rich porridge.",
+            "ingredients": [
+              "Wheat",
+              "Lentils",
+              "Mutton",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Traditionally linked to Arab cooks in the Nizam's kitchens, the dish was made for long hours.",
+            "accuracy": "corrected",
+            "fixNote": "Moved from 1765 to 1911: haleem entered Hyderabad via Chaush/Arab communities under the Nizams; modern popularity is 20th century."
           }
         ]
       },
@@ -2649,7 +3308,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Osmania Biscuit",
+            "regionalOrigin": "Hyderabad Bakeries",
+            "tag": "Bakery Classic",
+            "description": "Crisp, lightly sweet tea biscuit, often eaten dipped in chai.",
+            "ingredients": [
+              "Refined Flour",
+              "Ghee",
+              "Sugar",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Local bakeries made it popular as a tea companion across Hyderabad.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2673,7 +3347,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Hyderabadi Chicken Dum Biryani",
+            "regionalOrigin": "Hyderabad Street Stalls",
+            "tag": "Street Biryani",
+            "description": "Layered rice and marinated chicken, sealed and cooked on dum.",
+            "ingredients": [
+              "Basmati Rice",
+              "Chicken",
+              "Saffron",
+              "Mint"
+            ],
+            "culturalAnecdote": "Street stalls made the dum biryani a city-wide favourite in the 1980s.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2697,7 +3386,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Jowar Roti with Gongura Chutney",
+            "regionalOrigin": "Telangana Villages",
+            "tag": "Millet Revival",
+            "description": "Sorghum flatbread eaten with tangy sorrel leaf chutney.",
+            "ingredients": [
+              "Jowar Flour",
+              "Gongura Leaves",
+              "Green Chilli",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Revived as sorghum returned to village and farm-to-table menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -2738,7 +3442,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Andhra Pradesh Simmered Pot",
@@ -2751,7 +3456,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2774,7 +3480,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pulihora",
+            "regionalOrigin": "Andhra Villages",
+            "tag": "Harvest Tradition",
+            "description": "Tamarind rice tempered with mustard, peanuts and dried chilli.",
+            "ingredients": [
+              "Rice",
+              "Tamarind",
+              "Peanut",
+              "Mustard Seeds"
+            ],
+            "culturalAnecdote": "Prepared for harvest and festivals, as it keeps well when carried to the fields.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2798,7 +3519,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Gongura Pachadi",
+            "regionalOrigin": "Andhra Pradesh",
+            "tag": "Colonial Pickle",
+            "description": "Sorrel leaf chutney tempered with garlic and dried chilli.",
+            "ingredients": [
+              "Gongura Leaves",
+              "Garlic",
+              "Red Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "A sour chutney that stayed in pantries long after the colonial railway era.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2822,7 +3558,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pesarattu",
+            "regionalOrigin": "Guntur",
+            "tag": "Swadeshi Breakfast",
+            "description": "Crisp green gram dosa stuffed with onion and ginger.",
+            "ingredients": [
+              "Green Gram",
+              "Ginger",
+              "Green Chilli",
+              "Onion"
+            ],
+            "culturalAnecdote": "A breakfast staple in Guntur, eaten warm with ginger chutney.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2846,7 +3597,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Guntur Chilli Chicken",
+            "regionalOrigin": "Guntur",
+            "tag": "Partition Kitchen",
+            "description": "Chicken fried with the region's famously hot Guntur chillies.",
+            "ingredients": [
+              "Chicken",
+              "Guntur Chilli",
+              "Curry Leaves",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Guntur's chilli trade shaped its fiery home cooking after Independence.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2870,7 +3636,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Andhra Meals",
+            "regionalOrigin": "Andhra Restaurants",
+            "tag": "Restaurant Thali",
+            "description": "Full meal on a banana leaf with rice, dal, pickle, curries and sweet.",
+            "ingredients": [
+              "Rice",
+              "Toor Dal",
+              "Pickle",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Restaurants served it as a set meal, with many small courses on a single leaf.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -2894,7 +3675,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Ragi Sangati",
+            "regionalOrigin": "Andhra Villages",
+            "tag": "Millet Revival",
+            "description": "Finger millet dough served with greens curry and chutney.",
+            "ingredients": [
+              "Ragi",
+              "Greens",
+              "Garlic",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "Revived as a heritage grain dish on modern millet menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -2935,7 +3731,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Jammu and Kashmir Simmered Pot",
@@ -2948,7 +3745,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -2971,7 +3769,37 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Wazwan Rista",
+            "regionalOrigin": "Kashmir Court Kitchens",
+            "tag": "Kashmiri Court",
+            "description": "Spiced minced mutton meatballs simmered in a red gravy, part of the wazwan feast.",
+            "ingredients": [
+              "Mutton",
+              "Kashmiri Chilli",
+              "Fennel",
+              "Yogurt"
+            ],
+            "culturalAnecdote": "The wazwan feast was prepared by master cooks called wazas for Mughal-era court banquets.",
+            "accuracy": "strong_state_attribution_date_approximate"
+          },
+          {
+            "name": "Rogan Josh",
+            "regionalOrigin": "Kashmir",
+            "tag": "Wazwan Classic",
+            "description": "Mutton cooked in a deep red gravy of Kashmiri chilli and yogurt.",
+            "ingredients": [
+              "Mutton",
+              "Kashmiri Chilli",
+              "Yogurt",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Kashmiri restaurants carried this dish across India, where it became a classic.",
+            "accuracy": "corrected",
+            "fixNote": "Moved from 1980 to 1765: rogan josh is an older Kashmiri/Wazwan dish."
           }
         ]
       },
@@ -2995,7 +3823,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kahwa",
+            "regionalOrigin": "Kashmir Households",
+            "tag": "Dal Lake Houseboat",
+            "description": "Green tea infused with saffron, cardamom and almonds.",
+            "ingredients": [
+              "Green Tea",
+              "Saffron",
+              "Cardamom",
+              "Almond"
+            ],
+            "culturalAnecdote": "Served from copper samovars to guests on houseboats along Dal Lake.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3019,7 +3862,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dum Aloo Kashmiri",
+            "regionalOrigin": "Kashmir",
+            "tag": "Swadeshi Feast",
+            "description": "Baby potatoes slow-cooked in a mild gravy of Kashmiri chilli and fennel.",
+            "ingredients": [
+              "Baby Potato",
+              "Kashmiri Chilli",
+              "Fennel",
+              "Yogurt"
+            ],
+            "culturalAnecdote": "A festive vegetable dish that stays a favourite in Kashmiri homes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3043,7 +3901,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Modur Pulao",
+            "regionalOrigin": "Kashmir Festivals",
+            "tag": "Festive Rice",
+            "description": "Saffron rice cooked with dried fruit and nuts.",
+            "ingredients": [
+              "Basmati Rice",
+              "Saffron",
+              "Dried Fruit",
+              "Almond"
+            ],
+            "culturalAnecdote": "Served at weddings and festive meals in Kashmiri households.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3067,7 +3940,8 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3091,7 +3965,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Walnut Chutney Revival",
+            "regionalOrigin": "Kashmir Orchards",
+            "tag": "Heritage Walnut",
+            "description": "Walnut and herb chutney revived from Kashmir's orchard kitchens.",
+            "ingredients": [
+              "Walnut",
+              "Coriander",
+              "Green Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Kashmir's walnut orchards have inspired a revival of traditional walnut chutneys.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -3132,7 +4021,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Ladakh Simmered Pot",
@@ -3145,7 +4035,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3168,7 +4059,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Skyu",
+            "regionalOrigin": "Ladakh Trade Route",
+            "tag": "Trade Route",
+            "description": "Hearty pasta-and-vegetable stew with barley flour dumplings.",
+            "ingredients": [
+              "Wheat Dough",
+              "Barley Flour",
+              "Potato",
+              "Turnip"
+            ],
+            "culturalAnecdote": "A warming stew for traders travelling the high mountain passes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3192,7 +4098,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Gur Gur Chai",
+            "regionalOrigin": "Ladakh Caravans",
+            "tag": "Caravan Tea",
+            "description": "Butter tea churned with salt and milk, traditionally served in wooden cups.",
+            "ingredients": [
+              "Tea Leaves",
+              "Butter",
+              "Salt",
+              "Milk"
+            ],
+            "culturalAnecdote": "Churned in a wooden butter-tea churn and drunk by caravan travellers.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3216,7 +4137,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Thukpa",
+            "regionalOrigin": "Ladakh Monasteries",
+            "tag": "Monastery Feast",
+            "description": "Noodle soup with vegetables and meat in a warming broth.",
+            "ingredients": [
+              "Noodles",
+              "Vegetables",
+              "Meat",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Served at monastery feasts, where it is shared communally.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3240,7 +4176,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tingmo",
+            "regionalOrigin": "Ladakh Villages",
+            "tag": "Village Bread",
+            "description": "Soft steamed bread served with a thick vegetable or meat stew.",
+            "ingredients": [
+              "Wheat Flour",
+              "Baking Soda",
+              "Water",
+              "Salt"
+            ],
+            "culturalAnecdote": "A village bread that is steamed rather than baked, eaten with stew.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3264,7 +4215,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Ladakhi Momo",
+            "regionalOrigin": "Leh Streets",
+            "tag": "Street Dumpling",
+            "description": "Steamed dumplings filled with spiced meat or vegetables.",
+            "ingredients": [
+              "Wheat Flour",
+              "Mutton",
+              "Onion",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Leh's streets served momos to travellers passing through the high valleys.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3288,7 +4254,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sea Buckthorn Chutney Revival",
+            "regionalOrigin": "Ladakh Highlands",
+            "tag": "Himalayan Revival",
+            "description": "Tart sea buckthorn berries cooked into a chutney.",
+            "ingredients": [
+              "Sea Buckthorn",
+              "Jaggery",
+              "Ginger",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Sea buckthorn grows wild in the highlands and is revived in modern Ladakhi kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -3329,7 +4310,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Goa Simmered Pot",
@@ -3342,7 +4324,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3365,7 +4348,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sorpotel",
+            "regionalOrigin": "Goan Catholic Kitchens",
+            "tag": "Portuguese Legacy",
+            "description": "Pork and liver cooked in a sharp vinegar and spice masala.",
+            "ingredients": [
+              "Pork",
+              "Liver",
+              "Vinegar",
+              "Goan Masala"
+            ],
+            "culturalAnecdote": "A Goan Catholic celebration dish, cooked in large batches for feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3389,7 +4387,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bebinca",
+            "regionalOrigin": "Goa Colonial Kitchens",
+            "tag": "Colonial Dessert",
+            "description": "Layered coconut milk and egg cake baked one layer at a time.",
+            "ingredients": [
+              "Coconut Milk",
+              "Egg Yolk",
+              "Sugar",
+              "Nutmeg"
+            ],
+            "culturalAnecdote": "Each layer is baked separately, which is why the cake takes many hours to make.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3413,7 +4426,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Fish Recheado",
+            "regionalOrigin": "Goa Coast",
+            "tag": "Coastal Heritage",
+            "description": "Whole fish stuffed and fried with a bright red chilli and vinegar paste.",
+            "ingredients": [
+              "Pomfret",
+              "Red Chilli",
+              "Vinegar",
+              "Garlic"
+            ],
+            "culturalAnecdote": "The stuffed fish reflects the Portuguese-influenced preparations found along the coast.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3437,7 +4465,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Goan Pork Vindaloo",
+            "regionalOrigin": "Goan Kitchens",
+            "tag": "Portuguese Fusion",
+            "description": "Pork in a sharp, tangy chilli and vinegar gravy.",
+            "ingredients": [
+              "Pork",
+              "Kashmiri Chilli",
+              "Vinegar",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Vindaloo's name and vinegar base trace back to Portuguese influence on Goan cooking.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3461,7 +4504,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Prawn Balchão",
+            "regionalOrigin": "Goa Beach Shacks",
+            "tag": "Beach Shack",
+            "description": "Prawns cooked in a tangy, fiery vinegar and chilli masala.",
+            "ingredients": [
+              "Prawns",
+              "Red Chilli",
+              "Vinegar",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "Beach shacks made balchão a late-night favourite for visitors and locals alike.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3485,7 +4543,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kismur Coastal Revival",
+            "regionalOrigin": "Goan Fishing Villages",
+            "tag": "Heirloom Coastal",
+            "description": "Dried prawn chutney tempered with coconut and green chilli.",
+            "ingredients": [
+              "Dried Prawns",
+              "Coconut",
+              "Green Chilli",
+              "Lime"
+            ],
+            "culturalAnecdote": "A traditional fishing-village condiment, revived on modern coastal menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -3526,7 +4599,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Bihar Simmered Pot",
@@ -3539,7 +4613,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3562,7 +4637,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Litti Chokha",
+            "regionalOrigin": "Magadha Villages",
+            "tag": "Magadha Hearth",
+            "description": "Sattu-stuffed wheat balls roasted in embers, served with mashed roasted vegetables.",
+            "ingredients": [
+              "Sattu",
+              "Wheat Flour",
+              "Brinjal",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "The balls are roasted over cow-dung cake embers, giving them a smoky flavour.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3586,7 +4676,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Khaja",
+            "regionalOrigin": "Silao, Bihar",
+            "tag": "Railway Sweet",
+            "description": "Flaky layered sweet soaked in sugar syrup.",
+            "ingredients": [
+              "Refined Flour",
+              "Ghee",
+              "Sugar Syrup",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Sold at railway stations in the region, carried by travellers as a gift.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3610,7 +4715,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Thekua",
+            "regionalOrigin": "Bihar Households",
+            "tag": "Chhath Festival",
+            "description": "Wheat and jaggery biscuit fried in ghee and offered during Chhath.",
+            "ingredients": [
+              "Wheat Flour",
+              "Jaggery",
+              "Ghee",
+              "Fennel"
+            ],
+            "culturalAnecdote": "Prepared for Chhath Puja, when it is offered to the sun god.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3634,7 +4754,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sattu Paratha",
+            "regionalOrigin": "Patna Streets",
+            "tag": "Street Breakfast",
+            "description": "Flatbread stuffed with spiced sattu, served with ghee and pickle.",
+            "ingredients": [
+              "Sattu",
+              "Wheat Flour",
+              "Green Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "A breakfast staple sold from early-morning stalls in Patna.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3658,7 +4793,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Makhana Kheer",
+            "regionalOrigin": "Bihar Households",
+            "tag": "Urban Sweet",
+            "description": "Creamy rice pudding made with roasted foxnuts and milk.",
+            "ingredients": [
+              "Makhana",
+              "Milk",
+              "Rice",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Makhana is grown in Mithila's ponds and has long been a festival sweet.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3682,7 +4832,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Makhana Heritage Revival",
+            "regionalOrigin": "Mithila",
+            "tag": "Heritage Superfood Revival",
+            "description": "Roasted foxnut snacks and dishes revived from Mithila's pond farms.",
+            "ingredients": [
+              "Makhana",
+              "Ghee",
+              "Black Pepper",
+              "Rock Salt"
+            ],
+            "culturalAnecdote": "Mithila's foxnut farmers have revived the crop as a heritage superfood.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -3723,7 +4888,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Odisha Simmered Pot",
@@ -3736,7 +4902,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3759,7 +4926,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dalma",
+            "regionalOrigin": "Puri & Odisha",
+            "tag": "Temple Offering",
+            "description": "Lentils cooked with vegetables and a light tempering of panch phoron.",
+            "ingredients": [
+              "Toor Dal",
+              "Pumpkin",
+              "Raw Banana",
+              "Panch Phoron"
+            ],
+            "culturalAnecdote": "Offered as part of the Mahaprasad at the Jagannath temple in Puri.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3783,7 +4965,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pakhala Bhata",
+            "regionalOrigin": "Odia Households",
+            "tag": "Summer Staple",
+            "description": "Fermented rice soaked in water and eaten cold with fried vegetables.",
+            "ingredients": [
+              "Cooked Rice",
+              "Fermented Water",
+              "Curd",
+              "Fried Badi"
+            ],
+            "culturalAnecdote": "Eaten in the summer heat for its cooling qualities, often with fried fish.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3807,7 +5004,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chhena Poda",
+            "regionalOrigin": "Puri",
+            "tag": "Temple Sweet",
+            "description": "Baked cheese dessert with caramelised edges and a soft centre.",
+            "ingredients": [
+              "Chhena",
+              "Sugar",
+              "Cardamom",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Made in Puri's sweet shops, baked until it develops its characteristic colour.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3831,7 +5043,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Macha Besara",
+            "regionalOrigin": "Coastal Odisha",
+            "tag": "Coastal Kitchen",
+            "description": "Fish cooked in a mustard paste with a little tamarind.",
+            "ingredients": [
+              "Fish",
+              "Mustard Paste",
+              "Green Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Coastal Odia families cooked it with mustard to balance the fish.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3855,7 +5082,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Odia Thali",
+            "regionalOrigin": "Odisha Restaurants",
+            "tag": "Urban Thali",
+            "description": "A balanced meal of rice, dal, vegetable dishes, fish and sweet.",
+            "ingredients": [
+              "Rice",
+              "Dalma",
+              "Seasonal Vegetables",
+              "Chhena"
+            ],
+            "culturalAnecdote": "Urban restaurants in Bhubaneswar and Cuttack adapted the home thali for travellers.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3879,7 +5121,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Heirloom Rice Pakhala Revival",
+            "regionalOrigin": "Odisha Villages",
+            "tag": "Heritage Rice Revival",
+            "description": "Traditional fermented rice revived with heirloom local varieties.",
+            "ingredients": [
+              "Heirloom Rice",
+              "Curd",
+              "Ginger",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "Farmers and chefs revived native rice varieties for this traditional dish.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -3919,7 +5176,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Himachal Pradesh Simmered Pot",
@@ -3932,7 +5190,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -3955,7 +5214,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Siddu",
+            "regionalOrigin": "Himachal Hills",
+            "tag": "Mountain Hearth",
+            "description": "Steamed wheat bread stuffed with poppy seeds or walnuts, served with ghee.",
+            "ingredients": [
+              "Wheat Flour",
+              "Poppy Seeds",
+              "Walnut",
+              "Ghee"
+            ],
+            "culturalAnecdote": "A traditional hill breakfast, steamed slowly in a pot over a wood fire.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -3979,7 +5253,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chha Gosht",
+            "regionalOrigin": "Shimla",
+            "tag": "Colonial Hill Station",
+            "description": "Mutton cooked in a yogurt-based gravy with mild spices.",
+            "ingredients": [
+              "Mutton",
+              "Yogurt",
+              "Ginger",
+              "Garam Masala"
+            ],
+            "culturalAnecdote": "Developed in the hill stations where British officers and locals shared the table.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4003,7 +5292,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Madra",
+            "regionalOrigin": "Chamba & Kangra",
+            "tag": "Festival Thali",
+            "description": "Chickpeas cooked in a yogurt gravy with ghee and cardamom, served at festivals.",
+            "ingredients": [
+              "Chickpeas",
+              "Yogurt",
+              "Ghee",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "A festive dish, traditionally served at Dham feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4027,7 +5331,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Patrodu",
+            "regionalOrigin": "Himachal Villages",
+            "tag": "Monsoon Snack",
+            "description": "Colocasia leaves layered with gram flour paste, steamed and fried.",
+            "ingredients": [
+              "Colocasia Leaves",
+              "Gram Flour",
+              "Tamarind",
+              "Spices"
+            ],
+            "culturalAnecdote": "Made during the monsoon, when colocasia leaves are plentiful.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4051,7 +5370,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kullu Dham Thali",
+            "regionalOrigin": "Kullu Valley",
+            "tag": "Temple Thali",
+            "description": "A festive plate of rice, dal, madra, sweet rice and pumpkin dishes.",
+            "ingredients": [
+              "Rice",
+              "Dal",
+              "Pumpkin",
+              "Jaggery Rice"
+            ],
+            "culturalAnecdote": "Served at Dham feasts, where the whole village eats together on leaf plates.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4075,7 +5409,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Himalayan Rice Pulao Revival",
+            "regionalOrigin": "Himachal Farms",
+            "tag": "Himalayan Revival",
+            "description": "Heirloom hill rice cooked with spices and ghee.",
+            "ingredients": [
+              "Heirloom Hill Rice",
+              "Ghee",
+              "Cumin",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Local farmers are reviving native hill rice varieties for modern menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -4115,7 +5464,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Uttarakhand Simmered Pot",
@@ -4128,7 +5478,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -4151,7 +5502,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kafuli",
+            "regionalOrigin": "Garhwal Villages",
+            "tag": "Garhwal Hearth",
+            "description": "Spinach and fenugreek curry thickened with wheat flour and cooked in a copper pot.",
+            "ingredients": [
+              "Spinach",
+              "Fenugreek",
+              "Wheat Flour",
+              "Ghee"
+            ],
+            "culturalAnecdote": "A Garhwali staple, cooked in copper vessels in mountain kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4175,7 +5541,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bhatt ki Churkani",
+            "regionalOrigin": "Kumaon Hills",
+            "tag": "Hill Station",
+            "description": "Black soybean stew cooked with ginger and mountain spices.",
+            "ingredients": [
+              "Black Soybean",
+              "Ginger",
+              "Garlic",
+              "Jambu"
+            ],
+            "culturalAnecdote": "Eaten in the hills during winter for warmth and protein.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4199,7 +5580,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mandua Roti",
+            "regionalOrigin": "Uttarakhand Hills",
+            "tag": "Finger Millet Bread",
+            "description": "Finger millet flatbread eaten warm with ghee or dal.",
+            "ingredients": [
+              "Finger Millet",
+              "Water",
+              "Ghee",
+              "Salt"
+            ],
+            "culturalAnecdote": "Finger millet is grown on hill terraces and remains central to local meals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4223,7 +5619,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chainsoo",
+            "regionalOrigin": "Garhwal Households",
+            "tag": "Mountain Staple",
+            "description": "Roasted urad dal ground and cooked into a thick curry.",
+            "ingredients": [
+              "Urad Dal",
+              "Mustard Oil",
+              "Garlic",
+              "Jakhiya"
+            ],
+            "culturalAnecdote": "A dish of roasted dal that carries a smoky, earthy flavour.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4247,7 +5658,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Aloo ke Gutke",
+            "regionalOrigin": "Uttarakhand Streets",
+            "tag": "Hill Street Food",
+            "description": "Potatoes tossed with spices, sesame and fried lentils.",
+            "ingredients": [
+              "Potato",
+              "Sesame",
+              "Jakhiya",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "A popular street snack sold from roadside stalls in the hill towns.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4271,7 +5697,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Jhangora Kheer",
+            "regionalOrigin": "Uttarakhand Farms",
+            "tag": "Himalayan Millet Revival",
+            "description": "Barnyard millet pudding cooked with milk and jaggery.",
+            "ingredients": [
+              "Barnyard Millet",
+              "Milk",
+              "Jaggery",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Barnyard millet is a Himalayan heritage grain, revived in modern desserts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -4312,7 +5753,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Madhya Pradesh Simmered Pot",
@@ -4325,7 +5767,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -4348,7 +5791,23 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dal Bafla",
+            "regionalOrigin": "Malwa (Indore/Ujjain)",
+            "tag": "Malwi Kitchen",
+            "description": "Baked wheat dumplings dunked in ghee, served with a spiced lentil curry.",
+            "ingredients": [
+              "Wheat Flour",
+              "Ghee",
+              "Toor Dal",
+              "Ajwain"
+            ],
+            "culturalAnecdote": "Baked in the embers of village hearths, a dish of the Bundeli heartland.",
+            "accuracy": "corrected",
+            "fixNote": "Corrected sub-region from Bundelkhand to Malwa."
           }
         ]
       },
@@ -4372,7 +5831,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bhutte ka Kees",
+            "regionalOrigin": "Holkar Indore",
+            "tag": "Holkar Kitchen",
+            "description": "Grated fresh corn cooked with milk, ghee and mild spices.",
+            "ingredients": [
+              "Fresh Corn",
+              "Milk",
+              "Ghee",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "Made in Indore's Holkar-era kitchens when fresh corn was in season.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4396,7 +5870,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Poha Jalebi",
+            "regionalOrigin": "Indore",
+            "tag": "Indore Morning",
+            "description": "Flattened rice tempered with onion and served with crisp syrupy jalebi.",
+            "ingredients": [
+              "Poha",
+              "Onion",
+              "Turmeric",
+              "Sugar Syrup"
+            ],
+            "culturalAnecdote": "The classic Indore breakfast, eaten at roadside stalls early in the morning.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4420,7 +5909,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sabudana Khichdi",
+            "regionalOrigin": "Madhya Pradesh Households",
+            "tag": "Fasting Staple",
+            "description": "Soaked tapioca pearls stir-fried with peanuts, cumin and green chilli.",
+            "ingredients": [
+              "Sabudana",
+              "Peanut",
+              "Potato",
+              "Cumin"
+            ],
+            "culturalAnecdote": "Eaten on fasting days, when grains are avoided.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4444,7 +5948,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Indori Samosa",
+            "regionalOrigin": "Indore Bazaars",
+            "tag": "Street Snack",
+            "description": "Crisp pastry filled with spiced potato and peas, served with chutney.",
+            "ingredients": [
+              "Refined Flour",
+              "Potato",
+              "Peas",
+              "Green Chutney"
+            ],
+            "culturalAnecdote": "Indore's bazaar samosas became known for their thin, crisp pastry.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4468,7 +5987,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kodo Millet Khichdi",
+            "regionalOrigin": "Madhya Pradesh Villages",
+            "tag": "Heirloom Millet",
+            "description": "Kodo millet cooked with moong dal and tempered with ghee and cumin.",
+            "ingredients": [
+              "Kodo Millet",
+              "Moong Dal",
+              "Ghee",
+              "Cumin"
+            ],
+            "culturalAnecdote": "Kodo millet, a traditional tribal grain, is revived on modern heritage menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -4509,7 +6043,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Chhattisgarh Simmered Pot",
@@ -4522,7 +6057,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -4545,7 +6081,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chila",
+            "regionalOrigin": "Chhattisgarh Villages",
+            "tag": "Village Hearth",
+            "description": "Thin rice and lentil pancake eaten with green chutney.",
+            "ingredients": [
+              "Rice",
+              "Urad Dal",
+              "Ginger",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A household breakfast, cooked fresh on a flat iron tawa.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4569,7 +6120,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Faraa",
+            "regionalOrigin": "Chhattisgarh Households",
+            "tag": "Monsoon Breakfast",
+            "description": "Steamed rice flour dumplings seasoned with mustard and curry leaves.",
+            "ingredients": [
+              "Rice Flour",
+              "Mustard Seeds",
+              "Curry Leaves",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Eaten in the monsoon, when fresh steamed food is most comforting.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4593,7 +6159,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bafauri",
+            "regionalOrigin": "Chhattisgarh Festivals",
+            "tag": "Festival Dish",
+            "description": "Steamed urad dal cakes with ginger and mild spices.",
+            "ingredients": [
+              "Urad Dal",
+              "Ginger",
+              "Cumin",
+              "Coriander"
+            ],
+            "culturalAnecdote": "Prepared for festivals and special family occasions.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4617,7 +6198,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chausela",
+            "regionalOrigin": "Chhattisgarh Households",
+            "tag": "Harvest Dessert",
+            "description": "Sweet rice and jaggery dish cooked after the harvest.",
+            "ingredients": [
+              "Rice",
+              "Jaggery",
+              "Coconut",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Cooked to celebrate the harvest season.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4641,7 +6237,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chila Tikki Chaat",
+            "regionalOrigin": "Raipur Bazaars",
+            "tag": "Bazaar Snack",
+            "description": "Crisp pancake and potato tikki topped with yogurt and chutneys.",
+            "ingredients": [
+              "Chila",
+              "Potato",
+              "Yogurt",
+              "Tamarind Chutney"
+            ],
+            "culturalAnecdote": "Bazaar chaat became a popular evening snack in Raipur.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4665,7 +6276,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bastar Bamboo Shoot Curry",
+            "regionalOrigin": "Bastar Forests",
+            "tag": "Heritage Forest",
+            "description": "Fermented bamboo shoots cooked with mild spices and chilli.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Red Chilli",
+              "Garlic",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Bastar's forest communities have cooked fermented bamboo shoots for generations.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -4706,7 +6332,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Jharkhand Simmered Pot",
@@ -4719,7 +6346,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -4742,7 +6370,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dhuska",
+            "regionalOrigin": "Tribal Hearths",
+            "tag": "Tribal Hearth",
+            "description": "Fried rice and lentil fritters, crisp outside and soft within.",
+            "ingredients": [
+              "Rice",
+              "Urad Dal",
+              "Ginger",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "A staple of tribal and rural households, often served with spiced vegetable curry.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4766,7 +6409,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Rugra Mushroom Curry",
+            "regionalOrigin": "Forest Villages",
+            "tag": "Forest Bounty",
+            "description": "Wild mushrooms cooked with mustard, ginger and green chilli.",
+            "ingredients": [
+              "Rugra Mushroom",
+              "Mustard Oil",
+              "Ginger",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "Foraged after the monsoon from the forest, the mushroom is a seasonal delicacy.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4790,7 +6448,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Thekua",
+            "regionalOrigin": "Jharkhand Households",
+            "tag": "Festival Sweet",
+            "description": "Wheat and jaggery biscuit made for festivals.",
+            "ingredients": [
+              "Wheat Flour",
+              "Jaggery",
+              "Ghee",
+              "Fennel"
+            ],
+            "culturalAnecdote": "Shared with Bihar, prepared for Chhath and seasonal festivals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4814,7 +6487,21 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Handia",
+            "regionalOrigin": "Adivasi Villages",
+            "tag": "Adivasi Kitchen",
+            "description": "Traditional fermented rice drink, served during community gatherings.",
+            "ingredients": [
+              "Rice",
+              "Ranu Starter",
+              "Water"
+            ],
+            "culturalAnecdote": "Brewed in Adivasi households and central to community and festive life.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4838,7 +6525,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chilka Roti",
+            "regionalOrigin": "Jharkhand Stalls",
+            "tag": "Street Stall",
+            "description": "Thin rice-flour flatbread cooked on a hot griddle and eaten with chutney.",
+            "ingredients": [
+              "Rice Flour",
+              "Water",
+              "Salt",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Quick to make and easy to carry, it became a popular stall snack.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4862,7 +6564,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mahua Laddoo",
+            "regionalOrigin": "Forest Villages",
+            "tag": "Forest Revival",
+            "description": "Sweet balls made from dried mahua flowers, jaggery and nuts.",
+            "ingredients": [
+              "Dried Mahua Flowers",
+              "Jaggery",
+              "Ghee",
+              "Cashew"
+            ],
+            "culturalAnecdote": "Mahua trees are central to forest life, and the dried flowers have long been eaten as food.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -4902,7 +6619,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Haryana Simmered Pot",
@@ -4915,7 +6633,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -4938,7 +6657,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Khichdi",
+            "regionalOrigin": "Haryana Villages",
+            "tag": "Rural Winter",
+            "description": "Pearl millet and lentil porridge cooked with ghee.",
+            "ingredients": [
+              "Pearl Millet",
+              "Moong Dal",
+              "Ghee",
+              "Jaggery"
+            ],
+            "culturalAnecdote": "A winter dish that keeps the body warm during cold months.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4962,7 +6696,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Churma",
+            "regionalOrigin": "Haryana Households",
+            "tag": "Ghee Sweet",
+            "description": "Crumbled wheat flatbread mixed with ghee and jaggery.",
+            "ingredients": [
+              "Wheat Flour",
+              "Ghee",
+              "Jaggery",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Made from leftover flatbread crumbled into a sweet mix, served at family celebrations.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -4986,7 +6735,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kachri Chutney",
+            "regionalOrigin": "Haryana Fields",
+            "tag": "Desi Chutney",
+            "description": "Tangy chutney made from wild melon, green chilli and mustard oil.",
+            "ingredients": [
+              "Kachri Melon",
+              "Green Chilli",
+              "Mustard Oil",
+              "Salt"
+            ],
+            "culturalAnecdote": "The wild kachri melon grows in the fields and is cooked into a tangy chutney.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5010,7 +6774,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chhachh Kadhi",
+            "regionalOrigin": "Haryana Dhabas",
+            "tag": "Dhaba Staple",
+            "description": "Spiced buttermilk and gram flour curry served with rice.",
+            "ingredients": [
+              "Buttermilk",
+              "Gram Flour",
+              "Mustard Seeds",
+              "Curry Leaves"
+            ],
+            "culturalAnecdote": "A cooling everyday dish served at dhabas and home tables.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5034,7 +6813,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Haryanvi Saag Thali",
+            "regionalOrigin": "Haryana Villages",
+            "tag": "Village Feast",
+            "description": "Mustard greens with makki roti, white butter and jaggery.",
+            "ingredients": [
+              "Mustard Greens",
+              "Maize Flour",
+              "White Butter",
+              "Jaggery"
+            ],
+            "culturalAnecdote": "A village feast dish served with white butter and jaggery on the side.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5058,7 +6852,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Roti with Ghee Revival",
+            "regionalOrigin": "Haryana Farms",
+            "tag": "Millet Revival",
+            "description": "Pearl millet flatbread served with ghee, revived as a heritage grain dish.",
+            "ingredients": [
+              "Pearl Millet",
+              "Ghee",
+              "Jaggery",
+              "Salt"
+            ],
+            "culturalAnecdote": "Pearl millet is central to Haryana's farming heritage and is now revived on modern menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -5099,7 +6908,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Delhi Simmered Pot",
@@ -5112,7 +6922,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -5135,7 +6946,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Nihari",
+            "regionalOrigin": "Old Delhi Mughal Kitchens",
+            "tag": "Mughal Dastarkhwan",
+            "description": "Slow-cooked beef or mutton shank in a rich, spiced gravy.",
+            "ingredients": [
+              "Shank Meat",
+              "Bone Marrow",
+              "Ginger",
+              "Nihari Masala"
+            ],
+            "culturalAnecdote": "Traditionally cooked overnight in old Delhi's Mughal-era kitchens and eaten at dawn.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5159,7 +6985,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chandni Chowk Chaat",
+            "regionalOrigin": "Chandni Chowk",
+            "tag": "Bazaar Chaat",
+            "description": "Crisp fritters, chickpeas and yogurt topped with tamarind and mint chutneys.",
+            "ingredients": [
+              "Papdi",
+              "Chickpeas",
+              "Yogurt",
+              "Tamarind Chutney"
+            ],
+            "culturalAnecdote": "The lanes of Chandni Chowk made chaat a favourite of the city's bazaars.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5183,7 +7024,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kulfi Falooda",
+            "regionalOrigin": "Delhi Imperial Capital",
+            "tag": "Imperial Capital Dessert",
+            "description": "Dense frozen milk kulfi served with rose syrup and vermicelli.",
+            "ingredients": [
+              "Milk",
+              "Pistachio",
+              "Rose Syrup",
+              "Vermicelli"
+            ],
+            "culturalAnecdote": "A court dessert of the capital, served chilled in the summer heat.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5207,7 +7063,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Butter Chicken at Moti Mahal",
+            "regionalOrigin": "Daryaganj, Delhi",
+            "tag": "Partition Classic",
+            "description": "Tandoori chicken simmered in a buttery tomato and cream gravy.",
+            "ingredients": [
+              "Chicken",
+              "Tomato",
+              "Butter",
+              "Cream"
+            ],
+            "culturalAnecdote": "Created by refugee cooks in Daryaganj after Partition, as a way to use leftover tandoori chicken.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5231,7 +7102,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chole Bhature",
+            "regionalOrigin": "Delhi Streets",
+            "tag": "Street Staple",
+            "description": "Spiced chickpea curry served with puffed deep-fried bread.",
+            "ingredients": [
+              "Chickpeas",
+              "Refined Flour",
+              "Tea Leaves",
+              "Amchur"
+            ],
+            "culturalAnecdote": "Street vendors made it a city staple, often eaten at breakfast.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5255,7 +7141,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Dal Khichdi Revival",
+            "regionalOrigin": "Delhi Kitchens",
+            "tag": "Revival Plate",
+            "description": "Pearl millet and lentil khichdi cooked with ghee and whole spices.",
+            "ingredients": [
+              "Pearl Millet",
+              "Moong Dal",
+              "Ghee",
+              "Whole Spices"
+            ],
+            "culturalAnecdote": "A revived millet dish, cooked by city kitchens as a healthy heritage meal.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -5295,7 +7196,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Meghalaya Simmered Pot",
@@ -5308,7 +7210,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -5331,7 +7234,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Jadoh",
+            "regionalOrigin": "Khasi Hills",
+            "tag": "Khasi Hearth",
+            "description": "Red rice cooked with pork and fried onions.",
+            "ingredients": [
+              "Red Rice",
+              "Pork",
+              "Onion",
+              "Black Sesame"
+            ],
+            "culturalAnecdote": "A Khasi staple, served on the hills for family meals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5355,7 +7273,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tungrymbai",
+            "regionalOrigin": "Khasi Households",
+            "tag": "Ancestral Fermentation",
+            "description": "Fermented soybean dish with chilli and herbs.",
+            "ingredients": [
+              "Fermented Soybean",
+              "Green Chilli",
+              "Garlic",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Fermentation has long been a way of preserving food in the Khasi hills.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5379,7 +7312,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dohneiiong",
+            "regionalOrigin": "Khasi Festivals",
+            "tag": "Festival Dish",
+            "description": "Pork cooked with black sesame and onion.",
+            "ingredients": [
+              "Pork",
+              "Black Sesame",
+              "Onion",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Prepared for festival gatherings in Khasi villages.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5403,7 +7351,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pumaloi",
+            "regionalOrigin": "Garo Hills",
+            "tag": "Village Snack",
+            "description": "Steamed rice flour cake with a soft, chewy texture.",
+            "ingredients": [
+              "Rice Flour",
+              "Jaggery",
+              "Water",
+              "Salt"
+            ],
+            "culturalAnecdote": "A village snack made in the Garo Hills for special occasions.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5427,7 +7390,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Khasi Pork Sausage",
+            "regionalOrigin": "Meghalaya Markets",
+            "tag": "Market Sausage",
+            "description": "Spiced pork sausage sold at hill markets.",
+            "ingredients": [
+              "Pork",
+              "Ginger",
+              "Garlic",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Sold fresh at hill markets, grilled over charcoal.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5451,7 +7429,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Heritage Red Rice Jadoh Revival",
+            "regionalOrigin": "Meghalaya Farms",
+            "tag": "Heritage Grain",
+            "description": "Traditional red rice revived as a heritage grain dish.",
+            "ingredients": [
+              "Red Rice",
+              "Pork Stock",
+              "Onion",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Local farmers are reviving the traditional red rice that goes into jadoh.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -5491,7 +7484,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Nagaland Simmered Pot",
@@ -5504,7 +7498,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -5527,7 +7522,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Smoked Pork with Axone",
+            "regionalOrigin": "Naga Villages",
+            "tag": "Naga Hearth",
+            "description": "Smoked pork cooked with fermented soybean and chilli.",
+            "ingredients": [
+              "Smoked Pork",
+              "Axone",
+              "Naga King Chilli",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Smoking and fermentation are central to Naga food preservation.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5551,7 +7561,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Curry",
+            "regionalOrigin": "Naga Forests",
+            "tag": "Forest Kitchen",
+            "description": "Fermented bamboo shoot cooked with pork or greens.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Pork",
+              "Chilli",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Bamboo shoots are fermented in the forest and kept for months.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5575,7 +7600,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Naga King Chilli Chutney",
+            "regionalOrigin": "Naga Villages",
+            "tag": "Warrior Spice",
+            "description": "Hot chilli chutney made with the Naga King chilli.",
+            "ingredients": [
+              "Naga King Chilli",
+              "Garlic",
+              "Ginger",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "One of the world's hottest chillies, used sparingly in Naga cooking.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5599,7 +7639,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Galho",
+            "regionalOrigin": "Naga Households",
+            "tag": "Village Staple",
+            "description": "Rice porridge with greens and aromatic herbs.",
+            "ingredients": [
+              "Rice",
+              "Greens",
+              "Ginger",
+              "Garlic"
+            ],
+            "culturalAnecdote": "A simple daily dish, cooked in the village household.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5623,7 +7678,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Naga Chicken Pickle",
+            "regionalOrigin": "Naga Markets",
+            "tag": "Market Preserve",
+            "description": "Chicken pickled with chilli, garlic and fermented flavourings.",
+            "ingredients": [
+              "Chicken",
+              "Naga King Chilli",
+              "Garlic",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Sold at village markets as a preserved, long-lasting food.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5647,7 +7717,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Akhuni Heritage Revival",
+            "regionalOrigin": "Naga Villages",
+            "tag": "Heritage Fermented",
+            "description": "Fermented soybean revived as a heritage ingredient.",
+            "ingredients": [
+              "Soybean",
+              "Ash Wrapping",
+              "Garlic",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Akhuni is a traditional fermented soybean, revived by modern Naga cooks.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -5687,7 +7772,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Manipur Simmered Pot",
@@ -5700,7 +7786,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -5723,7 +7810,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Eromba",
+            "regionalOrigin": "Manipur Villages",
+            "tag": "Village Staple",
+            "description": "Mashed fermented fish, vegetables and chilli eaten with rice.",
+            "ingredients": [
+              "Fermented Fish",
+              "Potato",
+              "Chilli",
+              "Herbs"
+            ],
+            "culturalAnecdote": "A staple that is mashed by hand and eaten with rice.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5747,7 +7849,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chak-hao Kheer",
+            "regionalOrigin": "Manipur Festivals",
+            "tag": "Royal Sweet",
+            "description": "Black rice pudding cooked with milk and jaggery.",
+            "ingredients": [
+              "Black Rice",
+              "Milk",
+              "Jaggery",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Black rice was once reserved for royal and festival use.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5771,7 +7888,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Singju",
+            "regionalOrigin": "Manipur Households",
+            "tag": "Festival Salad",
+            "description": "Crunchy herb and vegetable salad with fermented fish paste.",
+            "ingredients": [
+              "Herbs",
+              "Banana Stem",
+              "Fermented Fish",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Served at festivals and gatherings in Manipuri homes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5795,7 +7927,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Ngari",
+            "regionalOrigin": "Manipur Fishing Villages",
+            "tag": "Ancestral Fermentation",
+            "description": "Fermented fish dish with a strong, savoury flavour.",
+            "ingredients": [
+              "Fish",
+              "Mustard Leaves",
+              "Chilli",
+              "Salt"
+            ],
+            "culturalAnecdote": "A fermented fish dish made in villages to preserve fish through the seasons.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5819,7 +7966,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Manipuri Fish Curry",
+            "regionalOrigin": "Imphal Restaurants",
+            "tag": "Market Curry",
+            "description": "Fish cooked in a light gravy of herbs and chilli.",
+            "ingredients": [
+              "Fish",
+              "Herbs",
+              "Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Sold at Imphal markets and home kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5843,7 +8005,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Black Rice Heritage Revival",
+            "regionalOrigin": "Manipur Farms",
+            "tag": "Heirloom Grain",
+            "description": "Chak-hao black rice revived as a heritage grain dish.",
+            "ingredients": [
+              "Black Rice",
+              "Ghee",
+              "Jaggery",
+              "Coconut"
+            ],
+            "culturalAnecdote": "Manipur's black rice is being revived by local farmers and chefs.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -5883,7 +8060,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Mizoram Simmered Pot",
@@ -5896,7 +8074,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -5919,7 +8098,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bai",
+            "regionalOrigin": "Mizo Hills",
+            "tag": "Hill Hearth",
+            "description": "Vegetable broth cooked with herbs and fermented soybean.",
+            "ingredients": [
+              "Vegetables",
+              "Herbs",
+              "Fermented Soybean",
+              "Chilli"
+            ],
+            "culturalAnecdote": "A simple hill dish, cooked daily in Mizo households.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5943,7 +8137,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sawhchiar",
+            "regionalOrigin": "Mizo Festivals",
+            "tag": "Festival Feast",
+            "description": "Rice cooked with pork and aromatic spices for festive meals.",
+            "ingredients": [
+              "Rice",
+              "Pork",
+              "Ginger",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Prepared for festival and community feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5967,7 +8176,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Chutney",
+            "regionalOrigin": "Mizo Forests",
+            "tag": "Forest Preserve",
+            "description": "Fermented bamboo shoot chutney with chilli.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Chilli",
+              "Garlic",
+              "Salt"
+            ],
+            "culturalAnecdote": "Bamboo shoots are fermented in the forest and kept for long periods.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -5991,7 +8215,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mizo Chicken Stew",
+            "regionalOrigin": "Mizo Villages",
+            "tag": "Village Feast",
+            "description": "Chicken simmered with local herbs and ginger.",
+            "ingredients": [
+              "Chicken",
+              "Ginger",
+              "Herbs",
+              "Chilli"
+            ],
+            "culturalAnecdote": "A village feast dish, shared among families and neighbours.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6015,7 +8254,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Vawksa Rep",
+            "regionalOrigin": "Mizo Hills",
+            "tag": "Hill Smoke",
+            "description": "Smoked pork dish with local spices.",
+            "ingredients": [
+              "Smoked Pork",
+              "Chilli",
+              "Garlic",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Smoked over wood fires, a traditional way to preserve pork.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6039,7 +8293,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Heritage Revival",
+            "regionalOrigin": "Mizoram Forests",
+            "tag": "Foraged Revival",
+            "description": "Foraged bamboo shoots revived in modern kitchens.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Herbs",
+              "Chilli",
+              "Lime"
+            ],
+            "culturalAnecdote": "Foraged bamboo shoots are being revived on modern Mizo menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -6079,7 +8348,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Tripura Simmered Pot",
@@ -6092,7 +8362,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -6115,7 +8386,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Mui Bangui",
+            "regionalOrigin": "Tripura Palace Kitchens",
+            "tag": "Royal Hearth",
+            "description": "Fermented fish dish with mustard and chilli.",
+            "ingredients": [
+              "Fermented Fish",
+              "Mustard",
+              "Chilli",
+              "Herbs"
+            ],
+            "culturalAnecdote": "Associated with the Manikya royal kitchens of Tripura.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6139,7 +8425,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Chakhwi",
+            "regionalOrigin": "Tripura Forests",
+            "tag": "Bamboo Kitchen",
+            "description": "Fermented bamboo shoot stew with chilli and herbs.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Chilli",
+              "Herbs",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Tripuri forest communities have cooked fermented bamboo for generations.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6163,7 +8464,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tripuri Vegetable Stew",
+            "regionalOrigin": "Tripura Villages",
+            "tag": "Swadeshi Kitchen",
+            "description": "Mixed seasonal vegetables cooked in a light herbal broth.",
+            "ingredients": [
+              "Mixed Vegetables",
+              "Herbs",
+              "Ginger",
+              "Salt"
+            ],
+            "culturalAnecdote": "A household dish made from the vegetables of each season.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6187,7 +8503,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Shorshe Maach",
+            "regionalOrigin": "Bengali Settler Kitchens",
+            "tag": "Refugee Kitchen",
+            "description": "Fish cooked in a mustard gravy, brought by Bengali settlers.",
+            "ingredients": [
+              "Fish",
+              "Mustard Paste",
+              "Green Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Settlers after 1947 brought mustard-based fish dishes into Tripura's kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6211,7 +8542,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chicken Dum",
+            "regionalOrigin": "Tripura Markets",
+            "tag": "Market Spice",
+            "description": "Chicken slow-cooked in a spiced gravy sealed in a pot.",
+            "ingredients": [
+              "Chicken",
+              "Onion",
+              "Garam Masala",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Sold at local markets as a slow-cooked specialty.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6235,7 +8581,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tripura Bamboo Shoot Revival",
+            "regionalOrigin": "Tripura Forests",
+            "tag": "Heritage Foraged",
+            "description": "Foraged bamboo shoots revived in heritage menus.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Chilli",
+              "Herbs",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Foraged bamboo is being revived by local cooks in Tripura.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -6275,7 +8636,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Arunachal Pradesh Simmered Pot",
@@ -6288,7 +8650,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -6311,7 +8674,21 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Apong",
+            "regionalOrigin": "Monpa Villages",
+            "tag": "Monpa Hearth",
+            "description": "Traditional fermented rice drink served at village gatherings.",
+            "ingredients": [
+              "Rice",
+              "Millet Starter",
+              "Water"
+            ],
+            "culturalAnecdote": "Brewed in Monpa and Adi villages for gatherings and festivals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6335,7 +8712,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Pork",
+            "regionalOrigin": "Arunachal Forests",
+            "tag": "Forest Kitchen",
+            "description": "Pork cooked with fermented bamboo shoots and chilli.",
+            "ingredients": [
+              "Pork",
+              "Bamboo Shoot",
+              "Chilli",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Forest communities preserve bamboo shoots by fermenting them.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6359,7 +8751,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pehak",
+            "regionalOrigin": "Arunachal Households",
+            "tag": "Ancestral Preservation",
+            "description": "Fermented chilli preserve used to flavour dishes.",
+            "ingredients": [
+              "Chilli",
+              "Fermented Leaves",
+              "Salt",
+              "Garlic"
+            ],
+            "culturalAnecdote": "A preserve handed down through families for flavour through the year.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6383,7 +8790,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Thukpa",
+            "regionalOrigin": "Arunachal Border Towns",
+            "tag": "Border Trade",
+            "description": "Noodle soup with vegetables and meat.",
+            "ingredients": [
+              "Noodles",
+              "Vegetables",
+              "Meat",
+              "Garlic"
+            ],
+            "culturalAnecdote": "Brought along border trade routes and became a staple in border towns.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6407,7 +8829,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Arunachal Chicken Chowmein",
+            "regionalOrigin": "Border Bazaars",
+            "tag": "Border Bazaar",
+            "description": "Stir-fried noodles with chicken and vegetables.",
+            "ingredients": [
+              "Noodles",
+              "Chicken",
+              "Cabbage",
+              "Soy Sauce"
+            ],
+            "culturalAnecdote": "A bazaar favourite in border towns, shaped by trade with neighbouring communities.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6431,7 +8868,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bamboo Shoot Heritage Revival",
+            "regionalOrigin": "Arunachal Farms",
+            "tag": "Indigenous Revival",
+            "description": "Traditional bamboo shoot dishes revived in modern kitchens.",
+            "ingredients": [
+              "Bamboo Shoot",
+              "Herbs",
+              "Chilli",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Indigenous cooks are reviving traditional bamboo recipes.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -6471,7 +8923,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Sikkim Simmered Pot",
@@ -6484,7 +8937,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -6507,7 +8961,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Gundruk Soup",
+            "regionalOrigin": "Sikkim Hills",
+            "tag": "Hill Hearth",
+            "description": "Fermented leafy greens cooked into a sour, warming soup.",
+            "ingredients": [
+              "Gundruk",
+              "Potato",
+              "Ginger",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Gundruk is fermented greens, dried and stored for winter.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6531,7 +9000,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Kinema",
+            "regionalOrigin": "Sikkim Households",
+            "tag": "Fermented Heritage",
+            "description": "Fermented soybean dish with a pungent flavour.",
+            "ingredients": [
+              "Fermented Soybean",
+              "Chilli",
+              "Garlic",
+              "Onion"
+            ],
+            "culturalAnecdote": "A fermented soybean dish that is central to Sikkimese cooking.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6555,7 +9039,21 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Churpi",
+            "regionalOrigin": "Sikkim Dairies",
+            "tag": "Yak Dairy",
+            "description": "Hard cheese made from yak milk, chewed as a snack.",
+            "ingredients": [
+              "Yak Milk",
+              "Salt",
+              "Whey"
+            ],
+            "culturalAnecdote": "Made by highland herders from yak milk, and eaten as a long-lasting snack.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6579,7 +9077,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Phagshapa",
+            "regionalOrigin": "Monastery Kitchens",
+            "tag": "Monastery Kitchen",
+            "description": "Pork cooked with radish and dried chilli.",
+            "ingredients": [
+              "Pork",
+              "Radish",
+              "Dried Chilli",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Served in monastery kitchens during feasts.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6603,7 +9116,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sikkimese Momo",
+            "regionalOrigin": "Gangtok Streets",
+            "tag": "Street Dumpling",
+            "description": "Steamed dumplings filled with spiced pork or vegetables.",
+            "ingredients": [
+              "Wheat Flour",
+              "Pork",
+              "Onion",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Momos became a street favourite in Gangtok.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6627,7 +9155,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Buckwheat Heritage Revival",
+            "regionalOrigin": "Sikkim Farms",
+            "tag": "Organic Revival",
+            "description": "Buckwheat pancakes revived as a heritage grain dish.",
+            "ingredients": [
+              "Buckwheat Flour",
+              "Water",
+              "Salt",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Sikkim's buckwheat is being revived by organic farmers.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -6668,7 +9211,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Andaman and Nicobar Islands Simmered Pot",
@@ -6681,7 +9225,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -6704,7 +9249,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Coconut Fish Curry",
+            "regionalOrigin": "Island Villages",
+            "tag": "Island Hearth",
+            "description": "Fish simmered in a light coconut and chilli gravy.",
+            "ingredients": [
+              "Fish",
+              "Coconut Milk",
+              "Green Chilli",
+              "Curry Leaves"
+            ],
+            "culturalAnecdote": "Island fishing families cooked it with coconuts from their own trees.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6728,7 +9288,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Jungle Fish Preserve",
+            "regionalOrigin": "Island Forests",
+            "tag": "Colonial Kitchen",
+            "description": "Smoked and salted fish preserved for long journeys.",
+            "ingredients": [
+              "Fish",
+              "Salt",
+              "Chilli",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "Preserved fish was taken on colonial-era voyages across the islands.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6752,7 +9327,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Coconut Crab Curry",
+            "regionalOrigin": "Island Coasts",
+            "tag": "Island Specialty",
+            "description": "Crab cooked with coconut, tamarind and island spices.",
+            "ingredients": [
+              "Crab",
+              "Coconut",
+              "Tamarind",
+              "Spices"
+            ],
+            "culturalAnecdote": "A coastal specialty of the islands, cooked for family and festival meals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6776,7 +9366,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bengali Shrimp Curry",
+            "regionalOrigin": "Settler Villages",
+            "tag": "Settler Kitchen",
+            "description": "Prawns cooked in a mustard and coconut gravy.",
+            "ingredients": [
+              "Prawns",
+              "Mustard Paste",
+              "Coconut",
+              "Mustard Oil"
+            ],
+            "culturalAnecdote": "Bengali settlers brought their mustard-based cooking to the islands.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6800,7 +9405,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Island Fish Fry",
+            "regionalOrigin": "Port Blair Beaches",
+            "tag": "Beach Stall",
+            "description": "Fish marinated in chilli and turmeric, then fried until crisp.",
+            "ingredients": [
+              "Fish",
+              "Chilli",
+              "Turmeric",
+              "Rice Flour"
+            ],
+            "culturalAnecdote": "Beach stalls fry the day's catch for visitors and locals.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6824,7 +9444,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Island Coconut Heritage Revival",
+            "regionalOrigin": "Island Farms",
+            "tag": "Heritage Coastal",
+            "description": "Traditional coconut-based dishes revived on island menus.",
+            "ingredients": [
+              "Coconut",
+              "Local Greens",
+              "Chilli",
+              "Fish"
+            ],
+            "culturalAnecdote": "Island chefs are reviving traditional coconut recipes for modern menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -6865,7 +9500,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Lakshadweep Simmered Pot",
@@ -6878,7 +9514,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -6901,7 +9538,23 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Lakshadweep Tuna-Coconut Mas",
+            "regionalOrigin": "Lakshadweep Islands",
+            "tag": "Island Breakfast",
+            "description": "Shredded tuna mixed with grated coconut, onion and chilli.",
+            "ingredients": [
+              "Tuna",
+              "Coconut",
+              "Onion",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A traditional island breakfast, eaten with flatbread or rice.",
+            "accuracy": "corrected",
+            "fixNote": "Replaced Maldivian Mas Huni; use locally grounded tuna-coconut preparation."
           }
         ]
       },
@@ -6925,7 +9578,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tuna Steamed Rice",
+            "regionalOrigin": "Lakshadweep Villages",
+            "tag": "Coastal Tradition",
+            "description": "Rice cooked with tuna, coconut and island spices.",
+            "ingredients": [
+              "Rice",
+              "Tuna",
+              "Coconut",
+              "Spices"
+            ],
+            "culturalAnecdote": "A coastal dish cooked on island hearths using the day's catch.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6949,7 +9617,19 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Island Coconut Toddy",
+            "regionalOrigin": "Lakshadweep Palms",
+            "tag": "Palm Tradition",
+            "description": "Fresh coconut palm sap collected and drunk as a sweet drink.",
+            "ingredients": [
+              "Coconut Palm Sap"
+            ],
+            "culturalAnecdote": "Collected from palms on the islands, where coconut is central to life.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6973,7 +9653,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Coconut Fish Curry",
+            "regionalOrigin": "Lakshadweep Kitchens",
+            "tag": "Island Hearth",
+            "description": "Fish cooked in a coconut and curry leaf gravy.",
+            "ingredients": [
+              "Fish",
+              "Coconut",
+              "Curry Leaves",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Island families cooked fish curry with fresh coconut daily.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -6997,7 +9692,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Coconut Halwa",
+            "regionalOrigin": "Lakshadweep Festivals",
+            "tag": "Festive Sweet",
+            "description": "Sweet halwa made from coconut, jaggery and ghee.",
+            "ingredients": [
+              "Coconut",
+              "Jaggery",
+              "Ghee",
+              "Cardamom"
+            ],
+            "culturalAnecdote": "Prepared at festivals and family celebrations on the islands.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7021,7 +9731,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tuna Heritage Revival",
+            "regionalOrigin": "Lakshadweep Islands",
+            "tag": "Heritage Seafood",
+            "description": "Traditional tuna preparations revived for modern island menus.",
+            "ingredients": [
+              "Tuna",
+              "Coconut",
+              "Lime",
+              "Chilli"
+            ],
+            "culturalAnecdote": "Island chefs are reviving traditional tuna dishes for visitors.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -7062,7 +9787,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Puducherry Simmered Pot",
@@ -7075,7 +9801,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -7098,7 +9825,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Pondy Fish Molly",
+            "regionalOrigin": "Puducherry Coast",
+            "tag": "Colonial Coastal",
+            "description": "Fish in a mild coconut and turmeric gravy.",
+            "ingredients": [
+              "Fish",
+              "Coconut Milk",
+              "Turmeric",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A coastal dish shaped by the French colonial presence in Puducherry.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7122,7 +9864,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "French Colonial Fish Stew",
+            "regionalOrigin": "Puducherry French Quarter",
+            "tag": "French Colonial",
+            "description": "Fish stewed with tomato, herbs and a touch of wine.",
+            "ingredients": [
+              "Fish",
+              "Tomato",
+              "Herbs",
+              "Wine"
+            ],
+            "culturalAnecdote": "Developed in the French Quarter, where French and Tamil cooking met.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7146,7 +9903,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Puducherry French Bread",
+            "regionalOrigin": "Puducherry Bakeries",
+            "tag": "Colonial Bakery",
+            "description": "Crusty French-style bread baked in local bakeries.",
+            "ingredients": [
+              "Wheat Flour",
+              "Yeast",
+              "Salt",
+              "Water"
+            ],
+            "culturalAnecdote": "French-run bakeries introduced bread-making to the town.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7170,7 +9942,23 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Puducherry Coastal Crab Curry",
+            "regionalOrigin": "Puducherry Coast",
+            "tag": "Tamil Coastal",
+            "description": "Crab cooked in a spiced coastal masala with tamarind and coconut.",
+            "ingredients": [
+              "Crab",
+              "Coastal Masala",
+              "Tamarind",
+              "Coconut"
+            ],
+            "culturalAnecdote": "Crab is a common part of the coastal cooking along Puducherry's shore.",
+            "accuracy": "corrected",
+            "fixNote": "Chettinad is Tamil Nadu; renamed to Puducherry attribution."
           }
         ]
       },
@@ -7194,7 +9982,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chicken Dum",
+            "regionalOrigin": "Puducherry Markets",
+            "tag": "Street Dish",
+            "description": "Chicken slow-cooked in a sealed pot with spices.",
+            "ingredients": [
+              "Chicken",
+              "Onion",
+              "Garam Masala",
+              "Ghee"
+            ],
+            "culturalAnecdote": "Sold at local markets and street stalls.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7218,7 +10021,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Millet Pongal Revival",
+            "regionalOrigin": "Puducherry Farms",
+            "tag": "Heritage Revival",
+            "description": "Traditional pongal made with millet instead of rice.",
+            "ingredients": [
+              "Millet",
+              "Moong Dal",
+              "Ghee",
+              "Black Pepper"
+            ],
+            "culturalAnecdote": "Revived as a heritage millet dish for modern festive menus.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -7259,7 +10077,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Chandigarh Simmered Pot",
@@ -7272,7 +10091,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -7295,7 +10115,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Makki di Roti & Sarson Saag",
+            "regionalOrigin": "Pre-Capital Punjab Hearth",
+            "tag": "Pre-Capital Hearth",
+            "description": "Maize flatbread served with mustard greens and white butter.",
+            "ingredients": [
+              "Maize Flour",
+              "Mustard Greens",
+              "White Butter",
+              "Ginger"
+            ],
+            "culturalAnecdote": "The region's farming households ate this dish long before the planned city was built.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7319,7 +10154,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Chole Kulche",
+            "regionalOrigin": "Grand Trunk Road",
+            "tag": "Grand Trunk Road",
+            "description": "Spiced chickpea curry served with stuffed flatbread.",
+            "ingredients": [
+              "Chickpeas",
+              "Refined Flour",
+              "Potato",
+              "Amchur"
+            ],
+            "culturalAnecdote": "A traveller's dish along the Grand Trunk Road through Punjab.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7343,7 +10193,22 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Lassi",
+            "regionalOrigin": "Dairy Shops",
+            "tag": "Dairy Tradition",
+            "description": "Chilled yogurt drink, sweet or salted.",
+            "ingredients": [
+              "Yogurt",
+              "Sugar",
+              "Cardamom",
+              "Ice"
+            ],
+            "culturalAnecdote": "Dairy shops across the region served lassi in clay cups.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7367,7 +10232,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Partition Thali",
+            "regionalOrigin": "Refugee Kitchens",
+            "tag": "Refugee Kitchen",
+            "description": "A full thali of dal, vegetables, rice, roti and sweets.",
+            "ingredients": [
+              "Dal",
+              "Vegetables",
+              "Rice",
+              "Roti"
+            ],
+            "culturalAnecdote": "Refugee families set up community kitchens serving thalis after Partition.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7391,7 +10271,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Tandoori Chicken",
+            "regionalOrigin": "Capital City Dhabas",
+            "tag": "Capital City Dhaba",
+            "description": "Chicken marinated in yogurt and spices, roasted in a clay tandoor.",
+            "ingredients": [
+              "Chicken",
+              "Yogurt",
+              "Ginger",
+              "Garam Masala"
+            ],
+            "culturalAnecdote": "The planned city's dhabas made tandoori chicken a local favourite.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7415,7 +10310,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Millet Sarson Revival",
+            "regionalOrigin": "Chandigarh Farms",
+            "tag": "Heirloom Revival",
+            "description": "Mustard greens with pearl millet, revived as a heritage dish.",
+            "ingredients": [
+              "Mustard Greens",
+              "Pearl Millet",
+              "Ghee",
+              "Ginger"
+            ],
+            "culturalAnecdote": "Revived by local kitchens that celebrate Punjab's millet heritage.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }
@@ -7456,7 +10366,8 @@ export const CULINARY_DATABASE = {
               "Stone-Ground Spices",
               "Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals."
+            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
+            "accuracy": "placeholder_not_verifiable"
           },
           {
             "name": "Royal Dadra and Nagar Haveli and Daman and Diu Simmered Pot",
@@ -7469,7 +10380,8 @@ export const CULINARY_DATABASE = {
               "Local River/Forest Bounty",
               "Whole Spices"
             ],
-            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot."
+            "culturalAnecdote": "Cooked over low embers so that the delicate essential oils permeated the entire pot.",
+            "accuracy": "placeholder_not_verifiable"
           }
         ]
       },
@@ -7492,7 +10404,22 @@ export const CULINARY_DATABASE = {
               "Roasted Spices",
               "Fresh Country Greens"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants."
+            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Dhebra",
+            "regionalOrigin": "Daman Households",
+            "tag": "Coastal Hearth",
+            "description": "Pearl millet flatbread cooked on a flat griddle.",
+            "ingredients": [
+              "Pearl Millet",
+              "Water",
+              "Salt",
+              "Ghee"
+            ],
+            "culturalAnecdote": "A staple flatbread in Gujarati households on the coast.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7516,7 +10443,22 @@ export const CULINARY_DATABASE = {
               "Coriander",
               "Country Tamarind"
             ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province."
+            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bafat",
+            "regionalOrigin": "Daman Portuguese Kitchens",
+            "tag": "Colonial Daman",
+            "description": "Pork cooked in a tangy, spicy masala with vinegar.",
+            "ingredients": [
+              "Pork",
+              "Vinegar",
+              "Red Chilli",
+              "Garlic"
+            ],
+            "culturalAnecdote": "A Portuguese-influenced dish carried into Daman's Catholic kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7540,7 +10482,23 @@ export const CULINARY_DATABASE = {
               "Ghee",
               "Jaggery"
             ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil."
+            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Daman Portuguese-Influenced Fish Curry",
+            "regionalOrigin": "Daman Coast",
+            "tag": "Coastal Heritage",
+            "description": "Fish cooked in a Portuguese-influenced coastal masala, reflecting Daman's coastal kitchens.",
+            "ingredients": [
+              "Fish",
+              "Coconut",
+              "Tamarind",
+              "Spices"
+            ],
+            "culturalAnecdote": "Portuguese influence on Daman's coastal cooking shaped dishes like this one.",
+            "accuracy": "corrected",
+            "fixNote": "Dhokla is Gujarati, not a Daman/DNH origin dish; replaced with coastal local dish."
           }
         ]
       },
@@ -7564,7 +10522,22 @@ export const CULINARY_DATABASE = {
               "Tangy Chutney",
               "Crispy Bread"
             ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side."
+            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Fish Caldine",
+            "regionalOrigin": "Daman Coast",
+            "tag": "Portuguese Coastal",
+            "description": "Fish cooked in a light coconut and turmeric gravy.",
+            "ingredients": [
+              "Fish",
+              "Coconut Milk",
+              "Turmeric",
+              "Green Chilli"
+            ],
+            "culturalAnecdote": "A Portuguese-style fish dish found along Daman's coast.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7588,7 +10561,22 @@ export const CULINARY_DATABASE = {
               "Mint Chutney",
               "Crispy Fritters"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars."
+            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Sev Usal",
+            "regionalOrigin": "Dadra & Nagar Haveli Stalls",
+            "tag": "Gujarati Snack",
+            "description": "Spiced pea curry topped with crisp gram-flour noodles.",
+            "ingredients": [
+              "Dry Peas",
+              "Sev",
+              "Onion",
+              "Tamarind"
+            ],
+            "culturalAnecdote": "A popular stall snack, served with fresh onion and chutney.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       },
@@ -7612,7 +10600,22 @@ export const CULINARY_DATABASE = {
               "Foraged Wild Herbs",
               "A2 Desi Ghee / Cold Pressed Oil"
             ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity."
+            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
+            "accuracy": "placeholder_not_verifiable"
+          },
+          {
+            "name": "Bajra Rotla Revival",
+            "regionalOrigin": "Dadra & Nagar Haveli Farms",
+            "tag": "Millet Revival",
+            "description": "Pearl millet flatbread revived as a heritage dish.",
+            "ingredients": [
+              "Pearl Millet",
+              "Garlic",
+              "Ghee",
+              "Salt"
+            ],
+            "culturalAnecdote": "Pearl millet is being revived by local farmers and home kitchens.",
+            "accuracy": "strong_state_attribution_date_approximate"
           }
         ]
       }

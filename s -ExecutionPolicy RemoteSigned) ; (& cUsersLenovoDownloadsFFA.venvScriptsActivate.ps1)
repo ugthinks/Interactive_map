@@ -1,0 +1,29 @@
+[33mcommit f4b964fc502d459ac2a3704012e556f2ff4f6c88[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RavenKing45 <viratdbzs@gmail.com>
+Date:   Tue Nov 3 00:17:44 2026 +0530
+
+    Removed redundant and arbitrary dish names like platter or thali
+
+[33mcommit b9607b29e9624a7032d8d0783149b82ed52b522c[m
+Author: RavenKing45 <viratdbzs@gmail.com>
+Date:   Tue Nov 3 00:00:18 2026 +0530
+
+    Added extra dishes and fixed some names
+
+[33mcommit 6b7aa8269087b3a734ef872647264b29772ed612[m
+Author: Utkarsh Gupta <utkarsh01000@gmail.com>
+Date:   Sun Nov 1 16:19:45 2026 +0530
+
+    Updated Niddle, Hover Opacity
+
+[33mcommit 1971aab088009cc2ce70b1965c996353d6cf7d51[m
+Author: Utkarsh Gupta <utkarsh01000@gmail.com>
+Date:   Fri Oct 30 01:07:36 2026 +0530
+
+    chore: clean gitignore
+
+[33mcommit d38ae1593b820814e246a169d92cfb821d419d55[m
+Author: Utkarsh Gupta <utkarsh01000@gmail.com>
+Date:   Fri Oct 30 01:06:48 2026 +0530
+
+    feat: India, Served Through Time - Interactive Culinary Atlas (1700-2020)

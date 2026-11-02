@@ -1405,21 +1405,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient West Bengal Hearth Platter",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Panch Phoron and Mustard Oil & Shorshe Paste, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Panch Phoron",
-              "Mustard Oil & Shorshe Paste",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal West Bengal Simmered Pot",
             "regionalOrigin": "West Bengal",
             "image": "/assets/kerala_sadya.jpg",
@@ -1444,20 +1429,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent freshly ground mustard seed, raw green chili slit, cold-pressed mustard oil, sweet hilsa fat",
         "dishes": [
           {
-            "name": "Historic West Bengal Spiced Roast",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Panch Phoron and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Panch Phoron",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Kosha Mangsho",
             "regionalOrigin": "Kolkata & Bengal",
             "tag": "Bengali Hearth",
@@ -1481,21 +1452,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
-          {
-            "name": "Heritage West Bengal Railway Platter",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Mustard Oil & Shorshe Paste",
-              "Gobindobhog Rice",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Shorshe Ilish",
             "regionalOrigin": "Bengal Rivers",
@@ -1522,21 +1478,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi West Bengal Darbar Thali",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Panch Phoron and unpolished indigenous grains.",
-            "ingredients": [
-              "Panch Phoron",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Mishti Doi",
             "regionalOrigin": "Bengal Sweet Shops",
             "tag": "Swadeshi Sweet",
@@ -1559,21 +1500,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 West Bengal Street Special",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Panch Phoron and zesty chutneys.",
-            "ingredients": [
-              "Panch Phoron",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kolkata Kathi Roll",
             "regionalOrigin": "Kolkata (Nizam’s, New Market)",
@@ -1600,21 +1526,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s West Bengal Chowk Plate",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Panch Phoron and regional condiments.",
-            "ingredients": [
-              "Panch Phoron",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chilli Chicken",
             "regionalOrigin": "Tangra, Kolkata",
             "tag": "Indo-Chinese Street",
@@ -1638,21 +1549,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern West Bengal Botanical Tasting Course",
-            "regionalOrigin": "West Bengal",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Panch Phoron and Mustard Oil & Shorshe Paste with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Panch Phoron",
-              "Mustard Oil & Shorshe Paste",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Rasgulla Heritage Revival",
             "regionalOrigin": "Bengal Sweet Shops",
@@ -1695,21 +1591,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Earthy bitter-sweet mustard greens, rich churned white butter, nutty sweet roasted cornmeal",
         "dishes": [
           {
-            "name": "Ancient Punjab Hearth Platter",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Desi Makhan (White Butter) and Sarson (Mustard Greens), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Sarson (Mustard Greens)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Punjab Simmered Pot",
             "regionalOrigin": "Punjab",
             "image": "/assets/galouti_kebab.jpg",
@@ -1733,20 +1614,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Punjab Spiced Roast",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Desi Makhan (White Butter) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Sarson da Saag with Makki di Roti",
             "regionalOrigin": "Punjab Countryside",
@@ -1772,21 +1639,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Punjab Railway Platter",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Sarson (Mustard Greens)",
-              "Makki (Yellow Cornmeal)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Amritsari Chole Kulcha",
             "regionalOrigin": "Amritsar",
             "tag": "Grand Trunk Road",
@@ -1810,21 +1662,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Punjab Darbar Thali",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Desi Makhan (White Butter) and unpolished indigenous grains.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Sweet Churned Lassi",
             "regionalOrigin": "Ludhiana & Amritsar",
@@ -1850,21 +1687,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Punjab Street Special",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Desi Makhan (White Butter) and zesty chutneys.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Dal Makhani",
             "regionalOrigin": "Delhi-Punjab Dhabas",
             "tag": "Partition Dhaba",
@@ -1889,21 +1711,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Punjab Chowk Plate",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Desi Makhan (White Butter) and regional condiments.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Punjabi Chole Bhature",
             "regionalOrigin": "Punjab & Delhi",
             "tag": "Dhaba Classic",
@@ -1927,21 +1734,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Punjab Botanical Tasting Course",
-            "regionalOrigin": "Punjab",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Desi Makhan (White Butter) and Sarson (Mustard Greens) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Desi Makhan (White Butter)",
-              "Sarson (Mustard Greens)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Roti with Sarson Saag Revival",
             "regionalOrigin": "Punjab Farms",
@@ -1984,21 +1776,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Maharashtra Hearth Platter",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Godha Masala and Kokum (Amsul), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Godha Masala",
-              "Kokum (Amsul)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Maharashtra Simmered Pot",
             "regionalOrigin": "Maharashtra",
             "image": "/assets/kerala_sadya.jpg",
@@ -2022,20 +1799,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Maharashtra Spiced Roast",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Godha Masala and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Godha Masala",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Puran Poli",
             "regionalOrigin": "Maharashtra Households",
@@ -2061,21 +1824,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Maharashtra Railway Platter",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Kokum (Amsul)",
-              "Dagad Phool (Stone Flower)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Misal Pav",
             "regionalOrigin": "Pune & Kolhapur",
             "tag": "Railway Canteen",
@@ -2099,21 +1847,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Maharashtra Darbar Thali",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Godha Masala and unpolished indigenous grains.",
-            "ingredients": [
-              "Godha Masala",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Modak",
             "regionalOrigin": "Pune & Mumbai",
@@ -2139,21 +1872,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Maharashtra Street Special",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Godha Masala and zesty chutneys.",
-            "ingredients": [
-              "Godha Masala",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Kolhapuri Mutton Tambda Rassa",
             "regionalOrigin": "Kolhapur",
             "tag": "Kolhapur Kitchen",
@@ -2178,21 +1896,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Maharashtra Chowk Plate",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Godha Masala and regional condiments.",
-            "ingredients": [
-              "Godha Masala",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Vada Pav",
             "regionalOrigin": "Mumbai Streets",
             "tag": "Street Food Boom",
@@ -2216,21 +1919,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Maharashtra Botanical Tasting Course",
-            "regionalOrigin": "Maharashtra",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Godha Masala and Kokum (Amsul) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Godha Masala",
-              "Kokum (Amsul)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Jowar Bhakri with Pithla",
             "regionalOrigin": "Maharashtra Villages",
@@ -2273,21 +1961,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Gujarat Hearth Platter",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Tuver Lilva (Green Pigeon Peas) and White Sesame Seeds, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "White Sesame Seeds",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Gujarat Simmered Pot",
             "regionalOrigin": "Gujarat",
             "image": "/assets/kerala_sadya.jpg",
@@ -2311,20 +1984,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Gujarat Spiced Roast",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Tuver Lilva (Green Pigeon Peas) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Undhiyu",
             "regionalOrigin": "Surat & Saurashtra",
@@ -2350,21 +2009,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Gujarat Railway Platter",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "White Sesame Seeds",
-              "Kokum",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Khaman Dhokla",
             "regionalOrigin": "Gujarat Bazaars",
             "tag": "Bazaar Snack",
@@ -2388,21 +2032,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Gujarat Darbar Thali",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Tuver Lilva (Green Pigeon Peas) and unpolished indigenous grains.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Thepla",
             "regionalOrigin": "Gujarat Households",
@@ -2428,21 +2057,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Gujarat Street Special",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Tuver Lilva (Green Pigeon Peas) and zesty chutneys.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Dal Dhokli",
             "regionalOrigin": "Gujarat Mill Towns",
             "tag": "Mill Town Staple",
@@ -2467,21 +2081,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Gujarat Chowk Plate",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Tuver Lilva (Green Pigeon Peas) and regional condiments.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Khandvi",
             "regionalOrigin": "Surat & Gujarat",
             "tag": "Street Savoury",
@@ -2505,21 +2104,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Gujarat Botanical Tasting Course",
-            "regionalOrigin": "Gujarat",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Tuver Lilva (Green Pigeon Peas) and White Sesame Seeds with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Tuver Lilva (Green Pigeon Peas)",
-              "White Sesame Seeds",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Rotla with Lasan Chutney",
             "regionalOrigin": "Saurashtra Farms",
@@ -2562,21 +2146,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Tamil Nadu Hearth Platter",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Kalpasi (Black Stone Flower) and Maratti Mokku (Star Spices), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Maratti Mokku (Star Spices)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Tamil Nadu Simmered Pot",
             "regionalOrigin": "Tamil Nadu",
             "image": "/assets/kerala_sadya.jpg",
@@ -2600,20 +2169,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Tamil Nadu Spiced Roast",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Kalpasi (Black Stone Flower) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Pepper Chicken Kuzhambu",
             "regionalOrigin": "Chettinad",
@@ -2639,21 +2194,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Tamil Nadu Railway Platter",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Maratti Mokku (Star Spices)",
-              "Guntur & Byadgi Chilies",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Filter Coffee",
             "regionalOrigin": "Madras",
             "tag": "Railway Canteen",
@@ -2677,21 +2217,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Tamil Nadu Darbar Thali",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Kalpasi (Black Stone Flower) and unpolished indigenous grains.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Ven Pongal",
             "regionalOrigin": "Tamil Harvest Festival",
@@ -2717,21 +2242,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Tamil Nadu Street Special",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Kalpasi (Black Stone Flower) and zesty chutneys.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Idli with Sambar",
             "regionalOrigin": "Madras Messes",
             "tag": "Udipi Chain",
@@ -2756,21 +2266,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Tamil Nadu Chowk Plate",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Kalpasi (Black Stone Flower) and regional condiments.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Parotta Salna",
             "regionalOrigin": "Madurai & Chennai",
             "tag": "Street Food Boom",
@@ -2794,21 +2289,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Tamil Nadu Botanical Tasting Course",
-            "regionalOrigin": "Tamil Nadu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Kalpasi (Black Stone Flower) and Maratti Mokku (Star Spices) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Kalpasi (Black Stone Flower)",
-              "Maratti Mokku (Star Spices)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kambu Koozh",
             "regionalOrigin": "Tamil Nadu Villages",
@@ -2851,21 +2331,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Karnataka Hearth Platter",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Kachampuli (Wild Garcinia Vinegar) and Byadgi Wrinkled Chilies, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Byadgi Wrinkled Chilies",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Karnataka Simmered Pot",
             "regionalOrigin": "Karnataka",
             "image": "/assets/kerala_sadya.jpg",
@@ -2890,18 +2355,22 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
           {
-            "name": "Historic Karnataka Spiced Roast",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Kachampuli (Wild Garcinia Vinegar) and aromatic whole spices, refined through trade exchange.",
+            "name": "Bisi Bele Bath",
+            "regionalOrigin": "Karnataka (Mysore)",
+            "image": "/assets/kerala_sadya.jpg",
+            "tag": "Royal Kitchen Recipe",
+            "description": "A one-pot rice and lentil dish cooked with tamarind, vegetables and a spice blend, finished with ghee. Traditionally associated with the Mysore royal kitchens.",
             "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Roasted Spices",
-              "Fresh Country Greens"
+              "Rice",
+              "Toor dal",
+              "Tamarind",
+              "Bisi bele bath powder",
+              "Mixed vegetables",
+              "Ghee",
+              "Curry leaves"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
+            "culturalAnecdote": "Associated with the Mysore royal kitchens of the Hyder Ali era; the exact year it took its present form is not documented.",
+            "accuracy": "researched_date_approximate"
           }
         ]
       },
@@ -2913,21 +2382,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
-          {
-            "name": "Heritage Karnataka Railway Platter",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Byadgi Wrinkled Chilies",
-              "Malnad Black Pepper",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bisi Bele Bath",
             "regionalOrigin": "Old Mysore",
@@ -2953,21 +2407,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi Karnataka Darbar Thali",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Kachampuli (Wild Garcinia Vinegar) and unpolished indigenous grains.",
-            "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Ragi Mudde",
             "regionalOrigin": "Rural Karnataka",
             "tag": "Rural Grain Revival",
@@ -2991,21 +2430,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 Karnataka Street Special",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Kachampuli (Wild Garcinia Vinegar) and zesty chutneys.",
-            "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Udupi Sambar",
             "regionalOrigin": "Udupi",
@@ -3046,21 +2470,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Karnataka Chowk Plate",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Kachampuli (Wild Garcinia Vinegar) and regional condiments.",
-            "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Mangalorean Fish Curry",
             "regionalOrigin": "Mangalore Coast",
             "tag": "Coastal Street",
@@ -3084,21 +2493,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Karnataka Botanical Tasting Course",
-            "regionalOrigin": "Karnataka",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Kachampuli (Wild Garcinia Vinegar) and Byadgi Wrinkled Chilies with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Kachampuli (Wild Garcinia Vinegar)",
-              "Byadgi Wrinkled Chilies",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Coorg Pandi Curry",
             "regionalOrigin": "Kodagu",
@@ -3141,21 +2535,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Telangana Hearth Platter",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Potli Masala of Hyderabad and Wild Stone Wheat, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Wild Stone Wheat",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Telangana Simmered Pot",
             "regionalOrigin": "Telangana",
             "image": "/assets/kerala_sadya.jpg",
@@ -3180,18 +2559,21 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
           {
-            "name": "Historic Telangana Spiced Roast",
-            "regionalOrigin": "Telangana",
+            "name": "Kursi Miyane (Nizam's Egg & Keema Appetiser)",
+            "regionalOrigin": "Telangana (Hyderabad State)",
             "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Potli Masala of Hyderabad and aromatic whole spices, refined through trade exchange.",
+            "tag": "Nizam Kitchen Recipe",
+            "description": "A Nizam's-kitchen appetiser of boiled eggs stuffed with spiced minced meat, pinned on skewers like a little chair, then coated in beaten egg and deep-fried.",
             "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Roasted Spices",
-              "Fresh Country Greens"
+              "Boiled eggs",
+              "Minced meat (kheema)",
+              "Egg yolk",
+              "Beaten egg",
+              "Spices",
+              "Oil for deep frying"
             ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
+            "culturalAnecdote": "Named kursi (chair) for the skewers that hold the eggs upright. Recorded in Hyderabad's Nizam-era kitchens; today it is rarely made.",
+            "accuracy": "researched_date_approximate"
           }
         ]
       },
@@ -3203,21 +2585,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
-          {
-            "name": "Heritage Telangana Railway Platter",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Wild Stone Wheat",
-              "Guntur Red Chilies",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Mirchi ka Salan",
             "regionalOrigin": "Hyderabad",
@@ -3242,21 +2609,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Telangana Darbar Thali",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Potli Masala of Hyderabad and unpolished indigenous grains.",
-            "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Qubani ka Meetha",
             "regionalOrigin": "Hyderabad",
@@ -3297,21 +2649,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Telangana Street Special",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Potli Masala of Hyderabad and zesty chutneys.",
-            "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Osmania Biscuit",
             "regionalOrigin": "Hyderabad Bakeries",
             "tag": "Bakery Classic",
@@ -3336,21 +2673,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Telangana Chowk Plate",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Potli Masala of Hyderabad and regional condiments.",
-            "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Hyderabadi Chicken Dum Biryani",
             "regionalOrigin": "Hyderabad Street Stalls",
             "tag": "Street Biryani",
@@ -3374,21 +2696,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Telangana Botanical Tasting Course",
-            "regionalOrigin": "Telangana",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Potli Masala of Hyderabad and Wild Stone Wheat with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Potli Masala of Hyderabad",
-              "Wild Stone Wheat",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Jowar Roti with Gongura Chutney",
             "regionalOrigin": "Telangana Villages",
@@ -3431,21 +2738,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Andhra Pradesh Hearth Platter",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Gongura Leaves (Roselle) and Godavari River Prawns, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Godavari River Prawns",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Andhra Pradesh Simmered Pot",
             "regionalOrigin": "Andhra Pradesh",
             "image": "/assets/kerala_sadya.jpg",
@@ -3469,20 +2761,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Andhra Pradesh Spiced Roast",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Gongura Leaves (Roselle) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Pulihora",
             "regionalOrigin": "Andhra Villages",
@@ -3508,21 +2786,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Andhra Pradesh Railway Platter",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Godavari River Prawns",
-              "Guntur S4 Chilies",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Gongura Pachadi",
             "regionalOrigin": "Andhra Pradesh",
             "tag": "Colonial Pickle",
@@ -3546,21 +2809,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Andhra Pradesh Darbar Thali",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Gongura Leaves (Roselle) and unpolished indigenous grains.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Pesarattu",
             "regionalOrigin": "Guntur",
@@ -3586,21 +2834,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Andhra Pradesh Street Special",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Gongura Leaves (Roselle) and zesty chutneys.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Guntur Chilli Chicken",
             "regionalOrigin": "Guntur",
             "tag": "Partition Kitchen",
@@ -3625,21 +2858,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Andhra Pradesh Chowk Plate",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Gongura Leaves (Roselle) and regional condiments.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Andhra Meals",
             "regionalOrigin": "Andhra Restaurants",
             "tag": "Restaurant Thali",
@@ -3663,21 +2881,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Andhra Pradesh Botanical Tasting Course",
-            "regionalOrigin": "Andhra Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Gongura Leaves (Roselle) and Godavari River Prawns with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Gongura Leaves (Roselle)",
-              "Godavari River Prawns",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Ragi Sangati",
             "regionalOrigin": "Andhra Villages",
@@ -3720,21 +2923,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Jammu and Kashmir Hearth Platter",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Pampore Saffron and Kashmiri Dried Red Chilies, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Pampore Saffron",
-              "Kashmiri Dried Red Chilies",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Jammu and Kashmir Simmered Pot",
             "regionalOrigin": "Jammu and Kashmir",
             "image": "/assets/galouti_kebab.jpg",
@@ -3758,20 +2946,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Jammu and Kashmir Spiced Roast",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Pampore Saffron and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Pampore Saffron",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Wazwan Rista",
             "regionalOrigin": "Kashmir Court Kitchens",
@@ -3812,21 +2986,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Jammu and Kashmir Railway Platter",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Kashmiri Dried Red Chilies",
-              "Maval (Dried Cockscomb Flower)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Kahwa",
             "regionalOrigin": "Kashmir Households",
             "tag": "Dal Lake Houseboat",
@@ -3850,21 +3009,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Jammu and Kashmir Darbar Thali",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Pampore Saffron and unpolished indigenous grains.",
-            "ingredients": [
-              "Pampore Saffron",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dum Aloo Kashmiri",
             "regionalOrigin": "Kashmir",
@@ -3890,21 +3034,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Jammu and Kashmir Street Special",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Pampore Saffron and zesty chutneys.",
-            "ingredients": [
-              "Pampore Saffron",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Modur Pulao",
             "regionalOrigin": "Kashmir Festivals",
             "tag": "Festive Rice",
@@ -3929,19 +3058,24 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Jammu and Kashmir Chowk Plate",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Pampore Saffron and regional condiments.",
+            "name": "Tabak Maaz (Fried Lamb Ribs)",
+            "regionalOrigin": "Jammu and Kashmir (Kashmir Valley)",
+            "image": "/assets/galouti_kebab.jpg",
+            "tag": "Wazwan Signature",
+            "description": "Lamb ribs simmered in spiced water or yoghurt until tender, then dipped in a yoghurt batter and fried crisp in ghee. A core course of the Kashmiri wazwan feast.",
             "ingredients": [
-              "Pampore Saffron",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
+              "Lamb ribs",
+              "Yoghurt",
+              "Ghee",
+              "Black cardamom",
+              "Cinnamon",
+              "Cloves",
+              "Bay leaves",
+              "Garlic",
+              "Salt"
             ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
+            "culturalAnecdote": "A staple of the wazwan, the multi-course feast of Kashmir. Documented as a wazwan dish, but no firm date for its 1980 form is recorded.",
+            "accuracy": "researched_date_approximate"
           }
         ]
       },
@@ -3953,21 +3087,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Jammu and Kashmir Botanical Tasting Course",
-            "regionalOrigin": "Jammu and Kashmir",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Pampore Saffron and Kashmiri Dried Red Chilies with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Pampore Saffron",
-              "Kashmiri Dried Red Chilies",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Walnut Chutney Revival",
             "regionalOrigin": "Kashmir Orchards",
@@ -4010,21 +3129,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Ladakh Hearth Platter",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Roasted Barley (Tsampa) and Yak Milk Butter & Chhurpi, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Yak Milk Butter & Chhurpi",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Ladakh Simmered Pot",
             "regionalOrigin": "Ladakh",
             "image": "/assets/galouti_kebab.jpg",
@@ -4048,20 +3152,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Ladakh Spiced Roast",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Roasted Barley (Tsampa) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Skyu",
             "regionalOrigin": "Ladakh Trade Route",
@@ -4087,21 +3177,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Ladakh Railway Platter",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Yak Milk Butter & Chhurpi",
-              "Wild Mountain Caraway (Koshyot)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Gur Gur Chai",
             "regionalOrigin": "Ladakh Caravans",
             "tag": "Caravan Tea",
@@ -4125,21 +3200,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Ladakh Darbar Thali",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Roasted Barley (Tsampa) and unpolished indigenous grains.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Thukpa",
             "regionalOrigin": "Ladakh Monasteries",
@@ -4165,21 +3225,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Ladakh Street Special",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Roasted Barley (Tsampa) and zesty chutneys.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Tingmo",
             "regionalOrigin": "Ladakh Villages",
             "tag": "Village Bread",
@@ -4204,21 +3249,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Ladakh Chowk Plate",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Roasted Barley (Tsampa) and regional condiments.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Ladakhi Momo",
             "regionalOrigin": "Leh Streets",
             "tag": "Street Dumpling",
@@ -4242,21 +3272,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Ladakh Botanical Tasting Course",
-            "regionalOrigin": "Ladakh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Roasted Barley (Tsampa) and Yak Milk Butter & Chhurpi with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Roasted Barley (Tsampa)",
-              "Yak Milk Butter & Chhurpi",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Sea Buckthorn Chutney Revival",
             "regionalOrigin": "Ladakh Highlands",
@@ -4299,21 +3314,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Goa Hearth Platter",
-            "regionalOrigin": "Goa",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Goan Toddy Palm Vinegar and Cashew Feni, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Cashew Feni",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Goa Simmered Pot",
             "regionalOrigin": "Goa",
             "image": "/assets/kerala_sadya.jpg",
@@ -4337,20 +3337,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Goa Spiced Roast",
-            "regionalOrigin": "Goa",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Goan Toddy Palm Vinegar and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Sorpotel",
             "regionalOrigin": "Goan Catholic Kitchens",
@@ -4376,21 +3362,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Goa Railway Platter",
-            "regionalOrigin": "Goa",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Cashew Feni",
-              "Teppal / Sichuan Pepper",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bebinca",
             "regionalOrigin": "Goa Colonial Kitchens",
             "tag": "Colonial Dessert",
@@ -4414,21 +3385,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Goa Darbar Thali",
-            "regionalOrigin": "Goa",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Goan Toddy Palm Vinegar and unpolished indigenous grains.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Fish Recheado",
             "regionalOrigin": "Goa Coast",
@@ -4454,21 +3410,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Goa Street Special",
-            "regionalOrigin": "Goa",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Goan Toddy Palm Vinegar and zesty chutneys.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Goan Pork Vindaloo",
             "regionalOrigin": "Goan Kitchens",
             "tag": "Portuguese Fusion",
@@ -4493,21 +3434,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Goa Chowk Plate",
-            "regionalOrigin": "Goa",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Goan Toddy Palm Vinegar and regional condiments.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Prawn Balchão",
             "regionalOrigin": "Goa Beach Shacks",
             "tag": "Beach Shack",
@@ -4531,21 +3457,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Goa Botanical Tasting Course",
-            "regionalOrigin": "Goa",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Goan Toddy Palm Vinegar and Cashew Feni with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Goan Toddy Palm Vinegar",
-              "Cashew Feni",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kismur Coastal Revival",
             "regionalOrigin": "Goan Fishing Villages",
@@ -4588,21 +3499,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Bihar Hearth Platter",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Sattu (Roasted Gram Flour) and Mustard Oil, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Mustard Oil",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Bihar Simmered Pot",
             "regionalOrigin": "Bihar",
             "image": "/assets/kerala_sadya.jpg",
@@ -4626,20 +3522,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Bihar Spiced Roast",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Sattu (Roasted Gram Flour) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Litti Chokha",
             "regionalOrigin": "Magadha Villages",
@@ -4665,21 +3547,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Bihar Railway Platter",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Mustard Oil",
-              "Panch Phoron",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Khaja",
             "regionalOrigin": "Silao, Bihar",
             "tag": "Railway Sweet",
@@ -4703,21 +3570,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Bihar Darbar Thali",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Sattu (Roasted Gram Flour) and unpolished indigenous grains.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Thekua",
             "regionalOrigin": "Bihar Households",
@@ -4743,21 +3595,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Bihar Street Special",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Sattu (Roasted Gram Flour) and zesty chutneys.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Sattu Paratha",
             "regionalOrigin": "Patna Streets",
             "tag": "Street Breakfast",
@@ -4782,21 +3619,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Bihar Chowk Plate",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Sattu (Roasted Gram Flour) and regional condiments.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Makhana Kheer",
             "regionalOrigin": "Bihar Households",
             "tag": "Urban Sweet",
@@ -4820,21 +3642,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Bihar Botanical Tasting Course",
-            "regionalOrigin": "Bihar",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Sattu (Roasted Gram Flour) and Mustard Oil with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Sattu (Roasted Gram Flour)",
-              "Mustard Oil",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Makhana Heritage Revival",
             "regionalOrigin": "Mithila",
@@ -4877,21 +3684,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Odisha Hearth Platter",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Pancha Phutana and Chhena (Cottage Cheese), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Chhena (Cottage Cheese)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Odisha Simmered Pot",
             "regionalOrigin": "Odisha",
             "image": "/assets/kerala_sadya.jpg",
@@ -4915,20 +3707,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Odisha Spiced Roast",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Pancha Phutana and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dalma",
             "regionalOrigin": "Puri & Odisha",
@@ -4954,21 +3732,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Odisha Railway Platter",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Chhena (Cottage Cheese)",
-              "Desi Ghee",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Pakhala Bhata",
             "regionalOrigin": "Odia Households",
             "tag": "Summer Staple",
@@ -4992,21 +3755,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Odisha Darbar Thali",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Pancha Phutana and unpolished indigenous grains.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Chhena Poda",
             "regionalOrigin": "Puri",
@@ -5032,21 +3780,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Odisha Street Special",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Pancha Phutana and zesty chutneys.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Macha Besara",
             "regionalOrigin": "Coastal Odisha",
             "tag": "Coastal Kitchen",
@@ -5071,21 +3804,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Odisha Chowk Plate",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Pancha Phutana and regional condiments.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Odia Thali",
             "regionalOrigin": "Odisha Restaurants",
             "tag": "Urban Thali",
@@ -5109,21 +3827,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Odisha Botanical Tasting Course",
-            "regionalOrigin": "Odisha",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Pancha Phutana and Chhena (Cottage Cheese) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Pancha Phutana",
-              "Chhena (Cottage Cheese)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Heirloom Rice Pakhala Revival",
             "regionalOrigin": "Odisha Villages",
@@ -5165,21 +3868,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Himachal Pradesh Hearth Platter",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Mountain Walnut & Poppy Seeds and Kangra Madra Curd, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Kangra Madra Curd",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Himachal Pradesh Simmered Pot",
             "regionalOrigin": "Himachal Pradesh",
             "image": "/assets/galouti_kebab.jpg",
@@ -5203,20 +3891,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Himachal Pradesh Spiced Roast",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Mountain Walnut & Poppy Seeds and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Siddu",
             "regionalOrigin": "Himachal Hills",
@@ -5242,21 +3916,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Himachal Pradesh Railway Platter",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Kangra Madra Curd",
-              "Dry Pomegranate Seeds (Anardana)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chha Gosht",
             "regionalOrigin": "Shimla",
             "tag": "Colonial Hill Station",
@@ -5280,21 +3939,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Himachal Pradesh Darbar Thali",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Mountain Walnut & Poppy Seeds and unpolished indigenous grains.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Madra",
             "regionalOrigin": "Chamba & Kangra",
@@ -5320,21 +3964,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Himachal Pradesh Street Special",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Mountain Walnut & Poppy Seeds and zesty chutneys.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Patrodu",
             "regionalOrigin": "Himachal Villages",
             "tag": "Monsoon Snack",
@@ -5359,21 +3988,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Himachal Pradesh Chowk Plate",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Mountain Walnut & Poppy Seeds and regional condiments.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Kullu Dham Thali",
             "regionalOrigin": "Kullu Valley",
             "tag": "Temple Thali",
@@ -5397,21 +4011,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Himachal Pradesh Botanical Tasting Course",
-            "regionalOrigin": "Himachal Pradesh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Mountain Walnut & Poppy Seeds and Kangra Madra Curd with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Mountain Walnut & Poppy Seeds",
-              "Kangra Madra Curd",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Himalayan Rice Pulao Revival",
             "regionalOrigin": "Himachal Farms",
@@ -5453,21 +4052,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Uttarakhand Hearth Platter",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Bhatt (Black Soybeans) and Jhangora (Barnyard Millet), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Jhangora (Barnyard Millet)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Uttarakhand Simmered Pot",
             "regionalOrigin": "Uttarakhand",
             "image": "/assets/galouti_kebab.jpg",
@@ -5491,20 +4075,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Uttarakhand Spiced Roast",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Bhatt (Black Soybeans) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kafuli",
             "regionalOrigin": "Garhwal Villages",
@@ -5530,21 +4100,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Uttarakhand Railway Platter",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Jhangora (Barnyard Millet)",
-              "Bhangjeera (Hemp Seeds)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bhatt ki Churkani",
             "regionalOrigin": "Kumaon Hills",
             "tag": "Hill Station",
@@ -5568,21 +4123,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Uttarakhand Darbar Thali",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Bhatt (Black Soybeans) and unpolished indigenous grains.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Mandua Roti",
             "regionalOrigin": "Uttarakhand Hills",
@@ -5608,21 +4148,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Uttarakhand Street Special",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Bhatt (Black Soybeans) and zesty chutneys.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chainsoo",
             "regionalOrigin": "Garhwal Households",
             "tag": "Mountain Staple",
@@ -5647,21 +4172,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Uttarakhand Chowk Plate",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Bhatt (Black Soybeans) and regional condiments.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Aloo ke Gutke",
             "regionalOrigin": "Uttarakhand Streets",
             "tag": "Hill Street Food",
@@ -5685,21 +4195,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Uttarakhand Botanical Tasting Course",
-            "regionalOrigin": "Uttarakhand",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Bhatt (Black Soybeans) and Jhangora (Barnyard Millet) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Bhatt (Black Soybeans)",
-              "Jhangora (Barnyard Millet)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Jhangora Kheer",
             "regionalOrigin": "Uttarakhand Farms",
@@ -5742,21 +4237,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Madhya Pradesh Hearth Platter",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Fresh Sweet Corn (Bhutte) and Malwa Wheat Flour, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Malwa Wheat Flour",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Madhya Pradesh Simmered Pot",
             "regionalOrigin": "Madhya Pradesh",
             "image": "/assets/kerala_sadya.jpg",
@@ -5780,20 +4260,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Madhya Pradesh Spiced Roast",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Fresh Sweet Corn (Bhutte) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dal Bafla",
             "regionalOrigin": "Malwa (Indore/Ujjain)",
@@ -5820,21 +4286,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Madhya Pradesh Railway Platter",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Malwa Wheat Flour",
-              "Pure Desi Ghee",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bhutte ka Kees",
             "regionalOrigin": "Holkar Indore",
             "tag": "Holkar Kitchen",
@@ -5858,21 +4309,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Madhya Pradesh Darbar Thali",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Fresh Sweet Corn (Bhutte) and unpolished indigenous grains.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Poha Jalebi",
             "regionalOrigin": "Indore",
@@ -5898,21 +4334,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Madhya Pradesh Street Special",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Fresh Sweet Corn (Bhutte) and zesty chutneys.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Sabudana Khichdi",
             "regionalOrigin": "Madhya Pradesh Households",
             "tag": "Fasting Staple",
@@ -5937,21 +4358,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Madhya Pradesh Chowk Plate",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Fresh Sweet Corn (Bhutte) and regional condiments.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Indori Samosa",
             "regionalOrigin": "Indore Bazaars",
             "tag": "Street Snack",
@@ -5975,21 +4381,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Madhya Pradesh Botanical Tasting Course",
-            "regionalOrigin": "Madhya Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Fresh Sweet Corn (Bhutte) and Malwa Wheat Flour with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Fresh Sweet Corn (Bhutte)",
-              "Malwa Wheat Flour",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kodo Millet Khichdi",
             "regionalOrigin": "Madhya Pradesh Villages",
@@ -6032,21 +4423,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Chhattisgarh Hearth Platter",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Dubraj & Scented Rices and Bastar Forest Mahua, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Bastar Forest Mahua",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Chhattisgarh Simmered Pot",
             "regionalOrigin": "Chhattisgarh",
             "image": "/assets/kerala_sadya.jpg",
@@ -6070,20 +4446,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Chhattisgarh Spiced Roast",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Dubraj & Scented Rices and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Chila",
             "regionalOrigin": "Chhattisgarh Villages",
@@ -6109,21 +4471,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Chhattisgarh Railway Platter",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Bastar Forest Mahua",
-              "Sal Seed Oil",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Faraa",
             "regionalOrigin": "Chhattisgarh Households",
             "tag": "Monsoon Breakfast",
@@ -6147,21 +4494,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Chhattisgarh Darbar Thali",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Dubraj & Scented Rices and unpolished indigenous grains.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bafauri",
             "regionalOrigin": "Chhattisgarh Festivals",
@@ -6187,21 +4519,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Chhattisgarh Street Special",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Dubraj & Scented Rices and zesty chutneys.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chausela",
             "regionalOrigin": "Chhattisgarh Households",
             "tag": "Harvest Dessert",
@@ -6226,21 +4543,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Chhattisgarh Chowk Plate",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Dubraj & Scented Rices and regional condiments.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chila Tikki Chaat",
             "regionalOrigin": "Raipur Bazaars",
             "tag": "Bazaar Snack",
@@ -6264,21 +4566,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Chhattisgarh Botanical Tasting Course",
-            "regionalOrigin": "Chhattisgarh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Dubraj & Scented Rices and Bastar Forest Mahua with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Dubraj & Scented Rices",
-              "Bastar Forest Mahua",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bastar Bamboo Shoot Curry",
             "regionalOrigin": "Bastar Forests",
@@ -6321,21 +4608,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Jharkhand Hearth Platter",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Rugra (Wild Earth Puffballs) and Marua (Finger Millet), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Marua (Finger Millet)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Jharkhand Simmered Pot",
             "regionalOrigin": "Jharkhand",
             "image": "/assets/kerala_sadya.jpg",
@@ -6359,20 +4631,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Jharkhand Spiced Roast",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Rugra (Wild Earth Puffballs) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dhuska",
             "regionalOrigin": "Tribal Hearths",
@@ -6398,21 +4656,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Jharkhand Railway Platter",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Marua (Finger Millet)",
-              "Fresh Sal Leaves",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Rugra Mushroom Curry",
             "regionalOrigin": "Forest Villages",
             "tag": "Forest Bounty",
@@ -6436,21 +4679,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Jharkhand Darbar Thali",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Rugra (Wild Earth Puffballs) and unpolished indigenous grains.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Thekua",
             "regionalOrigin": "Jharkhand Households",
@@ -6476,21 +4704,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Jharkhand Street Special",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Rugra (Wild Earth Puffballs) and zesty chutneys.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Handia",
             "regionalOrigin": "Adivasi Villages",
             "tag": "Adivasi Kitchen",
@@ -6513,21 +4726,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/bedmi_kachori.jpg",
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
-          {
-            "name": "Iconic 1980s Jharkhand Chowk Plate",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Rugra (Wild Earth Puffballs) and regional condiments.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Chilka Roti",
             "regionalOrigin": "Jharkhand Stalls",
@@ -6552,21 +4750,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Jharkhand Botanical Tasting Course",
-            "regionalOrigin": "Jharkhand",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Rugra (Wild Earth Puffballs) and Marua (Finger Millet) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Rugra (Wild Earth Puffballs)",
-              "Marua (Finger Millet)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Mahua Laddoo",
             "regionalOrigin": "Forest Villages",
@@ -6608,21 +4791,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Haryana Hearth Platter",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Murrah Buffalo Milk & Butter and Pearl Millet (Bajra), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Pearl Millet (Bajra)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Haryana Simmered Pot",
             "regionalOrigin": "Haryana",
             "image": "/assets/galouti_kebab.jpg",
@@ -6646,20 +4814,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Haryana Spiced Roast",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Murrah Buffalo Milk & Butter and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Khichdi",
             "regionalOrigin": "Haryana Villages",
@@ -6685,21 +4839,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Haryana Railway Platter",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Pearl Millet (Bajra)",
-              "Kachri (Wild Desert Melon)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Churma",
             "regionalOrigin": "Haryana Households",
             "tag": "Ghee Sweet",
@@ -6723,21 +4862,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Haryana Darbar Thali",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Murrah Buffalo Milk & Butter and unpolished indigenous grains.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kachri Chutney",
             "regionalOrigin": "Haryana Fields",
@@ -6763,21 +4887,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Haryana Street Special",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Murrah Buffalo Milk & Butter and zesty chutneys.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chhachh Kadhi",
             "regionalOrigin": "Haryana Dhabas",
             "tag": "Dhaba Staple",
@@ -6802,21 +4911,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Haryana Chowk Plate",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Murrah Buffalo Milk & Butter and regional condiments.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Haryanvi Saag Thali",
             "regionalOrigin": "Haryana Villages",
             "tag": "Village Feast",
@@ -6840,21 +4934,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Haryana Botanical Tasting Course",
-            "regionalOrigin": "Haryana",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Murrah Buffalo Milk & Butter and Pearl Millet (Bajra) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Murrah Buffalo Milk & Butter",
-              "Pearl Millet (Bajra)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Roti with Ghee Revival",
             "regionalOrigin": "Haryana Farms",
@@ -6897,21 +4976,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Delhi Hearth Platter",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Tandoori Masala and Khameeri Roti Dough, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Khameeri Roti Dough",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Delhi Simmered Pot",
             "regionalOrigin": "Delhi",
             "image": "/assets/galouti_kebab.jpg",
@@ -6935,20 +4999,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Delhi Spiced Roast",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Tandoori Masala and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Nihari",
             "regionalOrigin": "Old Delhi Mughal Kitchens",
@@ -6974,21 +5024,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Delhi Railway Platter",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Khameeri Roti Dough",
-              "Full Cream Butter",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chandni Chowk Chaat",
             "regionalOrigin": "Chandni Chowk",
             "tag": "Bazaar Chaat",
@@ -7012,21 +5047,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Delhi Darbar Thali",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Tandoori Masala and unpolished indigenous grains.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Kulfi Falooda",
             "regionalOrigin": "Delhi Imperial Capital",
@@ -7052,21 +5072,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Delhi Street Special",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Tandoori Masala and zesty chutneys.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Butter Chicken at Moti Mahal",
             "regionalOrigin": "Daryaganj, Delhi",
             "tag": "Partition Classic",
@@ -7091,21 +5096,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Delhi Chowk Plate",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Tandoori Masala and regional condiments.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chole Bhature",
             "regionalOrigin": "Delhi Streets",
             "tag": "Street Staple",
@@ -7129,21 +5119,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Delhi Botanical Tasting Course",
-            "regionalOrigin": "Delhi",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Tandoori Masala and Khameeri Roti Dough with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Tandoori Masala",
-              "Khameeri Roti Dough",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Dal Khichdi Revival",
             "regionalOrigin": "Delhi Kitchens",
@@ -7185,21 +5160,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Meghalaya Hearth Platter",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Wild Black Sesame (Nei-lieh) and Tungrymbai (Fermented Soy), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Tungrymbai (Fermented Soy)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Meghalaya Simmered Pot",
             "regionalOrigin": "Meghalaya",
             "image": "/assets/kerala_sadya.jpg",
@@ -7223,20 +5183,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Meghalaya Spiced Roast",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Wild Black Sesame (Nei-lieh) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Jadoh",
             "regionalOrigin": "Khasi Hills",
@@ -7262,21 +5208,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Meghalaya Railway Platter",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Tungrymbai (Fermented Soy)",
-              "Local Hill Pork",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Tungrymbai",
             "regionalOrigin": "Khasi Households",
             "tag": "Ancestral Fermentation",
@@ -7300,21 +5231,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Meghalaya Darbar Thali",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Wild Black Sesame (Nei-lieh) and unpolished indigenous grains.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dohneiiong",
             "regionalOrigin": "Khasi Festivals",
@@ -7340,21 +5256,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Meghalaya Street Special",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Wild Black Sesame (Nei-lieh) and zesty chutneys.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Pumaloi",
             "regionalOrigin": "Garo Hills",
             "tag": "Village Snack",
@@ -7379,21 +5280,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Meghalaya Chowk Plate",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Wild Black Sesame (Nei-lieh) and regional condiments.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Khasi Pork Sausage",
             "regionalOrigin": "Meghalaya Markets",
             "tag": "Market Sausage",
@@ -7417,21 +5303,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Meghalaya Botanical Tasting Course",
-            "regionalOrigin": "Meghalaya",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Wild Black Sesame (Nei-lieh) and Tungrymbai (Fermented Soy) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Wild Black Sesame (Nei-lieh)",
-              "Tungrymbai (Fermented Soy)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Heritage Red Rice Jadoh Revival",
             "regionalOrigin": "Meghalaya Farms",
@@ -7473,21 +5344,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Nagaland Hearth Platter",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Raja Mircha (King Chili) and Anishi (Fermented Taro Cakes), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Anishi (Fermented Taro Cakes)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Nagaland Simmered Pot",
             "regionalOrigin": "Nagaland",
             "image": "/assets/kerala_sadya.jpg",
@@ -7511,20 +5367,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Nagaland Spiced Roast",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Raja Mircha (King Chili) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Smoked Pork with Axone",
             "regionalOrigin": "Naga Villages",
@@ -7550,21 +5392,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Nagaland Railway Platter",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Anishi (Fermented Taro Cakes)",
-              "Axone (Fermented Soybeans)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bamboo Shoot Curry",
             "regionalOrigin": "Naga Forests",
             "tag": "Forest Kitchen",
@@ -7588,21 +5415,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Nagaland Darbar Thali",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Raja Mircha (King Chili) and unpolished indigenous grains.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Naga King Chilli Chutney",
             "regionalOrigin": "Naga Villages",
@@ -7628,21 +5440,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Nagaland Street Special",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Raja Mircha (King Chili) and zesty chutneys.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Galho",
             "regionalOrigin": "Naga Households",
             "tag": "Village Staple",
@@ -7667,21 +5464,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Nagaland Chowk Plate",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Raja Mircha (King Chili) and regional condiments.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Naga Chicken Pickle",
             "regionalOrigin": "Naga Markets",
             "tag": "Market Preserve",
@@ -7705,21 +5487,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Nagaland Botanical Tasting Course",
-            "regionalOrigin": "Nagaland",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Raja Mircha (King Chili) and Anishi (Fermented Taro Cakes) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Raja Mircha (King Chili)",
-              "Anishi (Fermented Taro Cakes)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Akhuni Heritage Revival",
             "regionalOrigin": "Naga Villages",
@@ -7761,21 +5528,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Manipur Hearth Platter",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Ngari (Sun-Fermented Fish) and Chak-Hao (Black/Purple Rice), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Chak-Hao (Black/Purple Rice)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Manipur Simmered Pot",
             "regionalOrigin": "Manipur",
             "image": "/assets/kerala_sadya.jpg",
@@ -7799,20 +5551,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Manipur Spiced Roast",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Ngari (Sun-Fermented Fish) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Eromba",
             "regionalOrigin": "Manipur Villages",
@@ -7838,21 +5576,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Manipur Railway Platter",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Chak-Hao (Black/Purple Rice)",
-              "Maroi Nakupi (Chinese Chives)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chak-hao Kheer",
             "regionalOrigin": "Manipur Festivals",
             "tag": "Royal Sweet",
@@ -7876,21 +5599,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Manipur Darbar Thali",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Ngari (Sun-Fermented Fish) and unpolished indigenous grains.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Singju",
             "regionalOrigin": "Manipur Households",
@@ -7916,21 +5624,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Manipur Street Special",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Ngari (Sun-Fermented Fish) and zesty chutneys.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Ngari",
             "regionalOrigin": "Manipur Fishing Villages",
             "tag": "Ancestral Fermentation",
@@ -7955,21 +5648,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Manipur Chowk Plate",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Ngari (Sun-Fermented Fish) and regional condiments.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Manipuri Fish Curry",
             "regionalOrigin": "Imphal Restaurants",
             "tag": "Market Curry",
@@ -7993,21 +5671,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Manipur Botanical Tasting Course",
-            "regionalOrigin": "Manipur",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Ngari (Sun-Fermented Fish) and Chak-Hao (Black/Purple Rice) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Ngari (Sun-Fermented Fish)",
-              "Chak-Hao (Black/Purple Rice)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Black Rice Heritage Revival",
             "regionalOrigin": "Manipur Farms",
@@ -8049,21 +5712,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Mizoram Hearth Platter",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Fermented Bamboo Shoot and Local Pork Belly, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Local Pork Belly",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Mizoram Simmered Pot",
             "regionalOrigin": "Mizoram",
             "image": "/assets/kerala_sadya.jpg",
@@ -8087,20 +5735,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Mizoram Spiced Roast",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Fermented Bamboo Shoot and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bai",
             "regionalOrigin": "Mizo Hills",
@@ -8126,21 +5760,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Mizoram Railway Platter",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Local Pork Belly",
-              "Wild Mustard Greens",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Sawhchiar",
             "regionalOrigin": "Mizo Festivals",
             "tag": "Festival Feast",
@@ -8164,21 +5783,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Mizoram Darbar Thali",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Fermented Bamboo Shoot and unpolished indigenous grains.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bamboo Shoot Chutney",
             "regionalOrigin": "Mizo Forests",
@@ -8204,21 +5808,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Mizoram Street Special",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Fermented Bamboo Shoot and zesty chutneys.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Mizo Chicken Stew",
             "regionalOrigin": "Mizo Villages",
             "tag": "Village Feast",
@@ -8243,21 +5832,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Mizoram Chowk Plate",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Fermented Bamboo Shoot and regional condiments.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Vawksa Rep",
             "regionalOrigin": "Mizo Hills",
             "tag": "Hill Smoke",
@@ -8281,21 +5855,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Mizoram Botanical Tasting Course",
-            "regionalOrigin": "Mizoram",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Fermented Bamboo Shoot and Local Pork Belly with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Fermented Bamboo Shoot",
-              "Local Pork Belly",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bamboo Shoot Heritage Revival",
             "regionalOrigin": "Mizoram Forests",
@@ -8337,21 +5896,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Tripura Hearth Platter",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Berma (Fermented Fish) and Fresh Bamboo Shoot, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Fresh Bamboo Shoot",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Tripura Simmered Pot",
             "regionalOrigin": "Tripura",
             "image": "/assets/kerala_sadya.jpg",
@@ -8375,20 +5919,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Tripura Spiced Roast",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Berma (Fermented Fish) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Mui Bangui",
             "regionalOrigin": "Tripura Palace Kitchens",
@@ -8414,21 +5944,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Tripura Railway Platter",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Fresh Bamboo Shoot",
-              "Dry Red Chilies",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bamboo Shoot Chakhwi",
             "regionalOrigin": "Tripura Forests",
             "tag": "Bamboo Kitchen",
@@ -8452,21 +5967,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Tripura Darbar Thali",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Berma (Fermented Fish) and unpolished indigenous grains.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Tripuri Vegetable Stew",
             "regionalOrigin": "Tripura Villages",
@@ -8492,21 +5992,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Tripura Street Special",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Berma (Fermented Fish) and zesty chutneys.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Shorshe Maach",
             "regionalOrigin": "Bengali Settler Kitchens",
             "tag": "Refugee Kitchen",
@@ -8531,21 +6016,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Tripura Chowk Plate",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Berma (Fermented Fish) and regional condiments.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chicken Dum",
             "regionalOrigin": "Tripura Markets",
             "tag": "Market Spice",
@@ -8569,21 +6039,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Tripura Botanical Tasting Course",
-            "regionalOrigin": "Tripura",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Berma (Fermented Fish) and Fresh Bamboo Shoot with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Berma (Fermented Fish)",
-              "Fresh Bamboo Shoot",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Tripura Bamboo Shoot Revival",
             "regionalOrigin": "Tripura Forests",
@@ -8625,21 +6080,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Arunachal Pradesh Hearth Platter",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Pika Pila (Bamboo Pickle) and Rukh Reng (Wild Sichuan Pepper), prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Rukh Reng (Wild Sichuan Pepper)",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Arunachal Pradesh Simmered Pot",
             "regionalOrigin": "Arunachal Pradesh",
             "image": "/assets/kerala_sadya.jpg",
@@ -8664,20 +6104,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
           {
-            "name": "Historic Arunachal Pradesh Spiced Roast",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Pika Pila (Bamboo Pickle) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Apong",
             "regionalOrigin": "Monpa Villages",
             "tag": "Monpa Hearth",
@@ -8700,21 +6126,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
-          {
-            "name": "Heritage Arunachal Pradesh Railway Platter",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Rukh Reng (Wild Sichuan Pepper)",
-              "Fermented Yak Cheese",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bamboo Shoot Pork",
             "regionalOrigin": "Arunachal Forests",
@@ -8740,21 +6151,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi Arunachal Pradesh Darbar Thali",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Pika Pila (Bamboo Pickle) and unpolished indigenous grains.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Pehak",
             "regionalOrigin": "Arunachal Households",
             "tag": "Ancestral Preservation",
@@ -8778,21 +6174,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 Arunachal Pradesh Street Special",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Pika Pila (Bamboo Pickle) and zesty chutneys.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Thukpa",
             "regionalOrigin": "Arunachal Border Towns",
@@ -8818,21 +6199,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Arunachal Pradesh Chowk Plate",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Pika Pila (Bamboo Pickle) and regional condiments.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Arunachal Chicken Chowmein",
             "regionalOrigin": "Border Bazaars",
             "tag": "Border Bazaar",
@@ -8856,21 +6222,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Arunachal Pradesh Botanical Tasting Course",
-            "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Pika Pila (Bamboo Pickle) and Rukh Reng (Wild Sichuan Pepper) with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Pika Pila (Bamboo Pickle)",
-              "Rukh Reng (Wild Sichuan Pepper)",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bamboo Shoot Heritage Revival",
             "regionalOrigin": "Arunachal Farms",
@@ -8912,21 +6263,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Sikkim Hearth Platter",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Gundruk (Fermented Greens) and Dalle Khursani Cherry Peppers, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Dalle Khursani Cherry Peppers",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Sikkim Simmered Pot",
             "regionalOrigin": "Sikkim",
             "image": "/assets/kerala_sadya.jpg",
@@ -8950,20 +6286,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Sikkim Spiced Roast",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Gundruk (Fermented Greens) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Gundruk Soup",
             "regionalOrigin": "Sikkim Hills",
@@ -8989,21 +6311,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Sikkim Railway Platter",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Dalle Khursani Cherry Peppers",
-              "Kinema (Fermented Soy)",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Kinema",
             "regionalOrigin": "Sikkim Households",
             "tag": "Fermented Heritage",
@@ -9028,21 +6335,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi Sikkim Darbar Thali",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Gundruk (Fermented Greens) and unpolished indigenous grains.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Churpi",
             "regionalOrigin": "Sikkim Dairies",
             "tag": "Yak Dairy",
@@ -9065,21 +6357,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 Sikkim Street Special",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Gundruk (Fermented Greens) and zesty chutneys.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Phagshapa",
             "regionalOrigin": "Monastery Kitchens",
@@ -9105,21 +6382,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Sikkim Chowk Plate",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Gundruk (Fermented Greens) and regional condiments.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Sikkimese Momo",
             "regionalOrigin": "Gangtok Streets",
             "tag": "Street Dumpling",
@@ -9143,21 +6405,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Sikkim Botanical Tasting Course",
-            "regionalOrigin": "Sikkim",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Gundruk (Fermented Greens) and Dalle Khursani Cherry Peppers with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Gundruk (Fermented Greens)",
-              "Dalle Khursani Cherry Peppers",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Buckwheat Heritage Revival",
             "regionalOrigin": "Sikkim Farms",
@@ -9200,21 +6447,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Andaman and Nicobar Islands Hearth Platter",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Island King Crab and Fresh Coconut Milk, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Island King Crab",
-              "Fresh Coconut Milk",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Andaman and Nicobar Islands Simmered Pot",
             "regionalOrigin": "Andaman and Nicobar Islands",
             "image": "/assets/kerala_sadya.jpg",
@@ -9238,20 +6470,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Andaman and Nicobar Islands Spiced Roast",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Island King Crab and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Island King Crab",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Coconut Fish Curry",
             "regionalOrigin": "Island Villages",
@@ -9277,21 +6495,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Andaman and Nicobar Islands Railway Platter",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Fresh Coconut Milk",
-              "Wild Pandan Leaves",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Jungle Fish Preserve",
             "regionalOrigin": "Island Forests",
             "tag": "Colonial Kitchen",
@@ -9315,21 +6518,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Andaman and Nicobar Islands Darbar Thali",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Island King Crab and unpolished indigenous grains.",
-            "ingredients": [
-              "Island King Crab",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Coconut Crab Curry",
             "regionalOrigin": "Island Coasts",
@@ -9355,21 +6543,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Andaman and Nicobar Islands Street Special",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Island King Crab and zesty chutneys.",
-            "ingredients": [
-              "Island King Crab",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bengali Shrimp Curry",
             "regionalOrigin": "Settler Villages",
             "tag": "Settler Kitchen",
@@ -9394,21 +6567,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Andaman and Nicobar Islands Chowk Plate",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Island King Crab and regional condiments.",
-            "ingredients": [
-              "Island King Crab",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Island Fish Fry",
             "regionalOrigin": "Port Blair Beaches",
             "tag": "Beach Stall",
@@ -9432,21 +6590,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Andaman and Nicobar Islands Botanical Tasting Course",
-            "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Island King Crab and Fresh Coconut Milk with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Island King Crab",
-              "Fresh Coconut Milk",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Island Coconut Heritage Revival",
             "regionalOrigin": "Island Farms",
@@ -9489,21 +6632,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Lakshadweep Hearth Platter",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Oceanic Skipjack Tuna and Island Coconut Cream, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Island Coconut Cream",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Lakshadweep Simmered Pot",
             "regionalOrigin": "Lakshadweep",
             "image": "/assets/kerala_sadya.jpg",
@@ -9527,20 +6655,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Lakshadweep Spiced Roast",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Oceanic Skipjack Tuna and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Lakshadweep Tuna-Coconut Mas",
             "regionalOrigin": "Lakshadweep Islands",
@@ -9567,21 +6681,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Lakshadweep Railway Platter",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Island Coconut Cream",
-              "Malabar Pepper",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Tuna Steamed Rice",
             "regionalOrigin": "Lakshadweep Villages",
             "tag": "Coastal Tradition",
@@ -9606,21 +6705,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi Lakshadweep Darbar Thali",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Oceanic Skipjack Tuna and unpolished indigenous grains.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Island Coconut Toddy",
             "regionalOrigin": "Lakshadweep Palms",
             "tag": "Palm Tradition",
@@ -9641,21 +6725,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 Lakshadweep Street Special",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Oceanic Skipjack Tuna and zesty chutneys.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Coconut Fish Curry",
             "regionalOrigin": "Lakshadweep Kitchens",
@@ -9681,21 +6750,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Lakshadweep Chowk Plate",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Oceanic Skipjack Tuna and regional condiments.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Coconut Halwa",
             "regionalOrigin": "Lakshadweep Festivals",
             "tag": "Festive Sweet",
@@ -9719,21 +6773,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Lakshadweep Botanical Tasting Course",
-            "regionalOrigin": "Lakshadweep",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Oceanic Skipjack Tuna and Island Coconut Cream with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Oceanic Skipjack Tuna",
-              "Island Coconut Cream",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Tuna Heritage Revival",
             "regionalOrigin": "Lakshadweep Islands",
@@ -9776,21 +6815,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Puducherry Hearth Platter",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Creole Vadouvan Herb Blend and Fresh Bay Lobster, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Fresh Bay Lobster",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Puducherry Simmered Pot",
             "regionalOrigin": "Puducherry",
             "image": "/assets/kerala_sadya.jpg",
@@ -9814,20 +6838,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Puducherry Spiced Roast",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Creole Vadouvan Herb Blend and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Pondy Fish Molly",
             "regionalOrigin": "Puducherry Coast",
@@ -9853,21 +6863,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Puducherry Railway Platter",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Fresh Bay Lobster",
-              "Baguette Loaves",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "French Colonial Fish Stew",
             "regionalOrigin": "Puducherry French Quarter",
             "tag": "French Colonial",
@@ -9892,21 +6887,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
           {
-            "name": "Swadeshi Puducherry Darbar Thali",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Creole Vadouvan Herb Blend and unpolished indigenous grains.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Puducherry French Bread",
             "regionalOrigin": "Puducherry Bakeries",
             "tag": "Colonial Bakery",
@@ -9930,21 +6910,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
-          {
-            "name": "Post-1947 Puducherry Street Special",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Creole Vadouvan Herb Blend and zesty chutneys.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Puducherry Coastal Crab Curry",
             "regionalOrigin": "Puducherry Coast",
@@ -9971,21 +6936,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Puducherry Chowk Plate",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Creole Vadouvan Herb Blend and regional condiments.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chicken Dum",
             "regionalOrigin": "Puducherry Markets",
             "tag": "Street Dish",
@@ -10009,21 +6959,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Puducherry Botanical Tasting Course",
-            "regionalOrigin": "Puducherry",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Creole Vadouvan Herb Blend and Fresh Bay Lobster with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Creole Vadouvan Herb Blend",
-              "Fresh Bay Lobster",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Millet Pongal Revival",
             "regionalOrigin": "Puducherry Farms",
@@ -10066,21 +7001,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Chandigarh Hearth Platter",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Tandoori Spices and Fresh Paneer, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Fresh Paneer",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Chandigarh Simmered Pot",
             "regionalOrigin": "Chandigarh",
             "image": "/assets/galouti_kebab.jpg",
@@ -10104,20 +7024,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Chandigarh Spiced Roast",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Tandoori Spices and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Makki di Roti & Sarson Saag",
             "regionalOrigin": "Pre-Capital Punjab Hearth",
@@ -10143,21 +7049,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Chandigarh Railway Platter",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Fresh Paneer",
-              "Black Urad Dal",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Chole Kulche",
             "regionalOrigin": "Grand Trunk Road",
             "tag": "Grand Trunk Road",
@@ -10181,21 +7072,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Chandigarh Darbar Thali",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Tandoori Spices and unpolished indigenous grains.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Lassi",
             "regionalOrigin": "Dairy Shops",
@@ -10221,21 +7097,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Chandigarh Street Special",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Tandoori Spices and zesty chutneys.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Partition Thali",
             "regionalOrigin": "Refugee Kitchens",
             "tag": "Refugee Kitchen",
@@ -10260,21 +7121,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Chandigarh Chowk Plate",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Tandoori Spices and regional condiments.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Tandoori Chicken",
             "regionalOrigin": "Capital City Dhabas",
             "tag": "Capital City Dhaba",
@@ -10298,21 +7144,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/awadhi_dum_biryani.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Chandigarh Botanical Tasting Course",
-            "regionalOrigin": "Chandigarh",
-            "image": "/assets/awadhi_dum_biryani.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Tandoori Spices and Fresh Paneer with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Tandoori Spices",
-              "Fresh Paneer",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Millet Sarson Revival",
             "regionalOrigin": "Chandigarh Farms",
@@ -10355,21 +7186,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Ancient Dadra and Nagar Haveli and Daman and Diu Hearth Platter",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Ancestral Recipe",
-            "description": "An authentic preparation showcasing Winter Root Tubers (Kand) and Earthen Clay Matka, prepared according to traditional seasonal rituals.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Earthen Clay Matka",
-              "Stone-Ground Spices",
-              "Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Documented in regional folk chronicles as a celebratory dish prepared during equinox festivals.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Royal Dadra and Nagar Haveli and Daman and Diu Simmered Pot",
             "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
             "image": "/assets/kerala_sadya.jpg",
@@ -10393,20 +7209,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/kerala_sadya.jpg",
         "signatureFlavor": "Aromatic cloves, black pepper, stone-ground coriander, caramelizing onions",
         "dishes": [
-          {
-            "name": "Historic Dadra and Nagar Haveli and Daman and Diu Spiced Roast",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/galouti_kebab.jpg",
-            "tag": "Trade Era Classic",
-            "description": "Infused with Winter Root Tubers (Kand) and aromatic whole spices, refined through trade exchange.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Roasted Spices",
-              "Fresh Country Greens"
-            ],
-            "culturalAnecdote": "Traveled along caravan and river routes, praised by visiting merchants.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Dhebra",
             "regionalOrigin": "Daman Households",
@@ -10432,21 +7234,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Pungent mustard or sesame oil, roasted cumin, sharp pepper, sour country fruits",
         "dishes": [
           {
-            "name": "Heritage Dadra and Nagar Haveli and Daman and Diu Railway Platter",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Canteen Heritage",
-            "description": "A hearty traveler's meal prepared with coarse local grains and spiced gravy.",
-            "ingredients": [
-              "Earthen Clay Matka",
-              "Fresh Coast Pomfret",
-              "Coriander",
-              "Country Tamarind"
-            ],
-            "culturalAnecdote": "Served in clay kullhads at historic junction stations across the province.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Bafat",
             "regionalOrigin": "Daman Portuguese Kitchens",
             "tag": "Colonial Daman",
@@ -10470,21 +7257,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Pure desi ghee, wild forest honey, crushed green cardamom, roasted lentils",
         "dishes": [
-          {
-            "name": "Swadeshi Dadra and Nagar Haveli and Daman and Diu Darbar Thali",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Nationalist Renaissance",
-            "description": "Crafted from local Winter Root Tubers (Kand) and unpolished indigenous grains.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Unpolished Rice / Millets",
-              "Ghee",
-              "Jaggery"
-            ],
-            "culturalAnecdote": "Celebrated in community addas and literary meetings as the true taste of the soil.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Daman Portuguese-Influenced Fish Curry",
             "regionalOrigin": "Daman Coast",
@@ -10511,21 +7283,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Smoky char, charred tomato sweetness, rich butter, whole garam masala",
         "dishes": [
           {
-            "name": "Post-1947 Dadra and Nagar Haveli and Daman and Diu Street Special",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Street Revolution",
-            "description": "An iconic mid-century street preparation featuring Winter Root Tubers (Kand) and zesty chutneys.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Pungent Chilies",
-              "Tangy Chutney",
-              "Crispy Bread"
-            ],
-            "culturalAnecdote": "Became an everyday democratic equalizer where people of all walks of life ate side by side.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Fish Caldine",
             "regionalOrigin": "Daman Coast",
             "tag": "Portuguese Coastal",
@@ -10550,21 +7307,6 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Tangy chaat spices, toasted pav or flatbreads, crunchy sev, hot chili tempering",
         "dishes": [
           {
-            "name": "Iconic 1980s Dadra and Nagar Haveli and Daman and Diu Chowk Plate",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/bedmi_kachori.jpg",
-            "tag": "Urban Sensation",
-            "description": "Quick, spicy, and satisfying, highlighting Winter Root Tubers (Kand) and regional condiments.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Chaat Masala",
-              "Mint Chutney",
-              "Crispy Fritters"
-            ],
-            "culturalAnecdote": "The soundtrack of sizzling oil and clinking spoons defined 1980s evening bazaars.",
-            "accuracy": "placeholder_not_verifiable"
-          },
-          {
             "name": "Sev Usal",
             "regionalOrigin": "Dadra & Nagar Haveli Stalls",
             "tag": "Gujarati Snack",
@@ -10588,21 +7330,6 @@ export const CULINARY_DATABASE = {
         "signatureImage": "/assets/dal_baati_churma.jpg",
         "signatureFlavor": "Nutty heirloom grains, single-estate cold-pressed oils, wild botanical accents",
         "dishes": [
-          {
-            "name": "Modern Dadra and Nagar Haveli and Daman and Diu Botanical Tasting Course",
-            "regionalOrigin": "Dadra and Nagar Haveli and Daman and Diu",
-            "image": "/assets/dal_baati_churma.jpg",
-            "tag": "Contemporary Revival",
-            "description": "Celebrating Winter Root Tubers (Kand) and Earthen Clay Matka with modern culinary craftsmanship and sustainable sourcing.",
-            "ingredients": [
-              "Winter Root Tubers (Kand)",
-              "Earthen Clay Matka",
-              "Foraged Wild Herbs",
-              "A2 Desi Ghee / Cold Pressed Oil"
-            ],
-            "culturalAnecdote": "Featured in international culinary showcases as a testament to India's agricultural biodiversity.",
-            "accuracy": "placeholder_not_verifiable"
-          },
           {
             "name": "Bajra Rotla Revival",
             "regionalOrigin": "Dadra & Nagar Haveli Farms",

@@ -167,7 +167,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Imperial Awadhi Yakhni Pulao",
             "regionalOrigin": "Agra & Lucknow",
-            "image": "/assets/awadhi_dum_biryani.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1700_imperial-awadhi-yakhni-pulao.jpg",
             "tag": "Royal Banquet",
             "description": "Fragrant long-grain rice par-cooked in an intensely spiced clarified mutton bone broth, finished with fried onions, crushed mace, and a drop of pure kewra water.",
             "ingredients": [
@@ -184,7 +184,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Pasanda Kebab on Sheermal",
             "regionalOrigin": "Old Agra",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1700_pasanda-kebab-on-sheermal.jpg",
             "tag": "Court Speciality",
             "description": "Flattened tender lamb steaks marinated overnight in strained yogurt, raw papaya paste, and royal potli masala, grilled gently on tawa and served over saffron-rubbed Sheermal flatbread.",
             "ingredients": [
@@ -226,7 +226,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Lucknowi Galouti Kebab",
             "regionalOrigin": "Lucknow (Chowk)",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1765_lucknowi-galouti-kebab.webp",
             "tag": "Nawabi Legend",
             "description": "Finely minced lamb passed through silk cloth seven times, infused with over 160 aromatic herbs and raw green papaya, shallow-fried on a concave copper tawa until it liquefies on the tongue.",
             "ingredients": [
@@ -252,7 +252,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Banarasi Bedmi Kachori & Hing Aloo",
             "regionalOrigin": "Varanasi (Kashi)",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1857_banarasi-bedmi-kachori-hing-aloo.webp",
             "tag": "Temple Street Heritage",
             "description": "Crisp puffed whole wheat flatbreads stuffed with spiced urad dal paste, served beside a rich, gravy-soaked potato curry simmered with whole cumin, fenugreek, and fragrant roasted hing.",
             "ingredients": [
@@ -295,7 +295,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Rampuri Taar Korma",
             "regionalOrigin": "Rampur",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1911_rampuri-taar-korma.jpg",
             "tag": "Princely Feast",
             "description": "A deeply aromatic mutton curry slow-cooked until the rich bone marrow dissolves into a silky, glistening sauce (\"taar\" meaning single thread consistency).",
             "ingredients": [
@@ -336,7 +336,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Aminabad Tunday Kebab",
             "regionalOrigin": "Lucknow (Aminabad)",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1947_aminabad-tunday-kebab.avif",
             "tag": "Street Legend",
             "description": "Buffalo or goat meat kebabs made with a legendary spice blend of 160 secret botanical ingredients, cooked on a large inverted iron tawa with pure desi ghee.",
             "ingredients": [
@@ -351,7 +351,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Banarasi Tamatar Chaat",
             "regionalOrigin": "Varanasi",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1947_banarasi-tamatar-chaat.jpg",
             "tag": "Iconic Street Snack",
             "description": "Mashed spicy tomatoes cooked on an iron griddle with boiled potatoes, hing, roasted cumin, and cashews, topped with a ladle of sweet sugar-tamarind syrup and crisp namakpara.",
             "ingredients": [
@@ -377,7 +377,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Royal Tokri (Basket) Chaat",
             "regionalOrigin": "Hazratganj, Lucknow",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1980_royal-tokri-chaat.jpg",
             "tag": "Modern Street Art",
             "description": "An intricate edible woven basket made of grated fried potato straws, loaded with sprouted lentils, spiced chickpeas, creamy sweet yogurt, green and date chutneys, and pomegranate seeds.",
             "ingredients": [
@@ -393,7 +393,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Benarasi Thandai with Malai",
             "regionalOrigin": "Varanasi Ghats",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1980_benarasi-thandai-with-malai.jpg",
             "tag": "Spiced Elixir",
             "description": "Thick creamy milk infused with stone-ground paste of almonds, fennel seeds, watermelon seeds, rose petals, black pepper, and topped with clotted malai and saffron.",
             "ingredients": [
@@ -419,7 +419,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Siddharthnagar Kala Namak Awadhi Biryani",
             "regionalOrigin": "Terai Belt & Lucknow",
-            "image": "/assets/awadhi_dum_biryani.jpg",
+            "image": "/assets/dishes/uttar-pradesh_2020_siddharthnagar-kala-namak-awadhi-biryani.jpg",
             "tag": "Heritage Grain Revival",
             "description": "An homage to the ancient black-husked Kala Namak rice of eastern UP, slow-cooked in a terracotta vessel with tender braised goat, saffron emulsion, and cold-pressed mustard oil.",
             "ingredients": [
@@ -435,7 +435,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Deconstructed Shahi Tukda with Gold Leaf",
             "regionalOrigin": "Contemporary Lucknow",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/uttar-pradesh_2020_deconstructed-shahi-tukda-with-gold-leaf.jpg",
             "tag": "Modern Heritage Dessert",
             "description": "Crisp ghee-fried brioche steeped in wild honey and saffron syrup, layered with stone-churned malai rabdi, silver leaf, and crushed Iranian pistachio dust.",
             "ingredients": [
@@ -496,7 +496,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Malabar Tharavu (Duck) Roast",
             "regionalOrigin": "Kuttanad Wetlands",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1700_malabar-tharavu-roast.jpg",
             "tag": "Backwater Classic",
             "description": "Succulent country duck slow-cooked with crushed garlic, shallots, coriander, and freshly roasted black peppercorns, roasted until the gravy clings thickly to the meat.",
             "ingredients": [
@@ -522,7 +522,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Fort Kochi Meen Moilee",
             "regionalOrigin": "Fort Kochi & Kottayam",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1765_fort-kochi-meen-moilee.jpg",
             "tag": "Colonial Fusion",
             "description": "Fresh pearl spot or seer fish gently poached in light coconut milk infused with ginger, green chilies, and turmeric, finished with thick first-press coconut cream and curry leaves.",
             "ingredients": [
@@ -564,7 +564,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Travancore Palace Avial",
             "regionalOrigin": "Thiruvananthapuram",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1857_travancore-palace-avial.jpg",
             "tag": "Sadya Crown Jewel",
             "description": "A harmonious medley of 13 indigenous vegetables (yam, plantain, drumstick, snake gourd) tossed in a raw coconut, cumin, and green chili paste, finished with sour curd and a raw drizzle of virgin coconut oil.",
             "ingredients": [
@@ -622,7 +622,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Kappa Vevichathu (Mashed Tapioca)",
             "regionalOrigin": "Central Kerala",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1911_kappa-vevichathu.webp",
             "tag": "Working Class Staple",
             "description": "Cassava roots boiled with turmeric, then coarsely mashed and tempered with a paste of coconut, shallots, garlic, and green chilies.",
             "ingredients": [
@@ -664,7 +664,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Kakkanadan Kakka Irachi (Clam Roast)",
             "regionalOrigin": "Vembanad Lake",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1947_kakkanadan-kakka-irachi.jpg",
             "tag": "Backwater Specialty",
             "description": "Tiny fresh water clams tossed in an iron skillet with cracked black pepper, garlic, slivered shallots, and fried coconut pieces until dry and deeply spiced.",
             "ingredients": [
@@ -690,7 +690,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Malabar Porotta & Beef Fry",
             "regionalOrigin": "Calicut & Kochi",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1980_malabar-porotta-beef-fry.jpg",
             "tag": "Street Food Religion",
             "description": "Paper-thin stretched dough coiled into spirals and beaten by hand into flaky layers, served piping hot with deeply caramelized, pepper-crusted beef cubes.",
             "ingredients": [
@@ -706,7 +706,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Erachi Pathiri",
             "regionalOrigin": "Malappuram",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1980_erachi-pathiri.jpg",
             "tag": "Mappila Delicacy",
             "description": "Steamed and shallow-fried rice flour parcels stuffed with spiced minced meat and onions, soaked in coconut milk before serving.",
             "ingredients": [
@@ -731,7 +731,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Pokkali Red Rice with Chemmeen Manga Curry",
             "regionalOrigin": "Ernakulam Coast",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_2020_pokkali-red-rice-with-chemmeen-manga-curry.jpg",
             "tag": "Ancient Biodiversity",
             "description": "Nutritious unpolished Pokkali red rice paired with sweet sea prawns simmered with firm raw country mangoes, coconut milk, and fresh curry leaves.",
             "ingredients": [
@@ -747,7 +747,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Pathila Thoran (Monsoon Wild Green Stir Fry)",
             "regionalOrigin": "Palakkad & Wayanad",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_2020_pathila-thoran.jpg",
             "tag": "Foraged Ayurveda",
             "description": "A traditional Karkidakam (monsoon) medicinal stir-fry made of ten wild, foraged backyard leaves tossed with fresh grated coconut, shallots, and green chilies.",
             "ingredients": [
@@ -791,7 +791,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Traditional Royal Ker Sangri",
             "regionalOrigin": "Thar Desert (Jodhpur/Bikaner)",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1700_traditional-royal-ker-sangri.webp",
             "tag": "Desert Survival Masterpiece",
             "description": "Sun-dried desert beans (sangri) and wild caper berries (ker) soaked overnight, sauteed in mustard oil with dry mango powder, red chilies, raisins, and roasted spices.",
             "ingredients": [
@@ -807,7 +807,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Bajra Raab & Khichdi",
             "regionalOrigin": "Shekhawati",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1700_bajra-raab-khichdi.jpg",
             "tag": "Ancestral Hearth",
             "description": "Coarsely pounded pearl millet simmered with yellow moong dal, served steaming hot with a generous well of melted yellow cow ghee and jaggery.",
             "ingredients": [
@@ -832,7 +832,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Authentic Campfire Jungli Maas",
             "regionalOrigin": "Mewar & Jaipur Shikar Camps",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1765_authentic-campfire-jungli-maas.jpg",
             "tag": "Royal Hunter Dish",
             "description": "Tender meat braised slowly in a massive pool of desi cow ghee with only whole dry Mathania red chilies and rock salt, without onion, garlic, or water.",
             "ingredients": [
@@ -847,7 +847,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Gatte ki Kadhi",
             "regionalOrigin": "Marwar",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1765_gatte-ki-kadhi.jpg",
             "tag": "Arid Kitchen Heritage",
             "description": "Poached gram flour dumplings spiced with ajwain and kasoori methi, simmered in a tangy yogurt and besan gravy tempered with mustard seeds and curry leaves.",
             "ingredients": [
@@ -873,7 +873,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Panchmel Dal Baati Churma",
             "regionalOrigin": "Mewar (Udaipur)",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1857_panchmel-dal-baati-churma.webp",
             "tag": "Signature Thali Heritage",
             "description": "Dough balls of coarse wheat flour baked on slow coals until the crust crackles, soaked in hot desi ghee, served with a stew of five lentils and sweet churma pounded with dry fruits.",
             "ingredients": [
@@ -915,7 +915,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Royal Mathania Laal Maas",
             "regionalOrigin": "Jaipur & Mehrangarh",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1911_royal-mathania-laal-maas.jpg",
             "tag": "Princely Masterpiece",
             "description": "Tender mutton pieces braised in a velvety crimson gravy of soaked Mathania chili paste, yogurt, and wild kachri, finished with a smoking charcoal dhungar infusion.",
             "ingredients": [
@@ -931,7 +931,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Safed Maas (Almond White Curry)",
             "regionalOrigin": "Mewar Palace",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1911_safed-maas.jpg",
             "tag": "Royal Contrast",
             "description": "The royal counterpoint to Laal Maas: tender meat cooked in a snowy white sauce of boiled onion paste, almonds, cashew nuts, and fresh cream spiced with white pepper.",
             "ingredients": [
@@ -957,7 +957,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Rawat ki Pyaaz Kachori",
             "regionalOrigin": "Jodhpur & Jaipur",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/rajasthan_1947_rawat-ki-pyaaz-kachori.jpg",
             "tag": "Legendary Street Snack",
             "description": "Flaky pastry shells filled with a savory mixture of finely chopped onions, boiled potatoes, crushed coriander seeds, fennel, and garam masala, fried slowly until golden brown.",
             "ingredients": [
@@ -1000,7 +1000,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Govind Gatta Curry (Stuffed Gram Flour Dumplings)",
             "regionalOrigin": "Jaipur",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1980_govind-gatta-curry.jpg",
             "tag": "Vegetarian Aristocracy",
             "description": "Silky gram flour rolls stuffed with a luxurious filling of mawa (khoya), chopped cashews, raisins, and mint, cooked in a royal saffron-scented yogurt gravy.",
             "ingredients": [
@@ -1016,7 +1016,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Papad ki Sabzi with Methi Dana",
             "regionalOrigin": "Bikaner",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_1980_papad-ki-sabzi-with-methi-dana.jpg",
             "tag": "Homestyle Heritage",
             "description": "Roasted urad dal papad pieces broken and quickly simmered in a spiced buttermilk broth with sprouted fenugreek seeds and dry red chilies.",
             "ingredients": [
@@ -1042,7 +1042,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Heirloom Bajra Baati with Churna Crumble",
             "regionalOrigin": "Western Thar",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_2020_heirloom-bajra-baati-with-churna-crumble.jpg",
             "tag": "Superfood Revival",
             "description": "Baatis crafted from organic single-origin Bajra, baked slowly and dipped in A2 Gir cow ghee, served with organic yellow dal and wild berry relish.",
             "ingredients": [
@@ -1057,7 +1057,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Artisanal Camel Milk Kheer",
             "regionalOrigin": "Bikaner Research Belt",
-            "image": "/assets/dal_baati_churma.jpg",
+            "image": "/assets/dishes/rajasthan_2020_artisanal-camel-milk-kheer.jpg",
             "tag": "Pastoral Innovation",
             "description": "Slightly salty, nutrient-dense camel milk slow-cooked with basmati rice, dates, and pistachios, offering a distinctive mineral depth.",
             "ingredients": [
@@ -1101,7 +1101,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Ahom Masor Tenga with Ou Tenga",
             "regionalOrigin": "Brahmaputra Valley (Sivasagar)",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1700_ahom-masor-tenga-with-ou-tenga.jpg",
             "tag": "Ancient Royal Soups",
             "description": "Fresh river carp cooked in a light, refreshing sour broth made with slices of wild elephant apple (ou tenga), tempered with fenugreek and mustard seeds in pure mustard oil.",
             "ingredients": [
@@ -1117,7 +1117,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Chunga Saul (Bamboo Tube Steamed Rice)",
             "regionalOrigin": "Upper Assam",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1700_chunga-saul.jpg",
             "tag": "Forest Culinary Ingenuity",
             "description": "Fragrant Joha or Bora sticky rice soaked in water, stuffed inside green hollow bamboo tubes with banana leaf stoppers, and roasted slowly over wood embers.",
             "ingredients": [
@@ -1142,7 +1142,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Omita Diya Khar",
             "regionalOrigin": "Kamrup & Nagaon",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1765_omita-diya-khar.jpg",
             "tag": "Alkaline Starter",
             "description": "Finely chopped raw papaya cooked with the filtered ash water of sun-dried Bhimkol banana skins, tempered with whole black mustard seeds and green chilies.",
             "ingredients": [
@@ -1158,7 +1158,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Dhekia Xak Bhaja with Small River Fish",
             "regionalOrigin": "Majuli Island",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1765_dhekia-xak-bhaja-with-small-river-fish.jpg",
             "tag": "Wild Riverine Bounty",
             "description": "Tender fiddlehead ferns foraged from riverbanks, lightly sautéed in mustard oil with tiny freshwater fish, turmeric, and slit green chilies.",
             "ingredients": [
@@ -1183,7 +1183,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Hahor Mangxo Kumura Diya",
             "regionalOrigin": "Jorhat & Sivasagar",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1857_hahor-mangxo-kumura-diya.webp",
             "tag": "Harvest Celebration Feast",
             "description": "Country duck braised with large chunks of sweet winter ash gourd, whole black peppercorns, crushed ginger, and whole spices until the gourd absorbs all the savory duck juices.",
             "ingredients": [
@@ -1199,7 +1199,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Orthodox Assam Tea with Steamed Pitha",
             "regionalOrigin": "Dibrugarh Tea Estates",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1857_orthodox-assam-tea-with-steamed-pitha.jpg",
             "tag": "Colonial Plantation Heritage",
             "description": "Strong, malty black Assam tea brewed from fresh estate leaves, paired with crisp rice pithas stuffed with grated coconut and toasted black sesame seeds.",
             "ingredients": [
@@ -1240,7 +1240,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Joha Saul Kheer with Bay Leaves",
             "regionalOrigin": "Barpeta",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1911_joha-saul-kheer-with-bay-leaves.jpg",
             "tag": "Festive Pudding",
             "description": "Fragrant heirloom Joha rice simmered slowly in creamy cow milk with bay leaves, green cardamom, and golden jaggery.",
             "ingredients": [
@@ -1265,7 +1265,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Gahori Khorisa",
             "regionalOrigin": "Dibrugarh & Dhemaji",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1947_gahori-khorisa.jpg",
             "tag": "Plains-Tribal Classic",
             "description": "Pork belly cubes cooked with crushed ginger, garlic, and generous ladles of khorisa (bamboo shoots fermented in mustard oil and salt), simmered until tender.",
             "ingredients": [
@@ -1281,7 +1281,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Pani Hamuk (Freshwater Snails in Black Dal)",
             "regionalOrigin": "Brahmaputra Marshes",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1947_pani-hamuk.avif",
             "tag": "Indigenous Delicacy",
             "description": "Cleaned river snails cooked with black lentils (mati mah) and wild herbs, eaten by sucking the sweet snail meat straight from the shell.",
             "ingredients": [
@@ -1307,7 +1307,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Kaji Nemu Diya Masor Tenga",
             "regionalOrigin": "Guwahati & Tezpur",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1980_kaji-nemu-diya-masor-tenga.jpg",
             "tag": "Citrus Sensation",
             "description": "River fish cooked in a clear, golden broth, taken off the fire and finished with fresh juice and aromatic rind of the elongated GI-tagged Kaji Nemu lemon.",
             "ingredients": [
@@ -1323,7 +1323,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Bhoot Jolokia Achar (Ghost Pepper Pickle)",
             "regionalOrigin": "Golaghat",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_1980_bhoot-jolokia-achar.jpg",
             "tag": "Fiery Legend",
             "description": "Whole ghost peppers sun-cured with bamboo shoots, mustard seeds, and pungent mustard oil in glass jars.",
             "ingredients": [
@@ -1349,7 +1349,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Smoked Rohu with 108 Wild Herbs (108 Xak)",
             "regionalOrigin": "Kaziranga Buffer Belt",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_2020_smoked-rohu-with-108-wild-herbs.jpg",
             "tag": "Botanical Heritage",
             "description": "Wood-smoked freshwater fish cooked with a collection of seasonally foraged wild riverbank herbs, wild mint, and black mustard.",
             "ingredients": [
@@ -1365,7 +1365,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Kaji Nemu & Black Rice Halwa",
             "regionalOrigin": "Majuli Artisan Labs",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/assam_2020_kaji-nemu-black-rice-halwa.webp",
             "tag": "Contemporary Assamese Dessert",
             "description": "Deep purple aromatic Chak-hao sticky rice slow-cooked with coconut milk, candied Kaji Nemu peel, and crushed cashews.",
             "ingredients": [
@@ -1896,7 +1896,8 @@ export const CULINARY_DATABASE = {
               "Byadgi Chilli"
             ],
             "culturalAnecdote": "The Kolhapuri masala carries a deep heat that is said to have been developed for royal kitchens.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/maharashtra_1947_kolhapuri-mutton-tambda-rassa.webp"
           }
         ]
       },
@@ -2136,7 +2137,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "A winter staple in Saurashtra, revived on modern millet menus.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/gujarat_2020_bajra-rotla-with-lasan-chutney.jpg"
           }
         ]
       }
@@ -2420,7 +2422,8 @@ export const CULINARY_DATABASE = {
               "Bisi Bele Powder"
             ],
             "culturalAnecdote": "Travellers on colonial-era routes ate it at dak bungalows, a practical one-pot meal.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/karnataka_1857_bisi-bele-bath.jpg"
           }
         ]
       },
@@ -2592,7 +2595,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Kursi Miyane (Nizam's Egg & Keema Appetiser)",
             "regionalOrigin": "Telangana (Hyderabad State)",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/telangana_1765_kursi-miyane.jpg",
             "tag": "Nizam Kitchen Recipe",
             "description": "A Nizam's-kitchen appetiser of boiled eggs stuffed with spiced minced meat, pinned on skewers like a little chair, then coated in beaten egg and deep-fried.",
             "ingredients": [
@@ -2719,7 +2722,8 @@ export const CULINARY_DATABASE = {
               "Mint"
             ],
             "culturalAnecdote": "Street stalls made the dum biryani a city-wide favourite in the 1980s.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/telangana_1980_hyderabadi-chicken-dum-biryani.jpg"
           }
         ]
       },
@@ -2743,7 +2747,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "Revived as sorghum returned to village and farm-to-table menus.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/telangana_2020_jowar-roti-with-gongura-chutney.jpg"
           }
         ]
       }
@@ -2883,7 +2888,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "Guntur's chilli trade shaped its fiery home cooking after Independence.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/andhra-pradesh_1947_guntur-chilli-chicken.jpg"
           }
         ]
       },
@@ -2932,7 +2938,8 @@ export const CULINARY_DATABASE = {
               "Tamarind"
             ],
             "culturalAnecdote": "Revived as a heritage grain dish on modern millet menus.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/andhra-pradesh_2020_ragi-sangati.jpg"
           }
         ]
       }
@@ -3088,7 +3095,8 @@ export const CULINARY_DATABASE = {
               "Almond"
             ],
             "culturalAnecdote": "Served at weddings and festive meals in Kashmiri households.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/jammu-and-kashmir_1947_modur-pulao.jpg"
           }
         ]
       },
@@ -3307,7 +3315,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "Leh's streets served momos to travellers passing through the high valleys.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/ladakh_1980_ladakhi-momo.jpg"
           }
         ]
       },
@@ -4040,7 +4049,8 @@ export const CULINARY_DATABASE = {
               "Spices"
             ],
             "culturalAnecdote": "Made during the monsoon, when colocasia leaves are plentiful.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/himachal-pradesh_1947_patrodu.jpg"
           }
         ]
       },
@@ -4152,7 +4162,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "A Garhwali staple, cooked in copper vessels in mountain kitchens.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_1765_kafuli.jpg"
           }
         ]
       },
@@ -4176,7 +4187,8 @@ export const CULINARY_DATABASE = {
               "Jambu"
             ],
             "culturalAnecdote": "Eaten in the hills during winter for warmth and protein.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_1857_bhatt-ki-churkani.jpg"
           }
         ]
       },
@@ -4200,7 +4212,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "Finger millet is grown on hill terraces and remains central to local meals.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_1911_mandua-roti.jpg"
           }
         ]
       },
@@ -4224,7 +4237,8 @@ export const CULINARY_DATABASE = {
               "Jakhiya"
             ],
             "culturalAnecdote": "A dish of roasted dal that carries a smoky, earthy flavour.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_1947_chainsoo.webp"
           }
         ]
       },
@@ -4248,7 +4262,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "A popular street snack sold from roadside stalls in the hill towns.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_1980_aloo-ke-gutke.jpg"
           }
         ]
       },
@@ -4272,7 +4287,8 @@ export const CULINARY_DATABASE = {
               "Cardamom"
             ],
             "culturalAnecdote": "Barnyard millet is a Himalayan heritage grain, revived in modern desserts.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/uttarakhand_2020_jhangora-kheer.jpg"
           }
         ]
       }
@@ -4363,7 +4379,8 @@ export const CULINARY_DATABASE = {
               "Green Chilli"
             ],
             "culturalAnecdote": "Made in Indore's Holkar-era kitchens when fresh corn was in season.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/madhya-pradesh_1857_bhutte-ka-kees.webp"
           }
         ]
       },
@@ -4437,7 +4454,8 @@ export const CULINARY_DATABASE = {
               "Green Chutney"
             ],
             "culturalAnecdote": "Indore's bazaar samosas became known for their thin, crisp pastry.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/madhya-pradesh_1980_indori-samosa.jpg"
           }
         ]
       },
@@ -4577,7 +4595,8 @@ export const CULINARY_DATABASE = {
               "Coriander"
             ],
             "culturalAnecdote": "Prepared for festivals and special family occasions.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_1911_bafauri.webp"
           }
         ]
       },
@@ -4601,7 +4620,8 @@ export const CULINARY_DATABASE = {
               "Cardamom"
             ],
             "culturalAnecdote": "Cooked to celebrate the harvest season.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_1947_chausela.jpg"
           }
         ]
       },
@@ -4625,7 +4645,8 @@ export const CULINARY_DATABASE = {
               "Tamarind Chutney"
             ],
             "culturalAnecdote": "Bazaar chaat became a popular evening snack in Raipur.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_1980_chila-tikki-chaat.jpg"
           }
         ]
       },
@@ -4649,7 +4670,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "Bastar's forest communities have cooked fermented bamboo shoots for generations.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_2020_bastar-bamboo-shoot-curry.jpg"
           }
         ]
       }
@@ -4739,7 +4761,8 @@ export const CULINARY_DATABASE = {
               "Green Chilli"
             ],
             "culturalAnecdote": "Foraged after the monsoon from the forest, the mushroom is a seasonal delicacy.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/jharkhand_1857_rugra-mushroom-curry.jpg"
           }
         ]
       },
@@ -4763,7 +4786,8 @@ export const CULINARY_DATABASE = {
               "Fennel"
             ],
             "culturalAnecdote": "Shared with Bihar, prepared for Chhath and seasonal festivals.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/jharkhand_1911_thekua.jpg"
           }
         ]
       },
@@ -4836,7 +4860,8 @@ export const CULINARY_DATABASE = {
               "Cashew"
             ],
             "culturalAnecdote": "Mahua trees are central to forest life, and the dried flowers have long been eaten as food.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/jharkhand_2020_mahua-laddoo.jpg"
           }
         ]
       }
@@ -4950,7 +4975,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "The wild kachri melon grows in the fields and is cooked into a tangy chutney.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/haryana_1911_kachri-chutney.webp"
           }
         ]
       },
@@ -4974,7 +5000,8 @@ export const CULINARY_DATABASE = {
               "Curry Leaves"
             ],
             "culturalAnecdote": "A cooling everyday dish served at dhabas and home tables.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/haryana_1947_chhachh-kadhi.jpg"
           }
         ]
       },
@@ -5188,7 +5215,8 @@ export const CULINARY_DATABASE = {
               "Amchur"
             ],
             "culturalAnecdote": "Street vendors made it a city staple, often eaten at breakfast.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/delhi_1980_chole-bhature.jpg"
           }
         ]
       },
@@ -5301,7 +5329,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "Fermentation has long been a way of preserving food in the Khasi hills.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/meghalaya_1857_tungrymbai.jpg"
           }
         ]
       },
@@ -5325,7 +5354,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "Prepared for festival gatherings in Khasi villages.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/meghalaya_1911_dohneiiong.jpg"
           }
         ]
       },
@@ -5349,7 +5379,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "A village snack made in the Garo Hills for special occasions.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/meghalaya_1947_pumaloi.jpg"
           }
         ]
       },
@@ -5891,7 +5922,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "Bamboo shoots are fermented in the forest and kept for long periods.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/mizoram_1911_bamboo-shoot-chutney.jpg"
           }
         ]
       },
@@ -5915,7 +5947,8 @@ export const CULINARY_DATABASE = {
               "Chilli"
             ],
             "culturalAnecdote": "A village feast dish, shared among families and neighbours.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/mizoram_1947_mizo-chicken-stew.jpg"
           }
         ]
       },
@@ -5939,7 +5972,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "Smoked over wood fires, a traditional way to preserve pork.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/mizoram_1980_vawksa-rep.jpg"
           }
         ]
       },
@@ -6027,7 +6061,8 @@ export const CULINARY_DATABASE = {
               "Herbs"
             ],
             "culturalAnecdote": "Associated with the Manikya royal kitchens of Tripura.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/tripura_1765_mui-bangui.jpg"
           }
         ]
       },
@@ -6051,7 +6086,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "Tripuri forest communities have cooked fermented bamboo for generations.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/tripura_1857_bamboo-shoot-chakhwi.jpg"
           }
         ]
       },
@@ -6075,7 +6111,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "A household dish made from the vegetables of each season.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/tripura_1911_tripuri-vegetable-stew.jpg"
           }
         ]
       },
@@ -6124,7 +6161,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "Sold at local markets as a slow-cooked specialty.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/tripura_1980_chicken-dum.jpg"
           }
         ]
       },
@@ -6236,7 +6274,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "Forest communities preserve bamboo shoots by fermenting them.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/arunachal-pradesh_1857_bamboo-shoot-pork.jpg"
           }
         ]
       },
@@ -6260,7 +6299,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "A preserve handed down through families for flavour through the year.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/arunachal-pradesh_1911_pehak.avif"
           }
         ]
       },
@@ -6284,7 +6324,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "Brought along border trade routes and became a staple in border towns.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/arunachal-pradesh_1947_thukpa.jpg"
           }
         ]
       },
@@ -6308,7 +6349,8 @@ export const CULINARY_DATABASE = {
               "Soy Sauce"
             ],
             "culturalAnecdote": "A bazaar favourite in border towns, shaped by trade with neighbouring communities.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/arunachal-pradesh_1980_arunachal-chicken-chowmein.jpg"
           }
         ]
       },
@@ -6470,7 +6512,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "Served in monastery kitchens during feasts.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/sikkim_1947_phagshapa.jpg"
           }
         ]
       },
@@ -6848,7 +6891,8 @@ export const CULINARY_DATABASE = {
               "Chilli"
             ],
             "culturalAnecdote": "Island families cooked fish curry with fresh coconut daily.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/lakshadweep_1947_coconut-fish-curry.jpg"
           }
         ]
       },
@@ -6963,7 +7007,8 @@ export const CULINARY_DATABASE = {
               "Green Chilli"
             ],
             "culturalAnecdote": "A coastal dish shaped by the French colonial presence in Puducherry.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/puducherry_1765_pondy-fish-molly.webp"
           }
         ]
       },
@@ -7012,7 +7057,8 @@ export const CULINARY_DATABASE = {
               "Water"
             ],
             "culturalAnecdote": "French-run bakeries introduced bread-making to the town.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/puducherry_1911_puducherry-french-bread.avif"
           }
         ]
       },
@@ -7037,7 +7083,8 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "Crab is a common part of the coastal cooking along Puducherry's shore.",
             "accuracy": "corrected",
-            "fixNote": "Chettinad is Tamil Nadu; renamed to Puducherry attribution."
+            "fixNote": "Chettinad is Tamil Nadu; renamed to Puducherry attribution.",
+            "image": "/assets/dishes/puducherry_1947_puducherry-coastal-crab-curry.jpg"
           }
         ]
       },
@@ -7061,7 +7108,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "Sold at local markets and street stalls.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/puducherry_1980_chicken-dum.jpg"
           }
         ]
       },
@@ -7150,7 +7198,8 @@ export const CULINARY_DATABASE = {
               "Ginger"
             ],
             "culturalAnecdote": "The region's farming households ate this dish long before the planned city was built.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chandigarh_1765_makki-di-roti-sarson-saag.webp"
           }
         ]
       },
@@ -7390,7 +7439,8 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "Portuguese influence on Daman's coastal cooking shaped dishes like this one.",
             "accuracy": "corrected",
-            "fixNote": "Dhokla is Gujarati, not a Daman/DNH origin dish; replaced with coastal local dish."
+            "fixNote": "Dhokla is Gujarati, not a Daman/DNH origin dish; replaced with coastal local dish.",
+            "image": "/assets/dishes/dadra-and-nagar-haveli-and-daman-and-diu_1911_daman-portuguese-influenced-fish-curry.jpg"
           }
         ]
       },
@@ -7414,7 +7464,8 @@ export const CULINARY_DATABASE = {
               "Green Chilli"
             ],
             "culturalAnecdote": "A Portuguese-style fish dish found along Daman's coast.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/dadra-and-nagar-haveli-and-daman-and-diu_1947_fish-caldine.jpg"
           }
         ]
       },

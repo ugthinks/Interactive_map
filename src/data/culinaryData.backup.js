@@ -209,7 +209,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Awadhi Gosht Dum Biryani",
             "regionalOrigin": "Lucknow",
-            "image": "/assets/awadhi_dum_biryani.jpg",
+            "image": "/assets/dishes/uttar-pradesh_1765_awadhi-gosht-dum-biryani.jpg",
             "tag": "Imperial Invention",
             "description": "Layered spiced mutton and aged basmati rice sealed inside a heavy lagan with kneaded atta dough, gently cooked over slow embers with embers heaped onto the lid so the fragrance recirculates endlessly.",
             "ingredients": [
@@ -479,7 +479,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Thalassery Mutton Dum Biryani",
             "regionalOrigin": "Malabar Coast (Kannur/Thalassery)",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/kerala_1700_thalassery-mutton-dum-biryani.jpg",
             "tag": "Spice-Trade Tradition",
             "description": "Made with short, fragrant Jeerakasala (Khaima) rice rather than basmati, layered with spiced mutton braised in fried onions, green chilies, and coconut ghee, sealed with a banana leaf inside an earthen pot.",
             "ingredients": [
@@ -1225,7 +1225,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Traditional Assamese Til Pitha",
             "regionalOrigin": "Majuli & Golaghat",
-            "image": "/assets/bedmi_kachori.jpg",
+            "image": "/assets/dishes/assam_1911_traditional-assamese-til-pitha.jpg",
             "tag": "Bihu Sacred Sweet",
             "description": "Glutinous Bora rice flour spread thinly over an iron griddle, filled with roasted black sesame seeds sweetened with melted jaggery, and skillfully rolled into cylindrical batons.",
             "ingredients": [
@@ -1407,7 +1407,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Royal West Bengal Simmered Pot",
             "regionalOrigin": "West Bengal",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/west-bengal_1700_royal-west-bengal-simmered-pot.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -2226,7 +2226,8 @@ export const CULINARY_DATABASE = {
               "Sugar"
             ],
             "culturalAnecdote": "Chicory was often added to stretch coffee supplies, and the drink became a railway canteen staple.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/tamil-nadu_1857_filter-coffee.jpg"
           }
         ]
       },
@@ -2509,7 +2510,8 @@ export const CULINARY_DATABASE = {
               "Byadgi Chilli"
             ],
             "culturalAnecdote": "Coastal families used kokum to sour their curries before tamarind became common.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/karnataka_1980_mangalorean-fish-curry.jpg"
           }
         ]
       },
@@ -2905,7 +2907,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "Restaurants served it as a set meal, with many small courses on a single leaf.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/andhra-pradesh_1980_andhra-meals.jpg"
           }
         ]
       },
@@ -2994,7 +2997,8 @@ export const CULINARY_DATABASE = {
               "Yogurt"
             ],
             "culturalAnecdote": "The wazwan feast was prepared by master cooks called wazas for Mughal-era court banquets.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/jammu-and-kashmir_1765_wazwan-rista.jpg"
           },
           {
             "name": "Rogan Josh",
@@ -3099,7 +3103,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Tabak Maaz (Fried Lamb Ribs)",
             "regionalOrigin": "Jammu and Kashmir (Kashmir Valley)",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/jammu-and-kashmir_1980_tabak-maaz.jpg",
             "tag": "Wazwan Signature",
             "description": "Lamb ribs simmered in spiced water or yoghurt until tender, then dipped in a yoghurt batter and fried crisp in ghee. A core course of the Kashmiri wazwan feast.",
             "ingredients": [
@@ -3228,7 +3232,8 @@ export const CULINARY_DATABASE = {
               "Milk"
             ],
             "culturalAnecdote": "Churned in a wooden butter-tea churn and drunk by caravan travellers.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/ladakh_1857_gur-gur-chai.png"
           }
         ]
       },
@@ -3441,7 +3446,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "The stuffed fish reflects the Portuguese-influenced preparations found along the coast.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/goa_1911_fish-recheado.jpg"
           }
         ]
       },
@@ -3655,7 +3661,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "A breakfast staple sold from early-morning stalls in Patna.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/bihar_1947_sattu-paratha.jpg"
           }
         ]
       },
@@ -3769,7 +3776,8 @@ export const CULINARY_DATABASE = {
               "Panch Phoron"
             ],
             "culturalAnecdote": "Offered as part of the Mahaprasad at the Jagannath temple in Puri.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/odisha_1765_dalma.jpg"
           }
         ]
       },
@@ -3868,7 +3876,8 @@ export const CULINARY_DATABASE = {
               "Chhena"
             ],
             "culturalAnecdote": "Urban restaurants in Bhubaneswar and Cuttack adapted the home thali for travellers.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/odisha_1980_odia-thali.jpg"
           }
         ]
       },
@@ -3956,7 +3965,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "A traditional hill breakfast, steamed slowly in a pot over a wood fire.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/himachal-pradesh_1765_siddu.jpg"
           }
         ]
       },
@@ -3980,7 +3990,8 @@ export const CULINARY_DATABASE = {
               "Garam Masala"
             ],
             "culturalAnecdote": "Developed in the hill stations where British officers and locals shared the table.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/himachal-pradesh_1857_chha-gosht.jpg"
           }
         ]
       },
@@ -4376,7 +4387,8 @@ export const CULINARY_DATABASE = {
               "Sugar Syrup"
             ],
             "culturalAnecdote": "The classic Indore breakfast, eaten at roadside stalls early in the morning.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/madhya-pradesh_1911_poha-jalebi.jpg"
           }
         ]
       },
@@ -4515,7 +4527,8 @@ export const CULINARY_DATABASE = {
               "Green Chilli"
             ],
             "culturalAnecdote": "A household breakfast, cooked fresh on a flat iron tawa.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_1765_chila.jpg"
           }
         ]
       },
@@ -4539,7 +4552,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "Eaten in the monsoon, when fresh steamed food is most comforting.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chhattisgarh_1857_faraa.jpg"
           }
         ]
       },
@@ -4886,7 +4900,8 @@ export const CULINARY_DATABASE = {
               "Jaggery"
             ],
             "culturalAnecdote": "A winter dish that keeps the body warm during cold months.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/haryana_1765_bajra-khichdi.jpg"
           }
         ]
       },
@@ -4983,7 +4998,8 @@ export const CULINARY_DATABASE = {
               "Jaggery"
             ],
             "culturalAnecdote": "A village feast dish served with white butter and jaggery on the side.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/haryana_1980_haryanvi-saag-thali.jpg"
           }
         ]
       },
@@ -5097,7 +5113,8 @@ export const CULINARY_DATABASE = {
               "Tamarind Chutney"
             ],
             "culturalAnecdote": "The lanes of Chandni Chowk made chaat a favourite of the city's bazaars.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/delhi_1857_chandni-chowk-chaat.jpg"
           }
         ]
       },
@@ -5356,7 +5373,8 @@ export const CULINARY_DATABASE = {
               "Chilli"
             ],
             "culturalAnecdote": "Sold fresh at hill markets, grilled over charcoal.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/meghalaya_1980_khasi-pork-sausage.jpg"
           }
         ]
       },
@@ -5494,7 +5512,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "One of the world's hottest chillies, used sparingly in Naga cooking.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/nagaland_1911_naga-king-chilli-chutney.jpg"
           }
         ]
       },
@@ -5518,7 +5537,8 @@ export const CULINARY_DATABASE = {
               "Garlic"
             ],
             "culturalAnecdote": "A simple daily dish, cooked in the village household.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/nagaland_1947_galho.jpg"
           }
         ]
       },
@@ -5542,7 +5562,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "Sold at village markets as a preserved, long-lasting food.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/nagaland_1980_naga-chicken-pickle.jpg"
           }
         ]
       },
@@ -5705,7 +5726,8 @@ export const CULINARY_DATABASE = {
               "Salt"
             ],
             "culturalAnecdote": "A fermented fish dish made in villages to preserve fish through the seasons.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/manipur_1947_ngari.jpg"
           }
         ]
       },
@@ -5729,7 +5751,8 @@ export const CULINARY_DATABASE = {
               "Mustard Oil"
             ],
             "culturalAnecdote": "Sold at Imphal markets and home kitchens.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/manipur_1980_manipuri-fish-curry.png"
           }
         ]
       },
@@ -5753,7 +5776,8 @@ export const CULINARY_DATABASE = {
               "Coconut"
             ],
             "culturalAnecdote": "Manipur's black rice is being revived by local farmers and chefs.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/manipur_2020_black-rice-heritage-revival.jpg"
           }
         ]
       }
@@ -5817,7 +5841,8 @@ export const CULINARY_DATABASE = {
               "Chilli"
             ],
             "culturalAnecdote": "A simple hill dish, cooked daily in Mizo households.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/mizoram_1765_bai.jpg"
           }
         ]
       },
@@ -6494,7 +6519,8 @@ export const CULINARY_DATABASE = {
               "Ghee"
             ],
             "culturalAnecdote": "Sikkim's buckwheat is being revived by organic farmers.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/sikkim_2020_buckwheat-heritage-revival.png"
           }
         ]
       }
@@ -6559,7 +6585,8 @@ export const CULINARY_DATABASE = {
               "Curry Leaves"
             ],
             "culturalAnecdote": "Island fishing families cooked it with coconuts from their own trees.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/andaman-and-nicobar-islands_1765_coconut-fish-curry.jpg"
           }
         ]
       },
@@ -6583,7 +6610,8 @@ export const CULINARY_DATABASE = {
               "Tamarind"
             ],
             "culturalAnecdote": "Preserved fish was taken on colonial-era voyages across the islands.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/andaman-and-nicobar-islands_1857_jungle-fish-preserve.jpg"
           }
         ]
       },
@@ -6748,7 +6776,8 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "A traditional island breakfast, eaten with flatbread or rice.",
             "accuracy": "corrected",
-            "fixNote": "Replaced Maldivian Mas Huni; use locally grounded tuna-coconut preparation."
+            "fixNote": "Replaced Maldivian Mas Huni; use locally grounded tuna-coconut preparation.",
+            "image": "/assets/dishes/lakshadweep_1765_lakshadweep-tuna-coconut-mas.jpg"
           }
         ]
       },
@@ -6772,7 +6801,8 @@ export const CULINARY_DATABASE = {
               "Spices"
             ],
             "culturalAnecdote": "A coastal dish cooked on island hearths using the day's catch.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/lakshadweep_1857_tuna-steamed-rice.jpg"
           }
         ]
       },
@@ -6793,7 +6823,8 @@ export const CULINARY_DATABASE = {
               "Coconut Palm Sap"
             ],
             "culturalAnecdote": "Collected from palms on the islands, where coconut is central to life.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/lakshadweep_1911_island-coconut-toddy.jpg"
           }
         ]
       },
@@ -6841,7 +6872,8 @@ export const CULINARY_DATABASE = {
               "Cardamom"
             ],
             "culturalAnecdote": "Prepared at festivals and family celebrations on the islands.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/lakshadweep_1980_coconut-halwa.jpg"
           }
         ]
       },
@@ -6865,7 +6897,8 @@ export const CULINARY_DATABASE = {
               "Chilli"
             ],
             "culturalAnecdote": "Island chefs are reviving traditional tuna dishes for visitors.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/lakshadweep_2020_tuna-heritage-revival.jpg"
           }
         ]
       }
@@ -6954,7 +6987,8 @@ export const CULINARY_DATABASE = {
               "Wine"
             ],
             "culturalAnecdote": "Developed in the French Quarter, where French and Tamil cooking met.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/puducherry_1857_french-colonial-fish-stew.jpg"
           }
         ]
       },
@@ -7190,7 +7224,8 @@ export const CULINARY_DATABASE = {
               "Roti"
             ],
             "culturalAnecdote": "Refugee families set up community kitchens serving thalis after Partition.",
-            "accuracy": "strong_state_attribution_date_approximate"
+            "accuracy": "strong_state_attribution_date_approximate",
+            "image": "/assets/dishes/chandigarh_1947_partition-thali.png"
           }
         ]
       },

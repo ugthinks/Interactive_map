@@ -246,7 +246,6 @@ html, body {
 /* Island & Territory Markers */
 .territory-pin {
   cursor: pointer;
-  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 .territory-pin circle {
@@ -254,10 +253,6 @@ html, body {
   stroke: #ffffff;
   stroke-width: 1.5;
   filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.8));
-}
-
-.territory-pin:hover {
-  transform: scale(1.35);
 }
 
 .territory-pin:hover circle {

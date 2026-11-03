@@ -391,3 +391,18 @@
     font-size: 13px;
   }
 }
+
+/* ==========================================================
+   RESTORE DARK IMPERIAL BACKDROP
+   ========================================================== */
+
+.state-canvas-backdrop {
+  background: radial-gradient(
+    circle at 50% 45%,
+    rgba(8, 6, 5, 0.88) 0%,
+    rgba(4, 3, 3, 0.97) 100%
+  ) !important;
+
+  backdrop-filter: blur(9px) brightness(0.78);
+  -webkit-backdrop-filter: blur(9px) brightness(0.78);
+}

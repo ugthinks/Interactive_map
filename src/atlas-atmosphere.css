@@ -1,0 +1,28 @@
+/* Decorative perimeter engravings. This layer is intentionally non-interactive
+   and sits behind the map; it does not alter the map, markers, watch or controls. */
+.atlas-viewport::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("/assets/atlas-ornaments.png");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
+/* Narrow / portrait layouts have very little outer margin, so tone the artwork down. */
+@media (max-width: 1100px), (max-aspect-ratio: 5 / 4) {
+  .atlas-viewport::before {
+    background-size: 100% 100%;
+    opacity: 0.42;
+  }
+}
+
+@media (max-width: 760px) {
+  .atlas-viewport::before {
+    opacity: 0.20;
+  }
+}

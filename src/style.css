@@ -1370,3 +1370,38 @@ body.theme-1700 {
     letter-spacing: 0.25px;
   }
 }
+
+
+/* ========================================================================== 
+   ATLAS PERIMETER ENGRAVINGS — background-only decorative layer
+   This is appended to the main stylesheet so it loads automatically.
+   ========================================================================== */
+.atlas-viewport {
+  isolation: isolate;
+}
+
+.atlas-viewport::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("/assets/atlas-ornaments.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
+
+@media (max-width: 1100px), (max-aspect-ratio: 5 / 4) {
+  .atlas-viewport::before {
+    background-size: cover;
+    opacity: 0.42;
+  }
+}
+
+@media (max-width: 760px) {
+  .atlas-viewport::before {
+    opacity: 0.20;
+  }
+}

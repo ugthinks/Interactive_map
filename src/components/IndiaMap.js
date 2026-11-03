@@ -113,9 +113,19 @@ export class IndiaMap {
     }).join('');
   }
 
-    renderTerritoryPins() {
-    // Territory pins removed: small states are selected from the Atlas Index dropdown
-    return '';
+  renderTerritoryPins() {
+    // Generate accessible pins for smaller regions & islands
+    const smallTerritories = STATES_MAP.filter(s => s.isIslandOrSmall);
+    return smallTerritories.map(st => {
+      const [cx, cy] = st.centroid;
+      return `
+        <g class="territory-pin" data-id="${st.id}" data-name="${st.name}" transform="translate(${cx}, ${cy})">
+          <circle cx="0" cy="0" r="4.5" />
+          <circle cx="0" cy="0" r="1.8" fill="#14110e" />
+          <text y="-8" class="territory-label">${st.name}</text>
+        </g>
+      `;
+    }).join('');
   }
 
   attachEventListeners() {

@@ -40,13 +40,11 @@ export class FloatingPreview {
     this.regionEl.textContent = `${state.region} INDIA`;
     this.titleEl.textContent = state.name;
     this.eraTagEl.textContent = String(eraId);
-        const firstDish = eraContent.dishes && eraContent.dishes[0];
-    const heroImage = (firstDish && firstDish.image) || eraContent.signatureImage;
-    this.dishEl.textContent = (firstDish && firstDish.name) || eraContent.signatureDish;
+    this.dishEl.textContent = eraContent.signatureDish;
     this.flavorEl.textContent = eraContent.signatureFlavor;
 
     if (this.imgEl) {
-        this.imgEl.src = heroImage;
+      this.imgEl.src = eraContent.signatureImage;
       this.imgEl.onerror = () => {
         this.imgEl.src = '/assets/awadhi_dum_biryani.jpg';
       };

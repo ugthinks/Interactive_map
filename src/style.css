@@ -1294,3 +1294,79 @@ html, body {
   color: var(--gold-light);
   border-bottom-color: var(--gold-light);
 }
+
+.state-name {
+  font-family: var(--font-title);
+  font-weight: 700;
+  fill: #f0d68a;
+  text-anchor: middle;
+  stroke: #14110e;
+  stroke-width: 2px;
+  paint-order: stroke;
+  letter-spacing: 0.5px;
+}
+
+
+/* ==========================================================================
+   MONUMENT + STATE LABEL POLISH — reference-map scale and contrast
+   Appended overrides: keeps the existing era themes and interactions.
+   ========================================================================== */
+
+/* Lift the 1700 map outlines slightly so the geography reads on the dark ground. */
+body.theme-1700 {
+  --state-fill: #241c15;
+  --state-stroke: #765a3a;
+}
+
+.state-path {
+  stroke-width: 1.35px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.state-path:hover,
+.state-path.is-hovered {
+  stroke-width: 2.4px;
+}
+
+.state-path.is-selected {
+  stroke-width: 3.1px;
+}
+
+/* Each PNG keeps its own marble / sandstone / timber colour; only a restrained
+   warm rim-light and grounding shadow are added here. */
+.state-label {
+  pointer-events: none;
+  opacity: 1;
+}
+
+.state-label .monument-art {
+  opacity: 0.99;
+  filter:
+    drop-shadow(0 2px 2px rgba(0, 0, 0, 0.95))
+    drop-shadow(0 0 2px rgba(225, 171, 82, 0.48));
+}
+
+.state-name {
+  font-family: var(--font-title);
+  font-weight: 800;
+  fill: #f6d993;
+  text-anchor: middle;
+  stroke: #130d08;
+  stroke-width: 1.65px;
+  stroke-linejoin: round;
+  paint-order: stroke fill;
+  letter-spacing: 0.55px;
+  filter:
+    drop-shadow(0 1px 2px rgba(0, 0, 0, 0.98))
+    drop-shadow(0 0 3px rgba(222, 164, 70, 0.24));
+  pointer-events: none;
+}
+
+@media (max-width: 700px) {
+  /* At narrow widths retain the relative proportions but avoid heavy label halos. */
+  .state-name {
+    stroke-width: 1.25px;
+    letter-spacing: 0.25px;
+  }
+}

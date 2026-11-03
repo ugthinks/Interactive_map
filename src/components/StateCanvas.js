@@ -2,6 +2,7 @@
 // STATE IMMERSIVE CANVAS (Expanded Silhouette & Dedicated Culinary Realm)
 // ==========================================================================
 
+import { renderRecipeLinks } from '../data/sources.js';
 import { getStateData, getStateEraContent } from '../data/culinaryData.js';
 import { STATES_MAP } from '../data/mapData.js';
 
@@ -181,6 +182,9 @@ export class StateCanvas {
                 `).join('')}
               </div>
             ` : ''}
+
+            <!-- Recipe search links -->
+            ${renderRecipeLinks(activeDish, state.name)}
 
           </div>
         </div>

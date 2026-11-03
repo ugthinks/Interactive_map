@@ -1274,3 +1274,23 @@ html, body {
     height: auto;
   }
 }
+
+.recipe-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin-top: 14px;
+  font-size: 0.9rem;
+}
+
+.recipe-links a {
+  color: var(--gold-primary);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(212, 175, 85, 0.45);
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.recipe-links a:hover {
+  color: var(--gold-light);
+  border-bottom-color: var(--gold-light);
+}

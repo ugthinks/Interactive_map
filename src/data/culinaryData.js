@@ -1407,7 +1407,7 @@ export const CULINARY_DATABASE = {
           {
             "name": "Royal West Bengal Simmered Pot",
             "regionalOrigin": "West Bengal",
-            "image": "/assets/dishes/west-bengal_1700_royal-west-bengal-simmered-pot.jpg",
+            "image": "/assets/dishes/west-bengal_1700_royal-west-bengal-simmered-pot.webp",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -1977,9 +1977,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Gujarat Simmered Pot",
+            "name": "Kachchhi Kadhi-Khichdi & Bajra Rotla",
             "regionalOrigin": "Gujarat",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/gujarat_1700_kachchhi-kadhi-khichdi-bajra-rotla.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -2569,9 +2569,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Telangana Simmered Pot",
+            "name": "Jonna Rotte with Gongura Pachadi",
             "regionalOrigin": "Telangana",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/telangana_1700_jonna-rotte-with-gongura-pachadi.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -3370,9 +3370,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Goa Simmered Pot",
+            "name": "Goan Fish Curry & Rice",
             "regionalOrigin": "Goa",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/goa_1700_goan-fish-curry-rice.webp",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -4025,7 +4025,7 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "A festive dish, traditionally served at Dham feasts.",
             "accuracy": "strong_state_attribution_date_approximate",
-            "image": "/assets/dishes/himachal-pradesh_1911_madra.png"
+            "image": "/assets/dishes/himachal-pradesh_1911_madra.jpg"
           }
         ]
       },
@@ -4890,9 +4890,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Haryana Simmered Pot",
+            "name": "Haryanvi Maheri",
             "regionalOrigin": "Haryana",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/haryana_1700_haryanvi-maheri.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -5783,7 +5783,7 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "Sold at Imphal markets and home kitchens.",
             "accuracy": "strong_state_attribution_date_approximate",
-            "image": "/assets/dishes/manipur_1980_manipuri-fish-curry.png"
+            "image": "/assets/dishes/manipur_1980_manipuri-fish-curry.jpg"
           }
         ]
       },
@@ -6026,9 +6026,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Tripura Simmered Pot",
+            "name": "Tripuri Muya Awandru",
             "regionalOrigin": "Tripura",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/tripura_1700_tripuri-muya-awandru.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -6215,9 +6215,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Arunachal Pradesh Simmered Pot",
+            "name": "Monpa Zan (Millet Porridge)",
             "regionalOrigin": "Arunachal Pradesh",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/arunachal-pradesh_1700_monpa-zan-millet-porridge.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -6563,7 +6563,7 @@ export const CULINARY_DATABASE = {
             ],
             "culturalAnecdote": "Sikkim's buckwheat is being revived by organic farmers.",
             "accuracy": "strong_state_attribution_date_approximate",
-            "image": "/assets/dishes/sikkim_2020_buckwheat-heritage-revival.png"
+            "image": "/assets/dishes/sikkim_2020_buckwheat-heritage-revival.jpg"
           }
         ]
       }
@@ -6593,9 +6593,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Andaman and Nicobar Islands Simmered Pot",
+            "name": "Nicobari Fish, Yam & Coconut Meal",
             "regionalOrigin": "Andaman and Nicobar Islands",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/andaman-and-nicobar-islands_1700_nicobari-fish-yam-coconut-meal.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -6783,9 +6783,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Lakshadweep Simmered Pot",
+            "name": "Minicoy Mus Kavaab",
             "regionalOrigin": "Lakshadweep",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/lakshadweep_1700_minicoy-mus-kavaab.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -6972,9 +6972,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Puducherry Simmered Pot",
+            "name": "Tamil Coastal Meen Kuzhambu",
             "regionalOrigin": "Puducherry",
-            "image": "/assets/kerala_sadya.jpg",
+            "image": "/assets/dishes/puducherry_1700_tamil-coastal-meen-kuzhambu.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
@@ -7163,9 +7163,9 @@ export const CULINARY_DATABASE = {
         "signatureFlavor": "Cold-pressed seed oils, stone-ground indigenous spices, pure ghee or coconut milk",
         "dishes": [
           {
-            "name": "Royal Chandigarh Simmered Pot",
+            "name": "Punjab-Ambala Style Saag & Bajra Roti",
             "regionalOrigin": "Chandigarh",
-            "image": "/assets/galouti_kebab.jpg",
+            "image": "/assets/dishes/chandigarh_1700_punjab-ambala-style-saag-bajra-roti.jpg",
             "tag": "Court Tradition",
             "description": "Slow-simmered specialty highlighting local agricultural produce and aromatic herbs.",
             "ingredients": [
